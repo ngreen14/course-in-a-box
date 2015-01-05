@@ -21,9 +21,9 @@ The first module of this course, Module 0, will be an introduction into what we 
 <li>Provide a plethora of external resources on most of the topics addressed so that participants can get a deeper understanding of the topics that interest them most
 </ul>
 
-## How to Use This Course
+## How do I use this course?
 
-The course materials can be used to provide the basis for a facilitated distance learning course in which the instructor will be available to assist in assignments and inquiries, but the student should complete assignments and readings remotely. This course requires approximately 2 hours of study time per module during the both the instructor facilitated and self-taught learning format. The working language of the course is Spanish or English, though a large portion of assigned external readings are in English.
+The course materials provide the basis for a facilitated learning course in which the instructor will be available to assist in assignments and inquiries, but the student completes assignments and readings remotely. After the first class is facilitated, materials will be made available for self-taught learning. This course requires approximately 2 hours of study time per module during the both the instructor facilitated and self-taught learning format. The working language of the course is Spanish or English, though a large portion of assigned external readings are in English.
 
 For each module, you will see the title of the module, a list of objectives, the original content background, readings, and assignments. For participant suggested reading, if as a participant you have suggestions for applicable readings in English or Spanish, please add them to the course discussion board topic entitled “Participant Suggested Reading” and include the applicable module number.
 
