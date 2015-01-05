@@ -65,6 +65,7 @@ Objectives: This module will discuss access to the Internet, with a particular f
 <li> What is the value of being connected and what is the cost of being disconnected to the Internet? 
 <li> How is inequality in our everyday lives reflected on the Internet? 
 <li> What are some initiatives increasing Internet access across the world?
+</ul>
 
 ### Module 8: Network Neutrality
 
@@ -72,6 +73,7 @@ Objectives: This module is an overview of the growingly important principle and 
 <ul> <li> What is net neutrality? Does everyone agree on the definition?
 <li> What’s the connection between access to Internet and net neutrality?
 <li> How is net neutrality addressed in internet governance?
+</ul>
 
 ### Module 9: The Right to Privacy Online
 
