@@ -49,6 +49,7 @@ Board members served as advisors throughout the process of developing this cours
 <li> Martin Waserman: Policy Manager for the Southern Cone at Google (Argentina)
 <li> Danny Weitzner: Director of the MIT CSAIL Decentralized Information Group (United States)
 <li> John Wilbanks: Chief Commons Officer at Sage Bionetworks
+</ul>
 
-## I'm in--how do I get started?
+##I'm in--how do I get started?
 Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to check out the syllabus and get started!
