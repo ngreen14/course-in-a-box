@@ -1,4 +1,4 @@
-**###Why Open Internet is Important for You**
+###**Why Open Internet is Important for You**
 
 Image: ”Open Wires” by opensource.com - licensed under CC BY-NC-SA 2.0
 
@@ -8,7 +8,7 @@ In the past few decades, the Internet has revolutionized people’s ability to a
 
 For a moment, think about how different your life would be without access to a free and open Internet. Would you be working with the same people? Would you have found the same job or school that you are at now? Would you be different at all? Chances are, that the Internet has changed your life and the lives of those around you more than you know. For those who have access to an open and free Internet, it provides access to education, governance tools, economic development, media and entertainment, health resources, and many other things. The Internet impacts our daily lives or our future lives, which is why it’s important for us to remember that protecting the future of Internet (and helping give Internet access to those who don’t have it) is necessary for protecting the future of our basic human rights and sustainability.  
 
-**###Human Rights Principles and the Internet**
+###**Human Rights Principles and the Internet**
 
 Image: "Eleanor Roosevelt and the United Nations Universal Declaration of Human Rights in Spanish”: Credit: UN Photo
 
@@ -21,7 +21,7 @@ UDHR, ICCPR, ICESCR and the American Convention on Human Rights guarantee the af
 In response to the increasing relevance of the Internet as a platform for expressing basic human rights, in 2011, the OAS Special Rapporteur on Freedom of Expression,along with the UN Special Rapporteur on Freedom of Opinion and Expression and free expression rapporteurs from Europe and Africa signed a joint declaration confirming that “freedom of expression applies to the Internet”. In July 2012 the UN Human Rights Council further confirmed that “the same rights that people have offline must also be protected online,” thus making the formerly mentioned UDHR, ICCPR, and the American Convention the basis of Open Internet principles. 
 
 
-**###What is the Open Internet and Other Principles for the Open Internet**
+###**What is the Open Internet and Other Principles for the Open Internet**
 
 Though there is no internationally agreed upon definition, the concept of “Open Internet” refers to the idea that the Internet is an open and free platform where all people can innovate and decide what to access and how to use it without interference and blocking. A number of organizations and bodies have also developed definitions that will be helpful to keep in mind throughout the course and when you’re creating your individual definitions. In 2005, the United States’ Federal Communications Commission (FCC) adopted four principles for the Open Internet that included consumers’ right to access lawful Internet content, run applications and services of their choosing, connect devices to the network, and choose network and service providers, though these principles are still being debated today.
 
