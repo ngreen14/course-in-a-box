@@ -1,15 +1,4 @@
-Module 0: Introduction to the Open Internet
-
-OBJECTIVES: This will serve as an introduction to the “Open Internet,” as well as to the issues that you will be advocating on behalf of. As an introduction, this module will be more reading intensive than the following skills building modules. By the end of the module, you should be able to answer the following questions:
-What is the Open Internet?
-Why do human rights principles and laws apply to the internet?
-Which human rights principles and laws apply to the internet? 
-What other principles apply to Open Internet?
-
-BACKGROUND:
-
-Why Open Internet is Important for You
-
+**Why Open Internet is Important for You**
 
 Image: ”Open Wires” by opensource.com - licensed under CC BY-NC-SA 2.0
 
@@ -19,8 +8,7 @@ In the past few decades, the Internet has revolutionized people’s ability to a
 
 For a moment, think about how different your life would be without access to a free and open Internet. Would you be working with the same people? Would you have found the same job or school that you are at now? Would you be different at all? Chances are, that the Internet has changed your life and the lives of those around you more than you know. For those who have access to an open and free Internet, it provides access to education, governance tools, economic development, media and entertainment, health resources, and many other things. The Internet impacts our daily lives or our future lives, which is why it’s important for us to remember that protecting the future of Internet (and helping give Internet access to those who don’t have it) is necessary for protecting the future of our basic human rights and sustainability.  
 
-Human Rights Principles and the Internet
-
+**Human Rights Principles and the Internet**
 
 Image: "Eleanor Roosevelt and the United Nations Universal Declaration of Human Rights in Spanish”: Credit: UN Photo
 
@@ -33,7 +21,7 @@ UDHR, ICCPR, ICESCR and the American Convention on Human Rights guarantee the af
 In response to the increasing relevance of the Internet as a platform for expressing basic human rights, in 2011, the OAS Special Rapporteur on Freedom of Expression,along with the UN Special Rapporteur on Freedom of Opinion and Expression and free expression rapporteurs from Europe and Africa signed a joint declaration confirming that “freedom of expression applies to the Internet”. In July 2012 the UN Human Rights Council further confirmed that “the same rights that people have offline must also be protected online,” thus making the formerly mentioned UDHR, ICCPR, and the American Convention the basis of Open Internet principles. 
 
 
-What is the Open Internet and Other Principles for the Open Internet
+**What is the Open Internet and Other Principles for the Open Internet**
 
 Though there is no internationally agreed upon definition, the concept of “Open Internet” refers to the idea that the Internet is an open and free platform where all people can innovate and decide what to access and how to use it without interference and blocking. A number of organizations and bodies have also developed definitions that will be helpful to keep in mind throughout the course and when you’re creating your individual definitions. In 2005, the United States’ Federal Communications Commission (FCC) adopted four principles for the Open Internet that included consumers’ right to access lawful Internet content, run applications and services of their choosing, connect devices to the network, and choose network and service providers, though these principles are still being debated today.
 
@@ -48,24 +36,3 @@ Before you continue, please watch the following video by FreeNet on net neutrali
 The combination of international and regional declarations and national laws on human rights and the principles of access and net neutrality have created a surge of internet related human rights principles and ideals drafted by governments, civil society, and others. Some worth mentioning are the Internet Rights and Principles Coalition’s Charter of Human Rights and Principles for the Internet, Article 19’s International Standards on Freedom of Expression Online, CGI.br’s Principles for the Governance and Use of Internet, and the Council of Europe’s Declaration by the Committee of Ministers on Internet Governance Principles. 
 
 You will notice that some of these documents mention “governance” and “internet governance” when discussing proposed principles and rights for Open Internet and internet freedom. Internet governance is a catch all term for the ever-evolving development and implementation of principles, policies, and decision making activities conducted by various players (governments, civil society, private sector, technical community, academia, and others) that impact the Internet.   Internet governance decisions and discussions can range from a meeting with your local communications regulator to working in a large global multi-stakeholder meeting such as the Internet Governance Forum. In order to advocate for the Open Internet and create positive change in Internet policies and rules, it’s important to understand and be active in internet governance. All relevant Internet governance topics will be discussed in depth in the second half of this course. For a basic introduction to internet governance, please watch the following video creating by the Karisma Foundation: http://vimeo.com/78857704.
-
-
-ASSIGNED READING:
-Betancourt, Valeria. "Derechos Humanos en Línea: Una Agenda Aún Pendiente Para la Sociedad Civil de América Latina y El Caribe." Cuestión De Derechos 4 (2013): 93-104. 2013, available at: http://www.cuestiondederechos.org.ar/pdf/numero4/Articulo-7.pdf. 
-Organization of American States, Inter-American Commission on Human Rights, Freedom of Expression and the Internet [Executive Summary]: report of the Special Rapporteur for Freedom of Expression, 2013, available at: http://www.oas.org/es/cidh/expresion/docs/informes/internet/Resumen_Ejecutivo_Internet_FB.pdf. 
-
-OPTIONAL READING: 
-Organization of American States, Convención Americana sobre Derechos Humanos (Pacto de San José), 22 November 1969, available at: http://www.oas.org/dil/esp/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.htm. 
-UN General Assembly, Declaración Universal de Derechos Humanos, 10 December 1948, 217 A (III), available at: http://www.refworld.org/docid/3ae6b3712c.html.
-UN General Assembly, Pacto Internacional de Derechos Civiles y Políticos, 16 December 1966, United Nations, Treaty Series, vol. 999, p. 171, available at http://www2.ohchr.org/spanish/law/ccpr.htm.
-UN General Assembly, Pacto Internacional de Derechos Economicos, Sociales, y Culturales, 16 December 1966, United Nations, available at: http://www.ohchr.org/SP/ProfessionalInterest/Pages/CESCR.aspx 
-See “Proposed Principles Relating to Human Rights, Digital Rights, and Internet Governance” section of bibliography.
-
-PARTICIPANT SUGGESTED READING:
-
-ASSIGNMENTS:
-
-Activity 1: Looking at the definitions and principles for the Open Internet provided in the background material and using the required and additional readings, are there any principles or ideals that you think are missing from this definition? Anything you think should be excluded? If so, develop your own definition of the “Open Internet” and write no more than a paragraph on why you chose this definition.
-
-Activity 2: Now that you’ve got an idea of various Open Internet values and your own definition, do you know if your local, regional, or national government has developed any working definitions or statements related to the Internet and human rights, access to Internet, or network neutrality? Are they in line with your views of the Open Internet? Provide links to statements and your analysis in the discussion board.
-
