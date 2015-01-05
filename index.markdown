@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Creating and Maintaining an Open Internet for Everyoen
+## Creating and Maintaining an Open Internet for Everyone
 
 Today, the Internet is an integral part of everyday life, driving how we work, study, and socialize. The Internet facilitated an explosion in access to knowledge and information, but at the same time that the digital era empowered citizens to do and say more than ever before, it also made all of us more vulnerable to intrusions of all kinds. Technology has empowered governments and companies just as much as it has empowered us as citizens.
  
@@ -15,10 +15,10 @@ The first module of this course, Module 0, will be an introduction into what we 
 		
 ## What are the course objectives?
 <ul>
-<li>Train a new generation of thinkers to influence an open internet agenda using skill sets developed by global human rights advocacy organizations;<li>
-<li>Improve participants’ ability to use strategic planning methods for developing advocacy campaigns;<li>
-<li>Enhance participants’ basic understanding of core modern issues related to Open Internet<li>
-<li>Provide a plethora of external resources on most of the topics addressed so that participants can get a deeper understanding of the topics that interest them most<li>
+<li>Train a new generation of thinkers to influence an open internet agenda using skill sets developed by global human rights advocacy organizations;
+<li>Improve participants’ ability to use strategic planning methods for developing advocacy campaigns;
+<li>Enhance participants’ basic understanding of core modern issues related to Open Internet
+<li>Provide a plethora of external resources on most of the topics addressed so that participants can get a deeper understanding of the topics that interest them most
 </ul>
 
 ## Credits, Partnership, and Board
