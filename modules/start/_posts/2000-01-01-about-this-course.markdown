@@ -1,8 +1,4 @@
 ---
-title: How will this course work?
----
-
----
 title: Syllabus
 ---
 
