@@ -21,52 +21,34 @@ The first module of this course, Module 0, will be an introduction into what we 
 <li>Provide a plethora of external resources on most of the topics addressed so that participants can get a deeper understanding of the topics that interest them most
 </ul>
 
+## How to Use This Course
+
+The course materials can be used to provide the basis for a facilitated distance learning course in which the instructor will be available to assist in assignments and inquiries, but the student should complete assignments and readings remotely. This course requires approximately 2 hours of study time per module during the both the instructor facilitated and self-taught learning format. The working language of the course is Spanish or English, though a large portion of assigned external readings are in English.
+
+For each module, you will see the title of the module, a list of objectives, the original content background, readings, and assignments. For participant suggested reading, if as a participant you have suggestions for applicable readings in English or Spanish, please add them to the course discussion board topic entitled “Participant Suggested Reading” and include the applicable module number.
+
 ## Credits, Partnership, and Board
 
-The course curriculum and all original module content development were created by Natalie Green and Carolina Rossini. Module 7 and 7.1 Access to Internet was written by Edyael Casaperalta. This course was translated from English to Spanish by Gabriela Haymes.  
+The course curriculum and original module content development were created by Natalie Green and Carolina Rossini. Module 7 and 7.1 Access to Internet was written by Edyael Casaperalta. This course was translated from English to Spanish by Gabriela Haymes.  
  
 Partnerships: This course is hosted on the Peer to Peer University and the RedLaTam platform.
 
 Board members served as advisors throughout the process of developing this course from its inception to providing feedback on the curriculum, original content development, and awareness building for the course. The board members are as follows:
+<ul>
+<li>Kevin Bankston: Policy Director of the Open Technology Institute at New America Foundation (United States)
+<li> Eduardo Bertoni:  Director of the Center for Studies on Freedom of Expression and Access to Information (CELE) at the University of Palermo School of Law (Argentina)
+<li> Olga Cavalli: Director of the South School of Internet Governance (Argentina)
+<li> Alberto Cerda: International Affairs Director at ONG Derechos Digitales (Chile)
+<li> Laura DeNardis: Professor and Associate Dean in the School of Communication at American University and Senior Fellow of the Centre for International Governance Innovation (CIGI) (United States)
+<li> Toral D Cowieson: Senior Director of Internet Leadership Programs at the Internet Society (United States)
+<li> Demi Getschko: Director and President of NIC.br (Brazil)
+<li> Gene Kimmelman: President and CEO of Public Knowledge (United States)
+<li> Marilia Maciel: Researcher and Coordinator at the Center for Technology and Society at the Getulio Vargas Foundation (CTS/FGV) (Brazil)
+<li> Ginger Paque: Program Coordinator of the DiploFoundation Internet Governance Capacity Building Program (United States/Venezuela)
+<li> Philipp Schmidt: Executive Director of Peer 2 Peer University (P2PU) and Director's Fellow at MIT Media Lab (United States)
+<li> Martin Waserman: Policy Manager for the Southern Cone at Google (Argentina)
+<li> Danny Weitzner: Director of the MIT CSAIL Decentralized Information Group (United States)
+<li> John Wilbanks: Chief Commons Officer at Sage Bionetworks
 
-Kevin Bankston: Policy Director of the Open Technology Institute at New America Foundation (United States)
-
-Eduardo Bertoni:  Director of the Center for Studies on Freedom of Expression and Access to Information (CELE) at the University of Palermo School of Law (Argentina)
-
-Olga Cavalli: Director of the South School of Internet Governance (Argentina)
-
-Alberto Cerda: International Affairs Director at ONG Derechos Digitales (Chile)
-
-Laura DeNardis: Professor and Associate Dean in the School of Communication at American University and Senior Fellow of the Centre for International Governance Innovation (CIGI) (United States)
-
-Toral D Cowieson: Senior Director of Internet Leadership Programs at the Internet Society (United States)
-
-Demi Getschko: Director and President of NIC.br (Brazil)
-
-Gene Kimmelman: President and CEO of Public Knowledge (United States)
-
-Marilia Maciel: Researcher and Coordinator at the Center for Technology and Society at the Getulio Vargas Foundation (CTS/FGV) (Brazil)
-
-Ginger Paque: Program Coordinator of the DiploFoundation Internet Governance Capacity Building Program (United States/Venezuela)
-
-Philipp Schmidt: Executive Director of Peer 2 Peer University (P2PU) and Director's Fellow at MIT Media Lab (United States)
-
-Martin Waserman: Policy Manager for the Southern Cone at Google (Argentina)
-
-Danny Weitzner: Director of the MIT CSAIL Decentralized Information Group (United States)
-
-John Wilbanks: Chief Commons Officer at Sage Bionetworks
-
-
-
-We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
-on the web. In the last 5 years, we put together courses like 
-[Play With Your Music](http://www.playwithyourmusic.org/),
-[Learning Creative Learning](http://learn.media.mit.edu/lcl/), the
-[Deeper Learning MOOC](http://dlmooc.deeper-learning.org/), and
-[A Gentle Intro to Python](http://mechanicalmooc.org/). 
-Also, we're a non-profit and a distributed team (so we use the tools we recommend).
-
-			
 ## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
+Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to check out the syllabus and get started!
