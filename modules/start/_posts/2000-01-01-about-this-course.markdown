@@ -5,8 +5,7 @@ title: Syllabus
 ### Module 0: Introduction to the Open Internet
 
 Objectives: This will serve as an introduction to the “Open Internet,” as well as to the issues that you will be advocating on behalf of. As an introduction, this module will be more reading intensive than the following skills building modules. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> What is the Open Internet?
+<ul><li> What is the Open Internet?
 <li> Why do human rights principles and laws apply to the internet?
 <li> Which human rights principles and laws apply to the internet? 
 <li> What other principles apply to Open Internet?
@@ -15,8 +14,7 @@ Objectives: This will serve as an introduction to the “Open Internet,” as we
 ### Module 1: The "What and "Why" of Advocacy
 
 Objectives: This module is the first of four modules will provide the concrete skills and tools you need to advocate for the Open Internet. These modules will be referred to as “horizontal” modules and they will cover the “Five Ws and H” questions that are used by journalists, policy makers, law enforcement, teachers, activists, and others to gather information and set goals. They are “what,” “why,” “where,” “when,” “who,” and “how.” By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> What is advocacy?
+<ul><li> What is advocacy?
 <li> What are the basic first strategizing steps for advocacy on these issues?
 <li> Why should I use strategic planning for advocacy?
 </ul>
@@ -24,8 +22,7 @@ Objectives: This module is the first of four modules will provide the concrete s
 ### Module 2: "Who" in Advocacy
 
 Objectives: This module will provide the skill set and resources necessary to plan out and visualize your network of advocates and allies and give you the skills necessary to mobilize your allies. Further, this module will help participants understand their audience in terms of where the discussions and fora in which Open Internet issues are addressed and with whom participants will be working with and for. In the multi-stakeholder model of Internet governance, it will be necessary that you are able to work with and create coalitions with actors such as governments, international organizations, civil society, the technical community, the private sector, and academia. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li>How do I figure out who am I advocating for and who I must work with to reach my goals?
+<ul><li>How do I figure out who am I advocating for and who I must work with to reach my goals?
 <li> How do I figure out who my allies are how similar they are to me?
 <li> Who are the stakeholders involved in Internet governance?
 </ul>
@@ -33,23 +30,20 @@ Objectives: This module will provide the skill set and resources necessary to pl
 ### Module 3: "When" and "Where" in Advocacy
 
 Objectives: This module will help participants understand their audience in terms of where the discussions and fora in which Open Internet issues are addressed and how to determine the best timing for their campaign. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> When are the est times for my advocacy campaign?
+<ul><li> When are the est times for my advocacy campaign?
 <li> Where are the major discussions on Open Interent happening that I can attend?
 </ul>
 
 ### Module 4: "How": Tactics and Tools for Successful Open Internet Campaigns
 
 Objectives: This module is the final module the advocacy skills building modules as it will provide all the necessary resources on the specific skills needed to plan, strategize, and execute successful advocacy campaigns. Campaigns can range from targeted policy campaigns (ex: lobbying) to a grassroot street protest. Since laws and best practices regarding lobbying and interaction with policy makers varies greatly from country to country, this module’s material will focus on grassroots and digital advocacy. By the end of the module, you should be able to answer the following question:
-<ul>
-<li> How do I choose which tactic will be most impactful for my cause?
+<ul><li> How do I choose which tactic will be most impactful for my cause?
 </ul>
 
 ### Module 5: Basic Concepts of Internet Governance
 
 Objectives: This module will serve as an introduction to the world of internet governance. This chapter will look at the different internet governance processes, actors, and structures more in-depth. By the end of this module, you should be able to answer the following questions:
-<ul>
-<li> What is the difference between multistakeholderism and multilateralism (in Internet governance)?
+<ul><li> What is the difference between multistakeholderism and multilateralism (in Internet governance)?
 <li> What are the different types of Internet governance processes and how do they differ? How are they the same?
 <li> Who exactly participates in Internet governance processes?
 <li> What are some of the gaps in Internet governance?
@@ -59,8 +53,7 @@ Objectives: This module will serve as an introduction to the world of internet g
 ### Module 6: Human Rights and the Internet
 
 Objectives: This module will serve as a refresher of Module 0, specifically on human rights principles and how they apply to the Internet. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> Which human rights principles and laws apply to the internet?
+<ul><li> Which human rights principles and laws apply to the internet?
 <li> How do Internet governance forums address human rights and the Internet 
 <li> What are some examples of human rights principles being applied to the Internet?
 </ul>
@@ -68,8 +61,7 @@ Objectives: This module will serve as a refresher of Module 0, specifically on h
 ### Module 7: Access to Internet
 
 Objectives: This module will discuss access to the Internet, with a particular focus on those disconnected from Internet, inequality in access to Internet, and how lack of access to Internet in everyday life impacts the lives of people who are disconnected. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> What is Universal Access to Internet?
+<ul><li> What is Universal Access to Internet?
 <li> What is the value of being connected and what is the cost of being disconnected to the Internet? 
 <li> How is inequality in our everyday lives reflected on the Internet? 
 <li> What are some initiatives increasing Internet access across the world?
@@ -77,16 +69,14 @@ Objectives: This module will discuss access to the Internet, with a particular f
 ### Module 8: Network Neutrality
 
 Objectives: This module is an overview of the growingly important principle and debate around “network neutrality” and its global impact on topics such as economic development, human rights, and internet governance.  By the end of the module, you should be able to answer the following questions:
-<ul> 
-<li> What is net neutrality? Does everyone agree on the definition?
+<ul> <li> What is net neutrality? Does everyone agree on the definition?
 <li> What’s the connection between access to Internet and net neutrality?
 <li> How is net neutrality addressed in internet governance?
 
 ### Module 9: The Right to Privacy Online
 
 Objectives: This module will specifically focus on the right to privacy online. We specifically extracted this topic from general human rights because of the spotlight it has received in the past few years, coupled with issues of data protection, big data, surveillance, and the role of governments in Internet governance. By the end of the module, you should be able to answer the following questions:
-<ul>
-<li> Why is the right to privacy important?
+<ul><li> Why is the right to privacy important?
 <li> Are there standards for protection from surveillance and the right to privacy?
 <li> As an advocate for open Internet issues, how can I protect my privacy online?
 <li> How are surveillance, data protection, and the right to privacy addressed in Internet governance?
@@ -94,8 +84,7 @@ Objectives: This module will specifically focus on the right to privacy online. 
 ### Module 10: The Impact of Trade Agreements on Open Internet
 
 Objectives: As the final modules of this course, this module will address one of the growing concerns from public interest and others on the impact of trade agreements on Open Internet issues, including cybersecurity, balanced copyright, and human rights, including freedom of expression and the right to privacy. By the end of this module, you should be able to answer the following questions:
-<ul>
-<li> How can trade agreements impact Open Internet issues such as freedom of expression, access to information, and privacy
+<ul><li> How can trade agreements impact Open Internet issues such as freedom of expression, access to information, and privacy
 <li> What is intellectual property and copyright and why should I care as an internet rights advocate?
 <li> What specific trade agreements are currently being negotiated that could impact the internet?
 <li> How can advocates work to create or preserve balanced copyright and intellectual property laws and preserve human rights online?
