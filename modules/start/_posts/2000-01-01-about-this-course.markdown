@@ -21,25 +21,11 @@ Objectives: This module is the first of four modules will provide the concrete s
 <li> Why should I use strategic planning for advocacy?
 </ul>
 
-## How will this course work?
+# Module 2: "Who" in Advocacy
 
-![Image of course workflow]({{site.baseurl}}/img/process.png)
-
-During the next 4 weeks we will discuss the 4 different modules in this course - **community**, **learning**, **content** and **feedback**. Every week there will be some preparation, hands-on projects and a discussion for feedback and sharing to help you build your course!
-
-## How do I sign up and take this course?
-
-Normally this is where we tell you to fill in a form and wait for us, but we're not going to do that. You can 'sign up' to this course by **taking your course out of the box** [here]({{site.baseurl}}/modules/start/the-box/) and start learning.
-
-{% comment %}
-## You promised me my own course! Where is it?
-
-It's all in the box, promise! But you need to unpack it first :) Go on, take it out of [the box]({{site.baseurl}}/modules/start/the-box/)!
-{% endcomment %}
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
-
-
-
+Objectives: This module will provide the skill set and resources necessary to plan out and visualize your network of advocates and allies and give you the skills necessary to mobilize your allies. Further, this module will help participants understand their audience in terms of where the discussions and fora in which Open Internet issues are addressed and with whom participants will be working with and for. In the multi-stakeholder model of Internet governance, it will be necessary that you are able to work with and create coalitions with actors such as governments, international organizations, civil society, the technical community, the private sector, and academia. By the end of the module, you should be able to answer the following questions:
+<ul>
+<li>How do I figure out who am I advocating for and who I must work with to reach my goals?
+<li> How do I figure out who my allies are how similar they are to me?
+<li> Who are the stakeholders involved in Internet governance?
+</ul>
