@@ -80,6 +80,7 @@ Objectives: This module will specifically focus on the right to privacy online. 
 <li> Are there standards for protection from surveillance and the right to privacy?
 <li> As an advocate for open Internet issues, how can I protect my privacy online?
 <li> How are surveillance, data protection, and the right to privacy addressed in Internet governance?
+</ul> 
 
 ### Module 10: The Impact of Trade Agreements on Open Internet
 
