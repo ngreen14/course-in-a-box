@@ -1,5 +1,6 @@
 ---
 title: Background
+published: true
 ---
 
 ###**Why Open Internet is Important for You**
