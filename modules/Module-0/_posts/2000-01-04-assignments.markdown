@@ -1,5 +1,6 @@
 ---
 title: Assignments
+published: true
 ---
 
 *Activity 1*: Looking at the definitions and principles for the Open Internet provided in the background material and using the required and additional readings, are there any principles or ideals that you think are missing from this definition? Anything you think should be excluded? If so, develop your own definition of the “Open Internet” and write no more than a paragraph on why you chose this definition.
