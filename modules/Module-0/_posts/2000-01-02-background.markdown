@@ -1,3 +1,7 @@
+---
+title: "Module 0"
+---
+
 ###**Why Open Internet is Important for You**
 
 Image: ”Open Wires” by opensource.com - licensed under CC BY-NC-SA 2.0 
