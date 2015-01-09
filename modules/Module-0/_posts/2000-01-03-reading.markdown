@@ -1,5 +1,6 @@
 ---
 title: Reading
+published: true
 ---
 
 **Assigned Reading**
