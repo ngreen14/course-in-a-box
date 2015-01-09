@@ -52,4 +52,4 @@ Board members served as advisors throughout the process of developing this cours
 </ul>
 
 ##I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to check out the syllabus and get started!
+Head over [here]({{site.baseurl}}/modules/syllabus/syllabus) to check out the syllabus and get started!
