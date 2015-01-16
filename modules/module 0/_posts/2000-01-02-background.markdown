@@ -5,7 +5,7 @@ published: true
 
 ###**Why Open Internet is Important for You**
 
-({{site.baseurl}}/img/module 0/Module0-1.png)
+!({{site.baseurl}}/img/module 0/Module0-1.png)
 Image: ”Open Wires” by opensource.com - licensed under CC BY-NC-SA 2.0
 
 Before you continue, watch [this video] (https://www.youtube.com/watch?v=nVTUi6wWN3M&list=UUwephXhp75_UN-ItwM8A-4w)  on a brief history of the Internet: 
