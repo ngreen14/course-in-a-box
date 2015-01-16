@@ -16,6 +16,7 @@ For a moment, think about how different your life would be without access to a f
 
 ###**Human Rights Principles and the Internet**
 
+![alt text] (https://github.com/ngreen14/course-in-a-box/blob/gh-pages/img/module%200/Module0-2.png)
 Image: "Eleanor Roosevelt and the United Nations Universal Declaration of Human Rights in Spanish”: Credit: UN Photo
 
 Globally, the United Nations’ Universal Declaration of Human Rights (UDHR) is often referred to as the primary basis for human rights principles for all humans today. Agreed upon in 1948, the declaration includes freedom of expression, the right to privacy, freedom of opinion, freedom of speech, and freedom of association as some of the most basic rights of all humans. While there is no enforcement mechanism for UDHR, the International Covenant on Civil and Political Rights (ICCPR), adopted by the UN in 1966 reiterates the same values and is a binding multilateral treaty. Another relevant international instrument is the UN’s International Covenant on Economic, Social and Cultural Rights (ICESCR), and that treaty includes the right to education, the right to science and culture, and the right to development, just to name a few.
