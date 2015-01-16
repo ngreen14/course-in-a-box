@@ -7,7 +7,7 @@ published: true
 
 Image: ”Open Wires” by opensource.com - licensed under CC BY-NC-SA 2.0 
 
-Before you continue, watch the following video on a brief history of the Internet: https://www.youtube.com/watch?v=nVTUi6wWN3M&list=UUwephXhp75_UN-ItwM8A-4w 
+Before you continue, watch the following video on a brief history of the Internet: (https://www.youtube.com/watch?v=nVTUi6wWN3M&list=UUwephXhp75_UN-ItwM8A-4w) 
 
 In the past few decades, the Internet has revolutionized people’s ability to access information and express themselves creatively, politically, socially, and economically. For some, the internet is useful for doing research or connecting with friends after class, while for others it is a means to communicate with family thousands of miles away or work on impactful projects across borders. However, for many people  the Internet is still a far-away source of economic, creative, and social opportunity that is not yet accessible or affordable. 
 
