@@ -15,5 +15,3 @@ published: true
 <li> Asamblea General de la ONU, Pacto Internacional de Derechos Económicos, Sociales y Culturales, 16 de diciembre de 1966, Organización de las Naciones Unidas, disponible en: http://www.ohchr.org/SP/ProfessionalInterest/Pages/CESCR.aspx 
 <li> Ver “Proposed Principles Relating to Human Rights, Digital Rights, and Internet Governance”, sección bibliográfica.
 </ul>
-
-
