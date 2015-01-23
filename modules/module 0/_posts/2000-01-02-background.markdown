@@ -4,7 +4,7 @@ title: ANTECEDENTES
 
 ###**Por qué Internet Abierto es Importante para Usted**
 
-![alt text](https://github.com/ngreen14/course-in-a-box/blob/gh-pages/img/module%200/Module0-1.png)
+![](https://github.com/ngreen14/course-in-a-box/blob/gh-pages/img/module%200/Module0-1.png)
 Imagen: “Open Wires” de opensource.com, proporcionada bajo licencia CC BY-NC-SA 2.0 
 
 *Antes de continuar, le aconsejamos ver el siguiente [video](https://www.youtube.com/watch?v=nVTUi6wWN3M&list=UUwephXhp75_UN-ItwM8A-4w) con una breve presentación sobre la historia de Internet.*
@@ -16,7 +16,7 @@ Deténgase un minuto a pensar cuán diferente sería su vida sin acceso a Intern
 
 ###**Principios de Derechos Humanos e Internet**
 
-![alt text](https://github.com/ngreen14/course-in-a-box/blob/gh-pages/img/module%200/Module0-2.png)
+![](https://github.com/ngreen14/course-in-a-box/blob/gh-pages/img/module%200/Module0-2.png)
 Imagen: "Eleanor Roosevelt y la Declaración Universal de los Derechos Humanos en español”: Autoría: UN Photo
 
 A nivel mundial, a menudo se hace referencia a la [Declaración Universal de Derechos Humanos de las Naciones Unidas (DUDH)] (http://www.refworld.org/docid/3ae6b3712c.html) como la fuente primaria de principios de derechos humanos para toda la humanidad en la actualidad. La declaración, suscrita en 1948, incluye a la **libertad de expresión, el derecho a la privacidad, la libertad de opinión y la libertad de asociación** entre los derechos humanos más elementales de todas las personas. Si bien la DUDH no cuenta con un mecanismo de aplicación, el Pacto Internacional de Derechos Civiles y Políticos (PIDCP), adoptado por la ONU en 1966, reitera los mismos valores y constituye un tratado multilateral vinculante. Otro instrumento internacional relevante es el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC), que reconoce el **derecho a la educación, el derecho a la ciencia y la cultura y el derecho al desarrollo**, entre muchos otros.
