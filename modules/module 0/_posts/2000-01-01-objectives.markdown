@@ -1,13 +1,14 @@
 ---
-title: Objectives
+title: Objectivos
 published: true
 ---
 
-### Module 0: Introduction to the Open Internet
+### Módulo 0: Introducción al concepto de Internet Abierto
 
-Objectives: This will serve as an introduction to the “Open Internet,” as well as to the issues that you will be advocating on behalf of. As an introduction, this module will be more reading intensive than the following skills building modules. By the end of the module, you should be able to answer the following questions:
-<ul><li> What is the Open Internet?
-<li> Why do human rights principles and laws apply to the internet?
-<li> Which human rights principles and laws apply to the internet? 
-<li> What other principles apply to Open Internet?
+OBJETIVOS: este módulo servirá como introducción al concepto de “Internet Abierto”, así como a los temas que usted  defenderá. En tanto tiene carácter introductorio, el presente módulo presenta un mayor contenido de lectura que los siguientes módulos, enfocados en la adquisición de habilidades. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li> ¿Qué es Internet Abierto?
+<li> ¿Por qué los principios y las normas de derechos humanos se aplican a Internet?
+<li> ¿Cuáles principios y normas de derechos humanos se aplican a Internet? 
+<li> ¿Qué otros principios se aplican a Internet Abierto?
 </ul>
+
