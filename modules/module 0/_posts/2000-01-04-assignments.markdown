@@ -1,9 +1,8 @@
 ---
-title: Assignments
+title: Tareas
 published: true
 ---
 
-*Activity 1*: Looking at the definitions and principles for the Open Internet provided in the background material and using the required and additional readings, are there any principles or ideals that you think are missing from this definition? Anything you think should be excluded? If so, develop your own definition of the “Open Internet” and write no more than a paragraph on why you chose this definition.
+*Actividad 1*: Considerando las definiciones y principios de Internet Abierto proporcionados en los materiales de referencia y sobre la base de las lecturas obligatorias y adicionales, ¿puede identificar principios o ideales que considere que faltan en esta definición? ¿Considera que algún elemento debería ser excluido? En caso afirmativo, formule su propia definición de “Internet Abierto” y explique en un solo párrafo por qué optó por esa definición.
 
-*Activity 2*: Now that you’ve got an idea of various Open Internet values and your own definition, do you know if your local, regional, or national government has developed any working definitions or statements related to the Internet and human rights, access to Internet, or network neutrality? Are they in line with your views of the Open Internet? Provide links to statements and your analysis in the discussion board.
-
+*Actividad 2*: Ahora que ha adquirido una noción de diversos valores de Internet Abierto y ha elaborado su propia definición, ¿sabe si su gobierno local, regional o nacional ha formulado definiciones o declaraciones preliminares vinculadas con Internet y derechos humanos, acceso a Internet o neutralidad de la red? ¿Coinciden con las nociones que ha adquirido sobre Internet Abierto? Indique los enlaces de sus afirmaciones y análisis en el foro de debate.
