@@ -9,7 +9,7 @@ Imagen: “Open Wires” de opensource.com, proporcionada bajo licencia CC BY-NC
 
 *Antes de continuar, le aconsejamos ver el siguiente video con una breve presentación sobre la historia de Internet.*
 
-<iframe width="560" height="315" src="www.youtube.com/watch?v=nVTUi6wWN3M&list=UUwephXhp75_UN-ItwM8A-4wA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVTUi6wWN3M" frameborder="0" allowfullscreen></iframe>
 
 En las últimas décadas, Internet ha revolucionado la capacidad de las personas para acceder a información y expresarse ellos mismos en términos creativos, políticos, sociales y económicos. Algunos utilizan Internet con fines de investigación o para conectarse con amigos después de clases, mientras que, para otros, es un medio para comunicarse con familiares a miles de kilómetros de distancia, o trabajar en proyectos transfronterizos de gran impacto. No obstante, para muchas personas, Internet continúa siendo una oportunidad económica, creativa y social que aún está muy lejos de ser accesible o asequible. 
 
