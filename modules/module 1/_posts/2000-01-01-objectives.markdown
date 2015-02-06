@@ -2,10 +2,10 @@
 title: Objectives
 ---
 
-### Module 1: The "What" and "Why" of Advocacy
+### Módulo 1: Los “Qué” y “Por Qué” de la Defesa y Promoción de un Internet Abierto
 
-Objectives: This module is the first of four modules will provide the concrete skills and tools you need to advocate for the Open Internet. These modules will be referred to as “horizontal” modules and they will cover the “Five Ws and H” questions that are used by journalists, policy makers, law enforcement, teachers, activists, and others to gather information and set goals. They are “what,” “why,” “where,” “when,” “who,” and “how.” By the end of the module, you should be able to answer the following questions:
-<ul><li>What is advocacy?
-<li>What are the basic first strategizing steps for advocacy on these issues?
-<li>Why should I use strategic planning?
+Objetivos: Este módulo es el primero de cuatro que le brindarán las aptitudes y herramientas concretas que usted necesita para promover y defender un Internet Abierto y así lograr  acción en los actores que lo regulan. Estos módulos se denominarán “horizontales” y abordarán las preguntas que generalmente se formulan los periodistas, legisladores, autoridades de aplicación de la ley, docentes, activistas y otros actores para reunir información y fijar objetivos. Estas preguntas son “qué”, “por qué”, “dónde”, “cuándo”, “quiénes” y “cómo”. Estas preguntas soportan el el desarrollo del pensamiento estratégico para una abogacía eficiente y coordinada, con objetivos claros.  Al término de este módulo, deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Qué es la abogacía para la promoción y defesa de  un Internet Abierto y Libre?
+<li>¿Cuáles son los primeros pasos para el desarrollo de una estrategia en estos temas?
+<li>¿Por qué yo debería usar la planificación estratégica?
 </ul>
