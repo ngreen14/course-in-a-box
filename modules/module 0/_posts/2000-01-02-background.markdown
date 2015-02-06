@@ -16,7 +16,6 @@ En las últimas décadas, Internet ha revolucionado la capacidad de las personas
 Deténgase un minuto a pensar cuán diferente sería su vida sin acceso a Internet libre y abierto. ¿Trabajaría con las mismas personas? ¿Habría encontrado el mismo empleo que tiene ahora o la misma escuela a la que asiste? ¿Sería usted en algún modo diferente? Lo cierto es que, muy probablemente, Internet haya cambiado su vida y la vida de las personas que lo rodean más de lo que piensa. Quienes cuentan con Internet abierto y libre, tienen la posibilidad de acceso a educación, herramientas de gobernabilidad, desarrollo económico, medios de comunicación y entretenimiento, recursos de salud y muchas otras cosas más. Internet afecta nuestra vida cotidiana y también futura, y por ello es importante que tengamos presente que proteger el futuro de Internet (y ayudar a que accedan a este recurso quienes hoy están excluidos) es necesario para proteger el futuro de nuestros derechos humanos fundamentales y la sostenibilidad. 
 
 
-
 ###**Principios de Derechos Humanos e Internet**
 
 ![]({{site.baseurl}}/img/module 0/Module0-2.png)
