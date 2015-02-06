@@ -16,6 +16,7 @@ En las últimas décadas, Internet ha revolucionado la capacidad de las personas
 Deténgase un minuto a pensar cuán diferente sería su vida sin acceso a Internet libre y abierto. ¿Trabajaría con las mismas personas? ¿Habría encontrado el mismo empleo que tiene ahora o la misma escuela a la que asiste? ¿Sería usted en algún modo diferente? Lo cierto es que, muy probablemente, Internet haya cambiado su vida y la vida de las personas que lo rodean más de lo que piensa. Quienes cuentan con Internet abierto y libre, tienen la posibilidad de acceso a educación, herramientas de gobernabilidad, desarrollo económico, medios de comunicación y entretenimiento, recursos de salud y muchas otras cosas más. Internet afecta nuestra vida cotidiana y también futura, y por ello es importante que tengamos presente que proteger el futuro de Internet (y ayudar a que accedan a este recurso quienes hoy están excluidos) es necesario para proteger el futuro de nuestros derechos humanos fundamentales y la sostenibilidad. 
 
 
+
 ###**Principios de Derechos Humanos e Internet**
 
 ![]({{site.baseurl}}/img/module 0/Module0-2.png)
@@ -29,6 +30,7 @@ En América Latina, la [Convención Americana sobre Derechos Humanos](http://www
 La DUDH, el PIDCP, el PIDESC y la Convención Americana sobre Derechos Humanos garantizan los derechos anteriores, con independencia de  plataforma (online o offline). Si bien algunos países y gobiernos han interpretado la DUDH y la Convención Americana sobre Derechos Humanos con distinto alcance en el mundo, el desarrollo de diversas tecnologías de la información y la comunicación (TIC) en las últimas décadas, especialmente Internet, ha replanteado el modo en que los gobiernos abordan los derechos humanos en línea. La creación de Internet ha modificado radicalmente la manera en que los ciudadanos en todo el mundo expresan sus derechos, en particular la libertad de expresión. Mientras que en el pasado los ciudadanos posiblemente se limitaban a volcarse a las calles para hacer sentir sus reclamos a los gobiernos, ahora personas de todas las edades y procedencias pueden hacer lo mismo a través de petitorios en línea, enviando un mensaje de correo electrónico a funcionarios gubernamentales, escribiendo contenidos anónimos en blogs o publicando un tuit. 
 
 Ante la preponderancia cada vez mayor de Internet como plataforma para la expresión de derechos fundamentales, en 2011 la Relatora Especial de la OEA para la Libertad de Expresión, junto con el Relator Especial de la ONU para la Libertad de Opinión y de Expresión y relatores de libertad de expresión de Europa y África, suscribieron una [declaración conjunta](http://www.oas.org/es/cidh/expresion/showarticle.asp?artID=849&lID=2) ratificando que “**la libertad de expresión se aplica a Internet**”. En julio de 2012, el Consejo de Derechos Humanos de la ONU confirmó además que “**los derechos de las personas también deben estar protegidos en Internet**”, lo cual convierte a la DUDH, el PIDCP y la Convención Americana la base para los principios de Internet Abierto. 
+
 
 
 ###**Qué es Internet Abierto y Otros Principios Aplicables**
