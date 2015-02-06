@@ -1,5 +1,5 @@
 ---
-title: Objectives
+title: Objetivos
 ---
 
 ### Módulo 1: Los “Qué” y “Por Qué” de la Defesa y Promoción de un Internet Abierto
