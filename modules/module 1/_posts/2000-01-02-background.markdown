@@ -1,0 +1,18 @@
+---
+title: ANTECEDENTES
+---
+
+###**Introducción** 
+ 
+Imagen: “En defensa de Internet” por Eneko, proporcionado bajo licencia CC BY-NC-ND 2.0
+
+La “promoción y defensa” adopta distintos significados, pero en general se refiere a la acción o el apoyo público a una determinada cuestión con el objeto de influir en el entorno o generar cambios. Oxfam define defensa y promoción  como “el proceso por el cual se ejerce influencia en la toma de decisiones”, mientras que el Centro para el Desarrollo y las Actividades Populares (Center for Development and Population Activities, CEDPA) describe la defensa y promoción  como “Defensa y promoción es hablar en defensa de una causa, llamar la atención de una comunidad sobre una cuestión importante y dirigir a las personas con poder de decisión hacia una solución. Defensa y promoción es trabajar con otras personas y organizaciones para producir cambios decisivos.” Mientras el International Planned Parenthood Federation: IPPF Advocacy Guide 1995 dice que “Defensa y promoción es el acto o proceso de apoyar una causa o cuestión. Una campaña de defensa y promoción es una serie de acciones orientadas hacia un fin específico en apoyo de una causa o cuestión. Promovemos una causa o cuestión debido a que deseamos:  obtener apoyo para dicha causa o cuestión; influir en otros para que la apoyen; o tratar de influir o cambiar la legislación que la afecta. Por último, para la UNICEF “la defensa  y promoción es un proceso deliberativo, que influye directa o indirectamente en los tomadores de decisiones, los actores involucrados y audiencias relevantes para apoyar e implementar acciones que contribuyan al cumplimiento de determinados derechos¨
+
+Así como existen distintas definiciones de “defensa y promoción” o “advocacy” en el inglés, también existen distintas clases de esta actividad. Por ejemplo, el Journal of Information Policy bajo el artículo titulado El Acuerdo Comercial contra la Falsificación y la Sociedad Civil Europea: Estudio de Caso sobre Defensa y Promoción  en Red, examinó la defensa y promoción en red, la cual se configura cuando organizaciones transnacionales, y a veces nacionales, utilizan distintos tipos de redes de comunicación y colaboración en apoyo a una acción colectiva. Por otro lado, las Herramientas de Defensa Y Promoción creadas por Disability Rights Wisconsin (DRW) (con sede en Estados Unidos) distinguen cuatro tipos de defensa y promoción: la individual, la de pares, la de sistemas y la legal, y todas ellas modalidades que posiblemente usted aplique al desarrollar un programa que fomente un Internet Libre y Abierto. 
+
+Los principios de Internet Libre y Abierto, como la libertad de expresión, no solo contribuyen a sus propios intereses como líder del Internet libre y Abierto, sino que además redundan en beneficio de amigos, familiares, pares y la comunidad en general. Por ende, dado que trabajará para generar cambios positivos para usted y los demás, estará llevando a cabo las modalidades individual y de pares respectivamente. 
+
+Al promover un Internet Libre y Abierto, usted procurará incidir en el statu quo político y económico actual, ya sea para introducir mejoras o para mantenerlo. Por ejemplo, si su meta es ampliar el acceso a Internet asequible para las personas de su comunidad, posiblemente decida que la mejor táctica será elegir a una determinada persona para un cargo público que apoye sus objetivos. Este es un ejemplo de defensa y promoción  de sistemas.
+
+Por último, si su objetivo fuera implementar los principios de neutralidad de la red en la legislación de su país, deberá trabajar con abogados y dentro del sistema legal para mantener o establecer estas normas; esto sería una forma de defensa y promoción  legal. 
+
