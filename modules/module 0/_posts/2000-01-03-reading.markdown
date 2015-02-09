@@ -3,7 +3,7 @@ title: Materiales de lectura
 published: true
 ---
 
-###Materiales de Lectura Obligatoria
+**Materiales de Lectura Obligatoria**
 <ul><li> Betancourt, Valeria. “Derechos Humanos en Línea: Una Agenda Aún Pendiente para la Sociedad Civil de América Latina y El Caribe”. Cuestión de Derechos 4 (2013): 93-104. 2013, disponible en:  [http://www.cuestiondederechos.org.ar/pdf/numero4/Articulo-7.pdf](http://www.cuestiondederechos.org.ar/pdf/numero4/Articulo-7.pdf). 
 <li> Organización de los Estados Americanos, Comisión Interamericana de Derechos Humanos, Libertad de expresión e Internet [Resumen ejecutivo]: Informe de la Relatoría Especial para la Libertad de Expresión, 2013, disponible en:: [http://www.oas.org/es/cidh/expresion/docs/informes/internet/Resumen_Ejecutivo_Internet_FB.pdf](http://www.oas.org/es/cidh/expresion/docs/informes/internet/Resumen_Ejecutivo_Internet_FB.pdf). 
 </ul> 
