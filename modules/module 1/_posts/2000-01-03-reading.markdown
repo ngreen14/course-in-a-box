@@ -9,7 +9,7 @@ published: true
 <li>Herramientas de Defensa y promoción  [Advocacy Toolkit]: Habilidades y estrategias para una defensa y promoción  propia y de pares efectiva [Skills and Strategies for Effective Self and Peer Advocacy]: [http://www.disabilityrightswi.org/wp-content/uploads/2008/02/advocacy-tool-kit-2007.pdf](http://www.disabilityrightswi.org/wp-content/uploads/2008/02/advocacy-tool-kit-2007.pdf).
 <ul>
 <li>Building an advocacy strategy, páginas 3-13 
-</ul>
+</ul></ul>
 
 **Materiales de Lectura Optativa**
 <ul><li>Análisis SWOT (descargar la planilla de trabajo [worksheet]): http://www.mindtools.com/pages/article/newTMC_05.htm
