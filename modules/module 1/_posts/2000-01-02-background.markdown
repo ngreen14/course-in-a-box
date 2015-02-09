@@ -4,6 +4,7 @@ title: ANTECEDENTES
 
 ###**Introducción** 
  
+![]({{site.baseurl}}/img/Module 1/Module1-1.png)
 Imagen: “[En defensa de Internet](http://www.20minutos.es/imagen/1025902)" por Eneko, proporcionado bajo licencia [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 La **“promoción y defensa”** adopta distintos significados, pero en general se refiere a la acción o el apoyo público a una determinada cuestión con el objeto de influir en el entorno o generar cambios. Oxfam define defensa y promoción  como “el proceso por el cual se ejerce influencia en la toma de decisiones”, mientras que el Centro para el Desarrollo y las Actividades Populares (Center for Development and Population Activities, CEDPA) describe la defensa y promoción  como “Defensa y promoción es hablar en defensa de una causa, llamar la atención de una comunidad sobre una cuestión importante y dirigir a las personas con poder de decisión hacia una solución. Defensa y promoción es trabajar con otras personas y organizaciones para producir cambios decisivos.” Mientras el *International Planned Parenthood Federation: IPPF Advocacy Guide 1995* dice que “Defensa y promoción es el acto o proceso de apoyar una causa o cuestión. Una campaña de defensa y promoción es una serie de acciones orientadas hacia un fin específico en apoyo de una causa o cuestión. Promovemos una causa o cuestión debido a que deseamos:  obtener apoyo para dicha causa o cuestión; influir en otros para que la apoyen; o tratar de influir o cambiar la legislación que la afecta. Por último, para la [UNICEF](http://www.unicef.org/evaluation/files/Advocacy_Toolkit.pdf) *“la defensa  y promoción es un proceso deliberativo, que influye directa o indirectamente en los tomadores de decisiones, los actores involucrados y audiencias relevantes para apoyar e implementar acciones que contribuyan al cumplimiento de determinados derechos¨*
@@ -75,6 +76,7 @@ Por último, otro consejo importante al momento de formular su campaña y objeti
 
 Uno de los métodos más efectivos para confeccionar un mapa de estos  es el **Análisis PESTLE**, y esta guía brinda una plantilla y una “guía paso a paso” para utilizar dicho método. 
 
+![]({{site.baseurl}}/img/Module 1/Module1-2.png)
 Imagen: cortesía de usuario de Flickr [plnaugle](http://www.flickr.com/photos/plnaugle/8334714234), proporcionada bajo licencia [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
