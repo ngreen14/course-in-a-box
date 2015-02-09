@@ -33,3 +33,65 @@ Por último, sus objetivos deben tener un plazo determinado. Los objetivos con p
 Además de las características SMART,  al plantear sus objetivos organizacionales es importante considerar si estos complementan o, por el contrario, contradicen a los objetivos de otras organizaciones similares (y evaluar también si se está duplicando el trabajo que realizan otras organizaciones), si su objetivo cuenta o no con apoyo de quienes se ven directamente afectados por el tema, si su objetivo conseguirá de hecho algún cambio, y si las aspiraciones podrán ser legitimadas con el apoyo o la investigación desarrollada por  terceros – académicos y expertos por ejemplo-.
 
 Por último, otro consejo importante al momento de formular su campaña y objetivos, es tomar en cuenta el “macroentorno” en el cual desarrolla su actividad. Es decir, deberá considerar factores externos sobre los cuales su organización ejerce un control limitado o nulo y que inciden sobre su causa. Estos son elementos que usted deberá tomar en consideración mientras desarrolla su estrategia o la adapta en un momento de revisión. Estos factores son factores se pueden dividir en las siguientes categorías: políticos, económicos, sociales, tecnológicos, legales y ambientales, cada categoría contiene a su vez, distintos factores específicos:
+
+<ol>
+<li>Factores políticos:
+<ul><li>Cambios en el gobierno
+<li>Financiamiento
+<li>Cabildeo (lobby)
+<li>Conflictos en la arena política
+<li>Liderazgo político
+</ul>
+<li>Factores económicos:
+<ul><li>Ingreso
+<li>Tasa de desempleo
+<li>Tasa de cambio
+<li>Tasas de intereses
+<li>Tasa de inflación
+<li>Temas tributarios
+<li>Situación económica local y nacional
+</ul>
+<li>Factores sociales:
+<ul><li>Factores éticas y religiosos
+<li>Cuestiones éticas
+<li>Demografía
+<li>Perspectivas de los medios de comunicación
+<li>Cambios en la ley
+<li>Historia
+<li>Educación
+</ul>
+<li>Factores legales:
+<ul><li>Regulación laboral
+<li>Protección al consumidor
+<li>Regulaciones específicas de la industria
+<li>Regulación de la competencia
+<li>Proceso legislativo y cuerpos legislativos
+</ul>
+<li>Factores ambientales:
+<ul><li>Problemáticas ambientales: internacionales y nacionales
+<li>Valores de los actores y-o inversionistas
+</ul>
+</ol>
+
+Uno de los métodos más efectivos para confeccionar un mapa de estos  es el Análisis PESTLE, y esta guía brinda una plantilla y una “guía paso a paso” para utilizar dicho método. Imagen: cortesía de usuario de Flickr plnaugle, proporcionada bajo licencia CC BY-NC-SA 2.0
+
+
+###**Diagrama GROW**
+
+*Nota al lector: sugerimos que antes de empezar a leer esta sección, imprima el Diagrama GROW*
+
+Al utilizar el Diagrama de Estrategia GROW, deberá revisarlo de izquierda a derecha y asegurarse de concentrarse únicamente en un solo tema por cada casilla. Si desea plantear una estrategia para múltiples temas, simplemente complete diagramas separados para cada uno de los temas que esté abordando. Por ejemplo, si desea promover la neutralidad de la red y también mejorar la accesibilidad de Internet, utilice dos diagramas distintos. 
+
+*Nota al lector: Antes de continuar, consulte el [Diagrama de Estrategia GROW](http://www.sfalliance.org/resources/Strategy chart 2006.pdf) desarrollado por Midwest Academy. Al final de esta sección introductoria, se le asignará una tarea que deberá completar aplicando el Diagrama de Estrategia GROW, por lo que es importante que se familiarice con él previamente.*
+
+En la categoría objetivos, deberá enumerar un objetivo a corto, mediano y largo plazo para su tema. Al final de este curso, habrá adquirido un conocimiento general de todos los temas relevantes, pero posiblemente sea necesario profundizar la investigación de temas de referencia a fin de fijar objetivos SMART para su campaña, sin olvidar también  los factores externos que pueden afectar su campaña  y que usted identificó en el  Análisis PESTLE . 
+
+Al formular sus objetivos, debe pensar cómo su objetivo a corto plazo puede ayudarle a cumplir sus objetivos a mediano y largo plazo (y en este mismo sentido, cómo su objetivo a mediano plazo incidirá en el objetivo a largo plazo). Según el tema en particular, el plazo para lo que se consideran objetivos a corto, mediano o largo plazo será diferente. En el Módulo 3 (“cuándo” y “dónde”), analizaremos cómo determinar el momento oportuno para cada uno en su campaña. 
+
+Las consideraciones organizacionales se refieren a recursos con los que ya cuenta su organización o coalición y que pueden ser usados para la campaña (por ejemplo, financiamiento, personal o materiales de campaña) y recursos que su organización o coalición desea obtener mediante la campaña (mayor presencia en medios sociales, reputación, oportunidades de recaudación de fondos, etc.). En esta categoría de consideraciones  organizacionales, asegúrese de enumerar los problemas o límites internos de su organización o coalición que podrían incidir en el éxito su campaña.
+
+Al examinar la categoría de votantes, aliados y opositores, deberá considerar las personas, las organizaciones y las entidades (desde las locales hasta las internacionales) que se encuadran en las categorías individuales. En el siguiente módulo (“quiénes”), analizaremos herramientas específicas que pueden resultar útiles para determinar quiénes son sus aliados, y ejemplos de organizaciones y entidades con los cuales debería considerar la posibilidad de colaborar. De manera similar, en el Módulo 2, evaluaremos cómo determinar su audiencia o destinatarios. Pero por el momento es importante que sepa que sus destinatarios, tanto principales como secundarios, son siempre personas (ya sea individuos o grupos de personas). Su destinatario principal es la persona o personas que tienen la potestad de concederle lo que desea obtener (por ejemplo, un senador). A veces no hay destinatarios secundarios, pero cuando sí los hay, estos son las personas con las facultades para influir en las decisiones del destinatario principal.
+
+El paso final de la planificación estratégica consiste en desarrollar sus tácticas. Una táctica es una acción concreta que se utiliza para lograr un resultado u objetivo final. Las tácticas deberán estar orientadas a sus destinatarios, y poner en evidencia una habilidad o un conocimiento específico de su coalición u organización. En definitiva, su táctica deberá ayudarlo a generar mayor conciencia sobre el tema original (así como sobre la existencia de su organización o coalición) y lograr que usted se acerque un poco más al cumplimiento de al menos uno de sus objetivos. En el Módulo 4, aprenderemos cómo elegir las tácticas y brindaremos una aproximación a diversas tácticas que han sido utilizadas por activistas de derechos humanos y derechos  digitales. Algunos ejemplos incluyen organizar un debate público en un foro internacional, iniciar una acción Thunderclap en Twitter o hacer lobby ante un representante electo.
+
+Al adquirir un conocimiento más profundo de planificación estratégica, podrá resultarle útil consultar el gráfico del Análisis SWOT. El gráfico del Análisis SWOT se utiliza para determinar las fortalezas (strengths), deficiencias (weaknesses), oportunidades (opportunities) y amenazas (threats) para un cierto tema o campaña. Si le resulta útil, podrá aplicarlo antes de iniciar la planificación estratégica, puesto que puede ahorrarle tiempo al evitar que se concentre en campañas en las cuales las deficiencias posiblemente superen a las fortalezas. Para consultar un análisis más detenido de SWOT, ver la [guía](http://ctb.ku.edu/es/tabla-de-contenidos/valoracion/valorar-las-necesidades-y-recursos-comunitarios/FODA-analisis/principal) de Community Toolbox.
