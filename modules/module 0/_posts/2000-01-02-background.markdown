@@ -5,7 +5,7 @@ title: ANTECEDENTES
 ###**Por qué Internet Abierto es Importante para Usted**
 
 ![]({{site.baseurl}}/img/module 0/Module0-1.png)
-Imagen: “Open Wires” de opensource.com, proporcionada bajo licencia CC BY-NC-SA 2.0 
+*Imagen: “Open Wires” de opensource.com, proporcionada bajo licencia CC BY-NC-SA 2.0*
 
 *Antes de continuar, le aconsejamos ver el siguiente video con una breve presentación sobre la historia de Internet.*
 
@@ -20,7 +20,7 @@ Deténgase un minuto a pensar cuán diferente sería su vida sin acceso a Intern
 
 ![]({{site.baseurl}}/img/module 0/Module0-2.png)
 
-Imagen: "Eleanor Roosevelt y la Declaración Universal de los Derechos Humanos en español”: Autoría: UN Photo
+*Imagen: "Eleanor Roosevelt y la Declaración Universal de los Derechos Humanos en español”: Autoría: UN Photo*
 
 A nivel mundial, a menudo se hace referencia a la [Declaración Universal de Derechos Humanos de las Naciones Unidas (DUDH)] (http://www.refworld.org/docid/3ae6b3712c.html) como la fuente primaria de principios de derechos humanos para toda la humanidad en la actualidad. La declaración, suscrita en 1948, incluye a la **libertad de expresión, el derecho a la privacidad, la libertad de opinión y la libertad de asociación** entre los derechos humanos más elementales de todas las personas. Si bien la DUDH no cuenta con un mecanismo de aplicación, el Pacto Internacional de Derechos Civiles y Políticos (PIDCP), adoptado por la ONU en 1966, reitera los mismos valores y constituye un tratado multilateral vinculante. Otro instrumento internacional relevante es el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC), que reconoce el **derecho a la educación, el derecho a la ciencia y la cultura y el derecho al desarrollo**, entre muchos otros.
 
@@ -55,4 +55,4 @@ La combinación de declaraciones internacionales y regionales y leyes nacionales
 
 Notará que algunos de estos documentos se refieren a “gobernanza” y “gobernanza de Internet” al analizar principios y derechos propuestos para el Internet Abierto y  la libertad en Internet. **Gobernanza de Internet** es un término amplio que se utiliza en general para referirse al desarrollo y la implementación, en constante evolución, de principios, políticas y toma de decisiones llevadas a cabo por diversos actores (gobiernos, sociedad civil, sector privado, comunidad técnica, académicos y otros) que inciden en Internet.  Las decisiones y deliberaciones sobre gobernanza de Internet pueden incluir desde un encuentro con la autoridad regulatoria de comunicaciones local, hasta un encuentro mundial multisectorial que congregue a numerosos actores interesados, como el Foro de Gobernanza de Internet. Para promover un Internet Abierto y generar cambios positivos en las políticas y normas sobre Internet, es importante comprender la gobernanza de Internet e intervenir activamente en ella. Todos los temas relevantes sobre gobernanza de Internet se discutirán y analizarán detenidamente en la segunda mitad de este curso. Para una aproximación básica al tema de la gobernanza de Internet, recomendamos mirar el siguiente video preparado por Karisma Foundation:
 
-<iframe src="//player.vimeo.com/video/78857704" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/78857704">Gobernanza de internet</a> from <a href="http://vimeo.com/fundacionkarisma">Fundaci&oacute;n Karisma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/78857704" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
