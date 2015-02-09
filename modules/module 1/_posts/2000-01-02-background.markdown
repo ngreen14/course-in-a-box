@@ -27,7 +27,8 @@ A veces quienes impulsan acciones de defensa y promoción suelen enfocarse en as
 
 La primera categoría del Diagrama GROW y de numerosas guías de planificación estratégica consiste en fijar un objetivo o grupo de objetivos, y por ello antes de adentrarnos en el tema de la planificación estratégica, es conveniente hablar sobre qué constituye un objetivo bien estructurado. Una pauta general para formular sus propios objetivos es asegurarse que estos cumplan los parámetros **SMART**, es decir, que sean específicos, medibles, factibles, relevantes y con un plazo determinado. Es importante que un objetivo sea más específico que general, para que usted pueda invertir adecuadamente sus recursos y  así se incrementen las posibilidades de alcanzarlo. Un objetivo medible es aquel en el cual usted puede formular indicadores o criterios específicos que le permitirán medir los avances conseguidos. De manera similar, los objetivos factibles son aquellos que pueden alcanzarse empleando los recursos con los que cuenta o que puede conseguir. 
 
-Un aspecto sumamente importante para la formulación de sus objetivos es asegurarse de que sean relevantes. Un objetivo relevante es aquel que esta de acorde con su misión o la de su organización, y que lo ayudará a satisfacer un objetivo personal o organizacional mayor. Por ejemplo, una organización de derechos digitales cuya misión general sea incrementar el acceso a Internet consideraría relevante el objetivo de “ampliar el acceso a Internet en escuelas en un 50% para 2015”, mientras que “duplicar la cantidad de automóviles eléctricos para 2015” no sería relevante. 
+![]({{site.baseurl}}/img/Module 1/Module 1-2.png)
+Imagen: cortesía de usuario de Flickr [plnaugle](http://www.flickr.com/photos/plnaugle/8334714234), proporcionada bajo licencia [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/)Un aspecto sumamente importante para la formulación de sus objetivos es asegurarse de que sean relevantes. Un objetivo relevante es aquel que esta de acorde con su misión o la de su organización, y que lo ayudará a satisfacer un objetivo personal o organizacional mayor. Por ejemplo, una organización de derechos digitales cuya misión general sea incrementar el acceso a Internet consideraría relevante el objetivo de “ampliar el acceso a Internet en escuelas en un 50% para 2015”, mientras que “duplicar la cantidad de automóviles eléctricos para 2015” no sería relevante. 
 
 Por último, sus objetivos deben tener un plazo determinado. Los objetivos con plazo determinado son aquellos para los cuales se fija una fecha límite o prevista de cumplimiento. Establecer un plazo temporal para su objetivo le permitirá asegurarse de que su organización cuente con tiempo suficiente para dedicarse a ello, y refuerza el sentido de la urgencia asociado con su tema concreto.
 
@@ -75,9 +76,6 @@ Por último, otro consejo importante al momento de formular su campaña y objeti
 </ol>
 
 Uno de los métodos más efectivos para confeccionar un mapa de estos  es el **Análisis PESTLE**, y esta guía brinda una plantilla y una “guía paso a paso” para utilizar dicho método. 
-
-![]({{site.baseurl}}/img/Module 1/Module 1-2.png)
-Imagen: cortesía de usuario de Flickr [plnaugle](http://www.flickr.com/photos/plnaugle/8334714234), proporcionada bajo licencia [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
 ###**Diagrama GROW**
