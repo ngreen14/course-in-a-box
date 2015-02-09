@@ -1,5 +1,5 @@
 ---
-title: Objectivos
+title: Objetivos
 published: true
 ---
 
