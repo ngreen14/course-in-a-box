@@ -12,7 +12,7 @@ published: true
 </ul></ul>
 
 **Materiales de Lectura Optativa**
-<ul><li>Análisis SWOT (descargar la planilla de trabajo [worksheet]): http://www.mindtools.com/pages/article/newTMC_05.htm
+<ul><li>Análisis SWOT (descargar la planilla de trabajo [worksheet]): [http://www.mindtools.com/pages/article/newTMC_05.htm](http://www.mindtools.com/pages/article/newTMC_05.htm).
 <li>Teoría del Cambio (Ejemplo):
 [http://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/example/#2](http://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/example/#2).
 <li>UNICEF Advocacy Toolkit  (Ingles) 
