@@ -26,7 +26,7 @@ A veces quienes impulsan acciones de defensa y promoción suelen enfocarse en as
 ###**Formular objetivos**
 
 ![]({{site.baseurl}}/img/Module 1/Module 1-2.png)
-Imagen: cortesía de usuario de Flickr [plnaugle](http://www.flickr.com/photos/plnaugle/8334714234), proporcionada bajo licencia [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/)
+<p> Imagen: cortesía de usuario de Flickr [plnaugle](http://www.flickr.com/photos/plnaugle/8334714234), proporcionada bajo licencia [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/) </p>
 
 La primera categoría del Diagrama GROW y de numerosas guías de planificación estratégica consiste en fijar un objetivo o grupo de objetivos, y por ello antes de adentrarnos en el tema de la planificación estratégica, es conveniente hablar sobre qué constituye un objetivo bien estructurado. Una pauta general para formular sus propios objetivos es asegurarse que estos cumplan los parámetros **SMART**, es decir, que sean específicos, medibles, factibles, relevantes y con un plazo determinado. Es importante que un objetivo sea más específico que general, para que usted pueda invertir adecuadamente sus recursos y  así se incrementen las posibilidades de alcanzarlo. Un objetivo medible es aquel en el cual usted puede formular indicadores o criterios específicos que le permitirán medir los avances conseguidos. De manera similar, los objetivos factibles son aquellos que pueden alcanzarse empleando los recursos con los que cuenta o que puede conseguir. 
 
