@@ -4,7 +4,7 @@ title: ANTECEDENTES Página 1
 
 ###**Por qué Internet Abierto es Importante para Usted**
 
-<div align="center">![]({{site.baseurl}}/img/module 0/Module0-1.png)</div>
+![]({{site.baseurl}}/img/module 0/Module0-1.png)
 *Imagen: “Open Wires” de opensource.com, proporcionada bajo licencia CC BY-NC-SA 2.0*
 
 *Antes de continuar, le aconsejamos ver el siguiente video con una breve presentación sobre la historia de Internet.*
