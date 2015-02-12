@@ -8,7 +8,7 @@ Si bien no existe un acuerdo a nivel internacional sobre la definición  de “I
 
 Es importante no suponer que todos los defensores luchan por  preservar Internet Abierto, sino que muchos luchan por crear un Internet Abierto en sus comunidades. Si bien los principios de Internet Abierto incluyen la libertad de expresión, el derecho a la privacidad, la libertad de opinión y la libertad de asociación, no se limitan a aquellos reconocidos en la DUDH y la Convención Americana. Aunque la importancia de Internet en la vida cotidiana de miles de millones de personas es innegable, más de la mitad de la población mundial todavía no cuenta con acceso a Internet y la mayoría de quienes no tienen acceso están en el Sur Global. Las diversas causas de la “brecha digital” se analizarán en el Módulo 7; sin acceso a Internet, la capacidad de los ciudadanos de acceder a información y participar en oportunidades económicas, educativas, políticas y culturales se ve limitada. Esto puede repercutir negativamente no solo en las personas, sino también en la sociedad que integran. La falta de acceso a Internet limita la posibilidad de las personas de ejercer sus derechos humanos fundamentales, por lo que la disponibilidad de acceso asequible a Internet es un principio crucial para el Internet Abierto.
 
-*Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho*.
+*Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho:*
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe></div>
 
@@ -16,7 +16,7 @@ Es importante no suponer que todos los defensores luchan por  preservar Internet
 Una vez que los ciudadanos tienen acceso a Internet (ver en el Módulo 7 sobre “Acceso a Internet” un análisis más minucioso), debe existir una garantía de que podrán consultar los contenidos que deseen sin discriminación, cambios en la calidad o intromisión basados en el tipo de contenido o servicio. Este es el fundamento del principio de neutralidad de la red, otro tema que se abordará más detenidamente en el Módulo 9. Sin neutralidad de la red, los Proveedores de Servicios de Internet (PSI) pueden impedir que los usuarios visiten determinados sitios web o reducir la velocidad para incrementar el tráfico hacia otros sitios. Sin leyes y políticas que promuevan la neutralidad de la red, tanto gobiernos como PSI podrían afectar negativamente la posibilidad de las poblaciones de expresarse libremente en línea y acceder a información. Imaginemos si, en época electoral, un PSI pudiera afectar el acceso al sitio web de un candidato para favorecer a otro, o bloquear foros de mensajes o sitios webs de noticias el día de los comicios. Si bien este escenario puede parecer improbable, es necesario promover políticas que impidan que se manifiesten este tipo de situaciones.
 
 
-*Antes de continuar, vea el video preparado por FreeNet sobre neutralidad de la red*
+*Antes de continuar, vea el video preparado por FreeNet sobre neutralidad de la red:*
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WHywlf8ERrY" frameborder="0" allowfullscreen></iframe> </div>
 
