@@ -12,3 +12,5 @@ OBJETIVOS: este módulo servirá como introducción al concepto de “Internet A
 <li> ¿Qué otros principios se aplican a Internet Abierto?
 </ul>
 
+
+<p>This is <a href="http://google.com" target="_blank">a link</a> that opens in a new window.</p>
