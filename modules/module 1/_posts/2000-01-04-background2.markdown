@@ -10,6 +10,8 @@ Al utilizar el Diagrama de Estrategia GROW, deberá revisarlo de izquierda a der
 
 *Nota al lector: Antes de continuar, consulte el <a href="http://www.liverealnow.org/resource/129922241021210.pdf" target="_blank">Diagrama de Estrategia GROW</a> desarrollado por Midwest Academy. Al final de esta sección introductoria, se le asignará una tarea que deberá completar aplicando el Diagrama de Estrategia GROW, por lo que es importante que se familiarice con él previamente.*
 
+![]({{site.baseurl}}/img/Module 1/Module 1-3.png)
+
 En la categoría **objetivos**, deberá enumerar un **objetivo a corto, mediano** y **largo plazo** para su tema. Al final de este curso, habrá adquirido un conocimiento general de todos los temas relevantes, pero posiblemente sea necesario profundizar la investigación de temas de referencia a fin de fijar objetivos SMART para su campaña, sin olvidar también  los factores externos que pueden afectar su campaña  y que usted identificó en el **Análisis PESTLE**. 
 
 Al formular sus objetivos, debe pensar cómo su objetivo a corto plazo puede ayudarle a cumplir sus objetivos a mediano y largo plazo (y en este mismo sentido, cómo su objetivo a mediano plazo incidirá en el objetivo a largo plazo). Según el tema en particular, el plazo para lo que se consideran objetivos a corto, mediano o largo plazo será diferente. En el Módulo 3 (“cuándo” y “dónde”), analizaremos cómo determinar el momento oportuno para cada uno en su campaña. 
