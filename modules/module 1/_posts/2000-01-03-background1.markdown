@@ -1,3 +1,7 @@
+---
+title: ANTECEDENTES Página 2
+---
+
 ###**Planificación estratégica**
 
 A veces quienes impulsan acciones de defensa y promoción suelen enfocarse en aspectos tácticos (como protestas o lobby) antes que en la estrategia, sin embargo no basta con que una táctica sea elocuente o interesante si no es eficaz a la hora de cumplir sus objetivos mayores de defensa y promoción de una causa. Ahora ya que conoce el concepto y los distintos tipos de defensa y promoción, es momento de analizar la **planificación estratégica**. La planificación estratégica es un método sólido de planificar para un objetivo concreto, que toma en cuenta múltiples factores organizacionales y externos. La planificación estratégica de iniciativas de defensa y promoción  permite potenciar su impacto y efectividad. Hay numerosos métodos que resultan útiles a efectos de desarrollar su planificación estratégica, pero en este curso nos referiremos al [Diagrama de Estrategia GROW](http://www.liverealnow.org/resource/129922241021210.pdf). GROW aborda los principales pasos para la planificación estratégica y es una herramienta que se puede compartir y adaptar fácilmente a sus propios grupos y coaliciones. 
