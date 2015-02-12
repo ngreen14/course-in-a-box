@@ -1,5 +1,5 @@
 ---
-title: ANTECEDENTES 2
+title: Qué es Internet Abierto y Otros Principios Aplicables
 ---
 
 ###**Qué es Internet Abierto y Otros Principios Aplicables**
