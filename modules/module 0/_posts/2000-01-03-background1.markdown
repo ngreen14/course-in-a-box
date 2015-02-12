@@ -11,7 +11,7 @@ Es importante no suponer que todos los defensores luchan por  preservar Internet
 
 *Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho*.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe>
+<div align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe></div>
 
 
 Una vez que los ciudadanos tienen acceso a Internet (ver en el Módulo 7 sobre “Acceso a Internet” un análisis más minucioso), debe existir una garantía de que podrán consultar los contenidos que deseen sin discriminación, cambios en la calidad o intromisión basados en el tipo de contenido o servicio. Este es el fundamento del principio de neutralidad de la red, otro tema que se abordará más detenidamente en el Módulo 9. Sin neutralidad de la red, los Proveedores de Servicios de Internet (PSI) pueden impedir que los usuarios visiten determinados sitios web o reducir la velocidad para incrementar el tráfico hacia otros sitios. Sin leyes y políticas que promuevan la neutralidad de la red, tanto gobiernos como PSI podrían afectar negativamente la posibilidad de las poblaciones de expresarse libremente en línea y acceder a información. Imaginemos si, en época electoral, un PSI pudiera afectar el acceso al sitio web de un candidato para favorecer a otro, o bloquear foros de mensajes o sitios webs de noticias el día de los comicios. Si bien este escenario puede parecer improbable, es necesario promover políticas que impidan que se manifiesten este tipo de situaciones.
