@@ -4,6 +4,7 @@ title: Antecedentes Página 2
 
 ###**Fijar un Plazo para Poner en Práctica Ideas**
 
+![]({{site.baseurl}}/img/Module 3/Module 3-2.png)
 *Imagen: “<a href="http://www.flickr.com/photos/smemon/4961717384" target="_blank">Time</a>” del usuario de flickr Sean MacEntee, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>*
 
 Lo ideal sería que usted ya esté involucrado en el proceso de definición de políticas (como lobista, asesor, donante, etc.) mucho antes de que se proponga o analice un proyecto legislativo, incluso ya debería haber trazado un mapa de quiénes trabajan con usted o en contra de sus intereses en estos temas, a partir del Diagrama GROW. De manera similar, a medida que comienza a trabajar en el área de Internet  Libre y Abierto, sus tácticas deberían enfocarse en acciones proactivas destinadas a generar conciencia sobre su organización y su causa, así como a propiciar cambios. En este sentido, las situaciones planteadas a continuación, serán situaciones en donde usted se encontrará en una posición en la que sus esfuerzos de promoción y defensa podrán resultar más provechosos. Por ejemplo:
