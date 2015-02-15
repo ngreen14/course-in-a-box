@@ -2,7 +2,7 @@
 title: ANTECEDENTES Página 3
 ---
 
-###**Dónde trabajar**
+###**Dónde Trabajar**
 
 Según el tema, podrá destinar gran parte de su tiempo a trabajar en su localidad en contacto con los responsables de políticas públicas, o a escala nacional podrá utilizar su tiempo en la capital, asistiendo a charlas con el fin de entablar lazos y formar coaliciones. Dado que el lugar donde se desarrollan los debates sobre el Internet Libre y Abierto o gobernanza de Internet varían según el país, usted deberá explorar individualmente estos ámbitos como tarea para este módulo.
 
