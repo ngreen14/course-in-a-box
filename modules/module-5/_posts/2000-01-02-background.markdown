@@ -2,7 +2,7 @@
 title: ANTECEDENTES Página 1
 ---
 
-###**Introducción a la Gobernanza de Internet **
+###**Introducción a la Gobernanza de Internet**
 
 Como se mencionó en el Módulo 0, la **gobernanza de Internet** (GI) es un concepto general que hace referencia al desarrollo y la implementación, en constante evolución, de principios, políticas y actividades de toma de decisión, llevadas a cabo por diversos actores (que analizaremos a continuación) y que impactan el Internet. Si bien la definición exacta varía según la organización y el contexto, otra definición útil es la ofrecida por el Grupo de Trabajo sobre la Gobernanza de Internet de la ONU, que definió tal concepto como la “formulación y aplicación por gobiernos, el sector privado y la sociedad civil, en sus respectivos roles, de principios, normas, procedimientos de decisión y programas comunes que determinan la evolución y el uso de Internet”.
 .
