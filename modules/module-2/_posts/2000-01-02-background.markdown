@@ -4,7 +4,7 @@ title: ANTECEDENTES Página 1
 
 ###**Constituyentes, Aliados, Opositores, Destinatarios y Coaliciones**
 
-![]({{site.baseurl}}/img/module 0/Module2-1.png)
+![]({{site.baseurl}}/img/module 2/Module2-1.png)
 
 Cuando usted completó el diagrama sobre planificación estratégica, había dos categorías que correspondían a la pregunta “quiénes” y que se analizarán en este módulo. La primera incluía los constituyentes, aliados y opositores. Los constituyentes  son aquellas personas u organizaciones que comparten su causa y se sumarán a su campaña, ya sea mediante su colaboración/apoyo externo o incorporándose a su organización. A menudo, los constituyentes están directamente afectados por el tema. De manera similar, los **aliados** son aquellas personas u organizaciones que no forman parte de su organización pero que comparten su causa y brindarán su apoyo o colaboración a su trabajo o campaña. A diferencia de los constituyentes, el tema no necesariamente los afecta. 
 
