@@ -4,7 +4,7 @@ title: ANTECEDENTES Página 1
 
 ###**Oportunidad Dentro de un Marco Determinado**
 
-![]({{site.baseurl}}/img/module 3/Module3-1.png)
+![]({{site.baseurl}}/img/Module 3/Module 3-1.png)
 *Imagen: “<a href="http://www.flickr.com/photos/beantin/7649183772" target="_blank">Web analytics framework</a>” proporcionada por usuario de flickr James Royal-Lawson bajo licencia <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" >CC BY-SA 2.0</a>*
 
 A esta altura usted ya se ha formado una idea más acertada de cómo determinar sus objetivos y cómo convocar a sus aliados, pero antes de dedicarse a formular tácticas, es necesario comprender cuál es el momento más oportuno para sus campañas de promoción y defensa. Si bien las sugerencias a continuación son simplemente orientativas, algunas podrían tener mayor o menor relevancia de acuerdo al grado de apertura política y al proceso legislativo de su país. Además de estos momentos en concreto, cuando usted comience a pensar acerca de cuándo desea alcanzar los objetivos y aplicar algunas de sus tácticas, será necesario meditar sobre el momento oportuno de intervención, teniendo en cuenta el marco de tiempo dentro del cual trabaja. Por ejemplo, si trabaja en un proceso extenso de elaboración legislativa, el “momento oportuno” para usted podría ser diferente del de otros actores cuya fortaleza radica en llevar adelante un trabajo de promoción  y defensa a nivel de las bases y de rápida respuesta. 
