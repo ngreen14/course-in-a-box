@@ -2,7 +2,7 @@
 title: Antecedentes Página 2
 ---
 
-###**Actores y Partes Interesadas de Internet y su Gobernanza **
+###**Actores y Partes Interesadas de Internet y su Gobernanza**
 
 En materia de gobernanza de Internet, los actores y las partes interesadas son aquellas personas u organizaciones que tienen un interés particular o se ocupan de problemáticas que  son tratadas en discusiones sobre  gobernanza de Internet. Los actores y partes interesadas pueden afectar las decisiones y acciones que se adopten, y estas pueden tener impacto en ellos. 
 
