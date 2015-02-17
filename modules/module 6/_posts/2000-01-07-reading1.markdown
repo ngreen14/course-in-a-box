@@ -7,7 +7,7 @@ published: true
 **Materiales de Lectura Optativa**
 
 <ul>
-<li> Baak, Jeonghyun y Carolina Rossini. *Issue Comparison of Major Declarations on Internet Freedom.* Rep. Best Bits, verano de 2013. Web: <a href="http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/" target="_blank">http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/</a>.
+<li> Baak, Jeonghyun y Carolina Rossini. *Issue Comparison of Major Declarations on Internet Freedom.* Rep. Best Bits, verano de 2013. Web: <a href="http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/" target="_blank">http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/</a>.</li>
 
-<li>Organización de los Estados Americanos, Comisión Interamericana de Derechos Humanos, *Libertad de expresión e Internet: Informe de la Relatoría Especial para la Libertad de Expresión*, 2013, págs. 1-11, disponible en: <a href="http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf" target="_blank">http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf</a>.
+<li>Organización de los Estados Americanos, Comisión Interamericana de Derechos Humanos, *Libertad de expresión e Internet: Informe de la Relatoría Especial para la Libertad de Expresión*, 2013, págs. 1-11, disponible en: <a href="http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf" target="_blank">http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf</a>.</li>
 </ul>
