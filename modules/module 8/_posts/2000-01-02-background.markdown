@@ -2,6 +2,10 @@
 title: ANTECEDENTES Página 1
 ---
 
+###**Introducción**
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WHywlf8ERrY" frameborder="0" allowfullscreen></iframe></div>
+
 En el Módulo 0, analizamos los numerosos principios necesarios para mantener un Internet Libre y Abierto, entres los cuales se incluía el principio de la neutralidad de la red. Una vez que los ciudadanos tienen acceso a Internet de manera asequible, debe existir una garantía de que podrán consultar los contenidos que deseen sin discriminación y sin cambios basados en la calidad o intromisión, pudiendo acceder a cualquier tipo de contenido o servicio. Este es el fundamento del principio de **neutralidad de la red**, que será nuestro foco en este módulo. 
 
 La neutralidad de la red requiere que Internet sea mantenido como una plataforma abierta, en la que los proveedores de acceso a la red tratan por igual y sin discriminación a todos los contenidos, aplicaciones y servicios. La neutralidad de la red es importante para todos aquellos que tienen acceso a Internet, dado que permite que usuarios comunes, incluidos quienes crean contenidos (por ejemplo, quienes publican en YouTube), puedan crear y consultar información de forma indiscriminada. 
