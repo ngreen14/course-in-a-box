@@ -29,6 +29,6 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-jumbotron_color: "#FFFFFF"
+jumbotron_color: "#C0C0C0"
 jumbotron_background_image: "header.svg"
 jumbotron_image: "OpenInternetcourselogo.png"
