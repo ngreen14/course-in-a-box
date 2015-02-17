@@ -16,6 +16,8 @@ Numerosos defensores y expertos en derechos humanos también han planteado que l
 
 Es importante tener en cuenta al debatir el impacto de la vigilancia sobre la privacidad, y cuestiones de privacidad en general,  la existencia de otros actores además de los gobiernos que también incurren en violaciones. Por ejemplo, las empresas del sector privado, como los proveedores de correo electrónico o los Proveedores de Servicios de Internet, tienen cada vez mayor acceso a datos personales y también pueden violar el derecho a la privacidad o abusar del consentimiento dado por sus usuarios al contratar un servicio o acceder un contenido.
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tnDxRjMDGQM" frameborder="0" allowfullscreen></iframe></div>
+
 ###**Cómo la Gobernanza de Internet Aborda la Privacidad**	
 
 Dentro del Foro de Gobernanza de Internet (FGI), el tema de la privacidad y los derechos humanos se puso más de relieve en los foros  que tomaron lugar en años recientes (2013 y 2014). En contraste, la privacidad como un derecho humano ha sido un principio fundamental de la <a href="http://internetrightsandprinciples.org/site/wp-content/uploads/2011/09/pdf/spanish.pdf" target="_blank">Carta de Derechos Humanos y Principios de Internet</a> de la Coalición Dinámica sobre Derechos y Principios en Internet, que analizamos en el Módulo 6. En la versión de los principios redactada en español, el derecho a la privacidad figura debajo del derecho a la confidencialidad y a la protección de datos.
