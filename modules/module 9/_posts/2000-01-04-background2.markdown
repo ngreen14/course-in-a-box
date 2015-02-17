@@ -9,7 +9,7 @@ En la primavera de 2014, el Tribunal de Justicia de la Unión Europea (TJUE) dic
 ###**Herramientas para Proteger la Privacidad de los Defensores**
 
 ![]({{site.baseurl}}/img/Module 9/Module 9-3.png)
-*Imagen: “Security Training Cards” de Tactical Technology Collective, proporcionada bajo licencia <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">CC BY-NC-SA 3.0</a>*
+<p><i>Imagen: “Security Training Cards” de Tactical Technology Collective, proporcionada bajo licencia <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">CC BY-NC-SA 3.0</a></i></p>
 
 Como defensor o activista, es sumamente importante que usted comprenda de qué manera puede protegerse a sí mismo y proteger sus comunicaciones digitales y sus datos personales en línea. Las herramientas de navegación segura o las plataformas de mensajes/correo electrónico encriptadas pueden ser útiles en el trabajo con personas en riesgo, fuentes anónimas y en países donde se sabe o se sospecha que realizan  programas de vigilancia masiva de Internet/telecomunicaciones o se ejerce la censura. Estas herramientas también pueden ser útiles al investigar temas controvertidos, o para evitar que su computadora sea objeto de piratería informática, programas malignos y virus. A menudo no se presta demasiada atención a cuestiones como crear contraseñas seguras o ajustar las configuraciones de privacidad de sitios de medios sociales, pero son formas sencillas que usted puede tener en cuenta para comenzar a protegerse en línea. 
 
