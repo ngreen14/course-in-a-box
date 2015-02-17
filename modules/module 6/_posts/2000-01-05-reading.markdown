@@ -4,7 +4,7 @@ published: true
 ---
 
 **Materiales de Lectura Obligatoria**
-<ul><li> Asociación para el Progreso de las Comunicaciones (Association for Progressive Communications: Paquete de Capacitación Multimedia 
+<ul><li> Asociación para el Progreso de las Comunicaciones (Association for Progressive Communications): Paquete de Capacitación Multimedia 
 <ul><li>Documento sobre introducción a los derechos humanos, las TIC e Internet [Introduction to Human Rights, ICTs, and the Internet Handout]: <a href="http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_Intro_Handout.pdf" target="_blank">http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_Intro_Handout.pdf</a>
 <li>Documento sobre libertad de expresión y libertad de información [Freedom of Expression and Freedom of Information Handout]: <a href="http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_FX-FOI_Handout.pdf" target="_blank">http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_FX-FOI_Handout.pdf</a>
 <li>Documento sobre libertad de asociación y libertad de reunión [Freedom of Association and Freedom of Assembly Handout]: <a href="http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_FOA_Handout.pdf" target="_blank">http://itrainonline.org/itrainonline/mmtk/APC_IRHRCurriculum_FOA_Handout.pdf</a> </ul>
