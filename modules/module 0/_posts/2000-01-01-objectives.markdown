@@ -3,7 +3,7 @@ title: Objetivos
 published: true
 ---
 
-### Módulo 0: Introducción al concepto de Internet Abierto
+### Módulo 0: Introducción al Concepto de Internet Abierto
 
 OBJETIVOS: Este módulo servirá como introducción al concepto de “Internet Abierto”, así como a los temas que usted defenderá. En tanto tiene carácter introductorio, el presente módulo presenta un mayor contenido de lectura que los siguientes módulos, enfocados en la adquisición de habilidades. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
 <ul><li>¿Qué es Internet Abierto?
