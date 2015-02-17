@@ -6,4 +6,6 @@ published: true
 
 **Materiales de Lectura Optativa**
 <ul><li> Organización de los Estados Americanos, Comisión Interamericana de Derechos Humanos, *Libertad de expresión e Internet: Informe de la Relatoría Especial para la Libertad de Expresión*, 2013, págs. 11-16, disponible en: <ahref="http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf" target="_blank">http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf</a>. </li>
-<li>Marco Modelo sobre Neutralidad de la Red [Model Framework on Network Neutrality]. Rep. Dynamic Coalition on Network Neutrality, 2013, disponible en: <a href="http://www.palermo.edu/cele/pdf/MODEL-NEUTRALITY.pdf" target="_blank">http://www.palermo.edu/cele/pdf/MODEL-NEUTRALITY.pdf</a>. </li></ul>
+<li>Marco Modelo sobre Neutralidad de la Red [Model Framework on Network Neutrality]. Rep. Dynamic Coalition on Network Neutrality, 2013, disponible en: <a href="http://www.palermo.edu/cele/pdf/MODEL-NEUTRALITY.pdf" target="_blank">http://www.palermo.edu/cele/pdf/MODEL-NEUTRALITY.pdf</a>. </li>
+<li>El video preparado por <a href="https://lamula.pe/" target="_blank">Lamula.pe</a> sobre neutralidad de la red:<a href="http://youtu.be/XqAk20mMDS0" target="_blank">http://youtu.be/XqAk20mMDS0</a>
+</ul>
