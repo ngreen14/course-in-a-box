@@ -3,11 +3,8 @@ title: Objetivos
 published: true
 ---
 
-### Módulo 0: Introducción al concepto de Internet Abierto
+### Módulo 4: “Cómo”: Tácticas y Herramientas para Campañas Exitosas
 
-OBJETIVOS: este módulo servirá como introducción al concepto de “Internet Abierto”, así como a los temas que usted defenderá. En tanto tiene carácter introductorio, el presente módulo presenta un mayor contenido de lectura que los siguientes módulos, enfocados en la adquisición de habilidades. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
-<ul><li> ¿Qué es Internet Abierto?
-<li> ¿Por qué los principios y las normas de derechos humanos se aplican a Internet?
-<li> ¿Cuáles principios y normas de derechos humanos se aplican a Internet? 
-<li> ¿Qué otros principios se aplican a Internet Abierto?
+OBJETIVOS: Este es el último de los módulos que tiene como objetivo el desarrollo de habilidades para la promoción y defensa de derechos, y que le brindará los recursos para generar las aptitudes concretas que se necesitan para planificar, definir y ejecutar campañas de promoción y defensa exitosas. Estas aptitudes pueden incluir desde campañas dirigidas a destinatarios específicos (p. ej., lobby) hasta acciones populares como protestas en la vía pública. Ahora bien, dado que la legislación y las mejores prácticas sobre lobby e interacción con responsables de políticas públicas varían considerablemente de un país a otro, el contenido de este módulo abordará en particular la promoción y defensa de base y digital. Al término de este módulo, usted deberá contar con los recursos necesarios para responder la siguiente pregunta:
+<ul><li> ¿Cómo determino qué táctica tendrá mayor impacto para mi causa?
 </ul>
