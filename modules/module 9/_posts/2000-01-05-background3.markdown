@@ -6,7 +6,7 @@ title: ANTECEDENTES Página 4
 
 *Antes de continuar, le aconsejamos que vea el siguiente video de ONG Derechos Digitales sobre protección de datos personales*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ObulAMUaT74" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ObulAMUaT74" frameborder="0" allowfullscreen></iframe></div>
 
 La protección de los datos personales es una cuestión transversal de sectores y actores: los gobiernos (cómo los gobiernos utilizan los datos personales), el sector de salud (cómo la industria de la atención de la salud o los investigadores médicos utilizan datos médicos), las empresas (cómo las compañías del sector privado utilizan datos de los consumidores) y otros actores e industrias. Algunas veces, el uso legal y justificado de datos personales puede ser beneficioso, como cuando se utiliza para investigaciones científica, para mejoras tecnológicas y/o para promover proyectos de ciencia abierta y datos abiertos. Al mismo tiempo, con las recientes preocupaciones en materia de ciberseguridad y los escándalos que se han producido vinculados con piratería informática perpetrada por los hackers, los consumidores y los ciudadanos comunes tienen mayor interés en cómo los gobiernos, las empresas y otras personas acceden a sus datos personales y como aquellos los resguardan de terceros. En América Latina, se debate activamente de qué manera las garantías constitucionales de privacidad tienen puntos de contacto con la realidad del uso de datos personales por parte del gobierno y del sector privado. 
 
