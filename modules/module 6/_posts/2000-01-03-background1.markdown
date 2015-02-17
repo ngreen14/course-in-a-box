@@ -20,6 +20,9 @@ Como mencionamos en el Módulo 0, varias organizaciones de la sociedad civil, or
 
 Si desea consultar una lista exhaustiva de declaraciones y conjuntos de principios vinculados con libertades en Internet y comprender su diferencias y similitudes, usted puede leer el artículo de Jeonghyun Baak y Carolina Rossini, y explorar la tabla comparativa de las declaraciones adjuntas al documento principal, “<a href="http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/" target="_blank">Comparación temática de principales declaraciones sobre libertad en Internet</a>” (Issue Comparison of Major Declarations on Internet Freedom). Este documento fue usado como una base importante de discusión para el evento de la Net Mundial del 2014, el cual  concluyó lanzando su propia carta de principios denominada <a href="http://netmundial.br/wp-content/uploads/2014/04/NETmundial-Multistakeholder-Document.pdf" target="_blank">NETmundial Multistakeholder Statement</a>.
 
+*Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho:*
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe></div>
 
 ###**Cómo se Abordan los Derechos Humanos en la Gobernanza de Internet**
 
