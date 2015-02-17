@@ -8,7 +8,7 @@ La neutralidad de la red requiere que Internet sea mantenido como una plataforma
 
 ![]({{site.baseurl}}/img/Module 8/Module 8-1.png)
 
-<p>*Imagen: de Public Knowledge, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank">CC BY-SA 3.0</a>*</p>
+<p><i>Imagen: de Public Knowledge, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank">CC BY-SA 3.0</a></i></p>
 
 Como podrá imaginar, el tema de la neutralidad de la red tiene estrecha relación con el módulo anterior sobre acceso a Internet. En este sentido, aunque haya acceso a Internet, si los usuarios no pueden acceder a diversos tipos de contenido sin discriminación, entonces no se puede sostener que el “acceso” esté plenamente asegurado. En segundo lugar, al mantenerse solido el principio  de neutralidad de la red se garantiza un acceso asequible a Internet. Por el contrario, si la neutralidad de la red está comprometida, los Proveedores de Servicios de Internet (PSI) podrían aplicar tarifas más elevadas a algunos tipos de sitios web o contenidos a través de un sistema de **prioridad por tarifa** que menoscabaría el acceso de los ciudadanos a un Internet asequible. Más aún, a través de la prioridad por tarifa, los PSI pueden dividir los contenidos en “estratos” (y en consecuencia quienes tengan recursos podrán solventar el costo de estar en estratos superiores o más veloces),  afectando la habilidad de que quienes innovan en línea para competir y generar avances.
 
