@@ -21,5 +21,5 @@ published: true
 <li>Vitaliev, Dmitri. Digital Security and Privacy for Human Rights Defenders. Front Line Defenders, febrero de 2007. Web: <a href="http://www.frontlinedefenders.org/files/en/esecman.es_.pdf" target="_blank">http://www.frontlinedefenders.org/files/en/esecman.es_.pdf</a>.
 </li>
 
-<li>El video preparado por <a href="https://www.privacyinternational.org/" target="_blank">Privacy International</a> sobre monitoreos de Internet en Colombia:<a href="https://www.youtube.com/watch?v=0tHQ1_OlBzw" target="_blank">https://www.youtube.com/watch?v=0tHQ1_OlBzw</a>
+<li>El video preparado por <a href="https://www.privacyinternational.org/" target="_blank">Privacy International</a> sobre monitoreos de Internet en Colombia: <a href="https://www.youtube.com/watch?v=0tHQ1_OlBzw" target="_blank">https://www.youtube.com/watch?v=0tHQ1_OlBzw</a>
 </li></ul>
