@@ -27,7 +27,7 @@ A continuación una breve lista de las distintas tácticas que puede utilizar pa
 <li>Sin embargo... esté atento a quiénes participan en su manifestación o protesta. Podría suceder que una persona que no esté vinculada directamente con su causa actúe de manera errática o distorsione su mensaje ante los espectadores y medios de comunicación que se encuentren reportando la protesta. </li>
 <li>Tenga en cuenta además que, incluso tras una manifestación o protesta de gran magnitud, igualmente usted podrá necesitar otras tácticas formales para provocar el cambio al cual usted y su organización aspiran.</li></ul></li>
 
-<p>![]({{site.baseurl}}/img/Module 4/Module 4-1.png)</p>
+![]({{site.baseurl}}/img/Module 4/Module 4-1.png)
 <p><i>Manifestantes en México D.F. en abril de 2014 contra un nuevo proyecto de ley de telecomunicaciones. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target="_blank">Imagen</a>: de José Robles Maloof, proporcionada bajo licencia <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0</a></i></p>
 
 <li>Conferencias o debates públicos
