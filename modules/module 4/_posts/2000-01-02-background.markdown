@@ -39,7 +39,7 @@ A continuación una breve lista de las distintas tácticas que puede utilizar pa
 <li><i>Ejemplo: En Estados Unidos, la organización de derechos digitales Fight for the Future instó a <a href="http://cms.fightforthefuture.org/neutrality/" target="_blank">boicotear</a> a las compañías de telecomunicaciones Verizon y AT&T por su posición en cuestiones relativas a Neutralidad de la Red.</i></li> 
 <li>Sin embargo... para que su intento de exponer o afectar económicamente al destinatario sea exitoso, los boicots deben convocar un grado de apoyo muy significativo o una intensa atención y cobertura por parte de los medios de comunicación. Asimismo, deberá evaluar en qué medida un boicot contra una empresa podría repercutir en su posibilidad de obtener fondos o en el financiamiento de socios de la coalición.</li></ul></li>
 
-<div align="center">![]({{site.baseurl}}/img/Module 4/Module 4-2.png)</div>
+![]({{site.baseurl}}/img/Module 4/Module 4-2.png)
 <p><i>Imagen de la página del petitorio contra el Acuerdo de Asociación Transpacífico. El petitorio reunió más de 3 millones de firmas. Imagen: de Open Media, proporcionada bajo licencia <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target="_blank">CC BY-NC-SA 3.0</a></i></p>
 
 <li>Petitorios
