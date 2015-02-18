@@ -1,0 +1,23 @@
+---
+title: ANTECEDENTES Página 3
+---
+
+###**Lección Rápida: Marco Civil da Internet**
+
+![]({{site.baseurl}}/img/Module 6/Module 6-3.png)
+*Imagen: por Moreira Mariz/Agência Senado - bajo licencia <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC 2.0</a>*
+
+En 2014, el gobierno brasileño adoptó el <a href="http://participacao.mj.gov.br/marcocivil/lei-no-12-965-de-23-abril-de-2014/" target="_blank">Marco Civil da Internet</a> (Marco de Derechos Civiles para Internet) en el seno del Encuentro de Multiplicidad de Partes Interesadas sobre Gobernanza de Internet, NETmundial. La nueva ley establece los derechos  a la libertad de expresión, el acceso a la información y el derecho a la privacidad como los derechos esenciales de Internet, y contiene disposiciones relativas a la neutralidad de la red, responsabilidad de intermediarios y retención de datos.
+
+Si bien el Marco Civil se presentó por primera vez en 2009, la urgencia y necesidad de esta “Constitución de Internet”, como muchos la denominan, se intensificó tras las revelaciones de Edward Snowden sobre vigilancia masiva de la NSA. El proceso de adopción del Marco Civil ha sido singular, en el sentido de que en su mayoría fue transparente y algunas versiones preliminares del texto se sometieron a comentarios del público y a consulta con la sociedad civil y otros actores.
+
+Si bien el lenguaje del borrador final ha encontrado cierta oposición en académicos y la sociedad civil, el Marco Civil ha tenido un recibimiento favorable por la mayor parte del público internacional, ya que se considera el primer instrumento de su clase, es decir, una ley nacional vinculante que tutela los derechos digitales en línea. Hoy en día, el Marco Civil es visto por muchos como un ejemplo de legislación concreta que pone los derechos humanos como un punto central para la regulación del Internet en un país. 
+
+
+###**Lección rápida: Carta Magna para la Libertad de Internet en las Filipinas**
+
+Otro caso ejemplar de legislación local que destacó la importancia de los derechos humanos en Internet es el caso de Filipinas. En 2013, la <a href="http://www.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3327" target="_blank">Carta Magna para la Libertad de Internet en las Filipinas (CMLIF)</a> fue planteada por un senador y un miembro de la Cámara de Representantes ante el órgano legislativo de este país, y aunque aún se encuentra en su fase preliminar de ser aprobada, contribuirá a promover y proteger diversos derechos humanos y digitales en línea. 
+
+El artículo 1 del mencionado proyecto de ley estipula la responsabilidad del gobierno de promover el uso de Internet y de las TIC para todos, como un instrumento para la “vida, la libertad y la búsqueda de la felicidad”. El artículo 4 establece la responsabilidad del gobierno de proteger y promover la libertad de expresión, el derecho de petición y el derecho a publicar a contenidos en Internet. Asimismo, esta sección define además la responsabilidad del gobierno de prevenir la censura. 
+
+Esta “<a href="https://en.wikipedia.org/wiki/Magna_Carta_for_Philippine_Internet_Freedom" target="_blank">Carta Magna</a>” ha tenido una recepción auspiciosa entre defensores de Filipinas e internacionales de todo el mundo, como mecanismo para derogar la <a href="http://www.doj.gov.ph/files/cybercrime_office/RA_10175-Cybercrime_Prevention_Act_of_2012.pdf" target="_blank">gravosa ley sobre ciberdelito</a> sancionada en las Filipinas en 2012. Además constituye una norma revolucionaria sobre derechos de Internet que podría adquirir el nivel de importancia del Marco Civil de Brasil. 

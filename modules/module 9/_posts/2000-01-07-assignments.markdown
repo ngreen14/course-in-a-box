@@ -1,0 +1,8 @@
+---
+title: Tareas
+published: true
+---
+
+*Actividad 1*: Investigue las normas constitucionales, civiles, penales y de otro tipo de su país que protejan el derecho a la privacidad, y resúmalas en uno o dos párrafos que se añadirán al tema del foro de debate de este módulo. ¿Cómo se percibe el derecho a la privacidad en su comunidad local o nacional? ¿Alguna de estas leyes o normas se aplica específicamente a Internet? ¿Hay alguna manera de mejorar estas leyes? En caso afirmativo, ¿cuál sería?
+
+*Actividad 2*: Existen varios desafíos emergentes en cuanto al derecho a la privacidad, incluida la protección de los datos, los datos masivos, la biométrica, la vigilancia, el anonimato, la seguridad nacional y el impacto sobre las comunidades minoritarias o grupos vulnerables. Elija un país (el propio u otro) y analice con respecto a este alguna de las cuestiones que se indican a continuación. Por favor asegúrese de escribir algunas oraciones sobre cada una de las siguientes preguntas: ¿Cuáles son las implicaciones del desafío escogido para derecho a la privacidad? ¿De qué manera esta cuestión impacta en otros derechos? ¿Qué actores están más involucrados en este desafío? ¿Hay casos de estudio específicos que pueda señalar para explicar por qué esto es un problema? ¿Qué tipos de grupos o personas (si los hubiera) están trabajando en esta cuestión? ¿Qué grupos o personas se ven más afectados por esta cuestión? ¿Quién tiene la facultad de mejorar esta cuestión? Mediante un ejercicio de lluvia de ideas (brainstorming), elija dos modos de mejorar efectivamente esta cuestión.
