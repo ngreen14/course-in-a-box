@@ -21,6 +21,8 @@ No olvidemos que también existen otros acuerdos de libre comercio claves que ya
 
 
 ###**Transparencia** 
+
+![]({{site.baseurl}}/img/Module 10/Module 10-2.png)
 *Imagen: de ONG Derechos Digitales, proporcionada bajo licencia <a href="http://creativecommons.org/licenses/by-sa/3.0/cl/deed.es" target="_blank">CC BY-SA 3.0 CL</a>, disponible en <a href="http://tppabierto.net/" target="_blank">http://tppabierto.net/</a>*
 
 Posiblemente se pregunte por qué los defensores por un Internet Libre y Abierto tienen interés en estos acuerdos comerciales aparentemente convencionales. 
