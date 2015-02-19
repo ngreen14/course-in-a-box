@@ -2,7 +2,7 @@
 title: ANTECEDENTES Página 3
 ---
 
-###**Libertad de Expresión y Responsabilidad de Intermediarios **
+###**Libertad de Expresión y Responsabilidad de Intermediarios**
 
 En el módulo anterior, hemos analizado de qué manera el derecho a la privacidad puede verse amenazado por acciones de gobiernos, Proveedores de Servicios de Internet (PSI), usuarios, piratas informáticos y otros.
 
