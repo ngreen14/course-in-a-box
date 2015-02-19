@@ -16,7 +16,7 @@ Una de las propuestas más controversiales del ACTA era los *3 strikes*, esta co
 
 Actualmente, se encuentra suscrito por todos los países negociantes pero solo lo ha ratificado Japón, y por esta razón aún no es  exigible. 
 
- 
+![]({{site.baseurl}}/img/Module 10/Module 10-1.png) 
 *Imagen: Miembros del Parlamento Europeo celebran tras el rechazo del ACTA, proporcionada por <a href="https://www.flickr.com/photos/greensefa/7500899362/" target="_blank">The Greens-European Free Alliance</a> bajo licencia <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND 2.0</a>*
 
 
