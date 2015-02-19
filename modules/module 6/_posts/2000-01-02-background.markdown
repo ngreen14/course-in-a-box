@@ -5,7 +5,7 @@ title: ANTECEDENTES Página 1
 ###**Breve Introducción a los Estándares y Principios de Derechos Humanos**
 
 ![]({{site.baseurl}}/img/module 0/Module0-2.png)
-*Imagen: "Eleanor Roosevelt y la Declaración Universal de los Derechos Humanos en español”: Autoría: UN Photo*
+<p>*Imagen: "Eleanor Roosevelt y la Declaración Universal de los Derechos Humanos en español”: Autoría: UN Photo*</p>
 
 La idea de los derechos humanos ha sido reconocida durante muchos años, y algunos consideran que los derechos mencionados en el <a href="https://es.wikipedia.org/wiki/Cilindro_de_Ciro" target="_blank">Cilindro de Ciro</a>, de 2.600 años de antigüedad, son un claro ejemplo de ello. No obstante, recién en el último siglo, y tras la Segunda Guerra Mundial, los derechos humanos se convirtieron en parte integral del derecho internacional y los asuntos diplomáticos globales.
  
