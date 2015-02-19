@@ -2,7 +2,7 @@
 title: ANTECEDENTES Página 4
 ---
 
-###**Acuerdos Comerciales en la Gobernanza y la Incidencia en Internet
+###**Acuerdos Comerciales en la Gobernanza y la Incidencia en Internet**
 
 En el marco de la gobernanza de Internet, el tema de los acuerdos multilaterales de libre comercio internacional ha sido tratado por activistas de la sociedad civil, y también por grandes organizaciones internacionales como la Organización Mundial de la Propiedad Intelectual (OMPI) y la Organización Mundial del Comercio (OMC).
 
