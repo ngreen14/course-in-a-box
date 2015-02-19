@@ -35,7 +35,7 @@ Esta falta de transparencia ha sido criticada enérgicamente por legisladores y 
 
 ###**Propiedad Intelectual y Derechos de Autor**
 
-ADD COPYRIGHT IMAGE
+![]({{site.baseurl}}/img/Module 10/Module 10-3.png)
 
 Una protección equilibrada de los derechos de propiedad intelectual es importante para incentivar la creación intelectual sin impedir que las personas accedan a la información y el conocimiento, además de ayudarles a  fomentar su propia creatividad sin verse limitados por la excesiva privatización de la cultura que los rodea.
 
