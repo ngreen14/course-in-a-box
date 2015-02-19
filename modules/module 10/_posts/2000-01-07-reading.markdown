@@ -1,0 +1,11 @@
+---
+title: Materiales de lectura oBLIGATORIA
+published: true
+---
+
+**Materiales de Lectura Obligatoria**
+<ul><li> Furche, Carlos. <i>Chile y las Negociaciones del TPP: Análisis del Impacto Económico y Político</i>. Rep. ONG Derechos Digitales, mayo de 2013. págs. 9-16, 30-35, 39-43, <a href="https://www.derechosdigitales.org/wp-content/uploads/TPP-Informe-Furche-Digital_-Final-con-diseno_liviana.pdf" target="_blank">https://www.derechosdigitales.org/wp-content/uploads/TPP-Informe-Furche-Digital_-Final-con-diseno_liviana.pdf</a>.</li>
+
+<li>Pangburn, DJ. “The Next Free Trade Agreement Aims to Regulate the Internet”. Vice, 20 de mayo de 2013, <a href="http://motherboard.vice.com/blog/how-a-free-trade-agreement-aims-to-regulate-the-internet" target="_blank">http://motherboard.vice.com/blog/how-a-free-trade-agreement-aims-to-regulate-the-internet</a>.</li>
+
+<li>Rossini, Carolina. <i>El Impacto de los Acuerdos Comerciales Sobre la Innovación, la Libertad de Expresión y la Privacidad: Los Proveedores de Servicios de Internet: Seguridades y Responsabilidades</i>, Electronic Frontier Foundation, 2013, <a href="https://www.eff.org/files/filenode/tpp_isps.pdf" target="_blank">https://www.eff.org/files/filenode/tpp_isps.pdf</a>. </li></ul>
