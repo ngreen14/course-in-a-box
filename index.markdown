@@ -38,7 +38,7 @@ Board members served as advisors throughout the process of developing this cours
 <li>Kevin Bankston: Policy Director of the Open Technology Institute at New America Foundation (United States)
 <li> Eduardo Bertoni:  Director of the Center for Studies on Freedom of Expression and Access to Information (CELE) at the University of Palermo School of Law (Argentina)
 <li> Olga Cavalli: Director of the South School of Internet Governance (Argentina)
-<li> Alberto Cerda: International Affairs Director at ONG Derechos Digitales (Chile)
+<li> Alberto Cerda: Tenured Professor of Law and Technology at University of Chile Law School (Chile)
 <li> Laura DeNardis: Professor and Associate Dean in the School of Communication at American University and Senior Fellow of the Centre for International Governance Innovation (CIGI) (United States)
 <li> Toral D Cowieson: Senior Director of Internet Leadership Programs at the Internet Society (United States)
 <li> Demi Getschko: Director and President of NIC.br (Brazil)
