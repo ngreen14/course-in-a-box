@@ -51,4 +51,4 @@ Board members served as advisors throughout the process of developing this cours
 </ul>
 
 ##I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/syllabus/syllabus) to check out the syllabus and head here to register for the first facilitated class!
+Head over [here]({{site.baseurl}}/modules/syllabus/syllabus) to check out the syllabus and head <a href="https://docs.google.com/forms/d/1QLFVX5WRsO4FBWanKno2xQAhcjpNLZ79AHsyuZR9Zxc/viewform?usp=send_form" target="_blank">here</a> to register for the first facilitated class!
