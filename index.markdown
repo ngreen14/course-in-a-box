@@ -14,7 +14,7 @@ A través de una serie de materiales y actividades interactivas que incluyen muc
 El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al concepto de “Internet Libre y Abierto” y los temas que abarca de manera general. Los Módulos 1 a 5 describirán detalladamente las herramientas de promoción y defensa cómo por ejemplo el planteamiento de planes estratégicos, que a su vez contribuirán al desarrollo de habilidades de organización necesarias para la promoción y defensa de un Internet Libre y Abierto. Los seis módulos finales, del 6 al 11, brindarán una introducción a temas vinculados con Internet Libre y Abierto, como derechos humanos, neutralidad de la red, acceso a Internet, el impacto de tratados comerciales en el Internet, privacidad y ciber-seguridad. Al término del curso, los participantes deberán sentir que tienen una comprensión básica de la promoción y defensa de derechos humanos, los principales temas que repercuten en Internet y las áreas en las cuales pueden trabajar, especialmente dentro del marco de la gobernanza de Internet, para promover mejoras en estos planos.
 
 		
-## What are the course objectives?
+## Objetivos del curso
 <ul>
 
 <li>Capacitar a una nueva generación de pensadores para que influyan en la agenda sobre Internet Libre y Abierto, aplicando las habilidades desarrolladas por organizaciones globales de promoción y defensa de  derechos humanos;
