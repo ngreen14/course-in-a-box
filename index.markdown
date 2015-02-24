@@ -3,52 +3,57 @@ layout: index
 published: true
 ---
 
-## Creating and Maintaining an Open Internet for Everyone
+## Introducción al Curso y Descripción
 
-Today, the Internet is an integral part of everyday life, driving how we work, study, and socialize. The Internet facilitated an explosion in access to knowledge and information, but at the same time that the digital era empowered citizens to do and say more than ever before, it also made all of us more vulnerable to intrusions of all kinds. Technology has empowered governments and companies just as much as it has empowered us as citizens.
- 
-In this context, dealing with digital rights in an effective manner requires multidisciplinary knowledge that includes basic advocacy skill and a base-level understanding of the most debated Internet-related issues of the 2010’s. A well-prepared civil society, judiciary system, policy makers, and activists with diverse skill sets are all essential to meeting the challenges posed in the digital era.
- 
-Through a series of interactive materials and activities including toolkits, expert video interviews, and online discussion boards, this course will train a new generation of thinkers and actors to propose and execute an open internet policy agenda with a human rights approach to internet policy. 
+Hoy en día, Internet es parte integral de la vida cotidiana, y determina en gran medida el modo en que trabajamos, estudiamos y socializamos. Internet posibilitó una revolución en cuanto al acceso a conocimientos e información, pero al mismo tiempo que la era digital empoderó a los ciudadanos para que pudieran expresarse y actuar como nunca antes, también provocó que todos nosotros fuéramos más vulnerables a intromisiones por parte gobiernos y empresas (la tecnología también los ha empoderado). 
 
-The first module of this course, Module 0, will be an introduction into what we mean by “Open Internet” and the issues that fall within that realm. Modules 1-5 will give an in-depth look at advocacy tools and strategic plans that will provide the organizing skills needed to advocate on behalf on Open Internet. The final five modules, Module 6-10, will provide an overview of the Open Internet related issues including human rights, network neutrality, and access to Internet. By the end of the course, participants should feel that they have a base-level understanding of human rights advocacy, major issues that impact the Internet, and where they can work, especially within the Internet governance framework, to advocate for improvement in these areas.
+En este contexto, abordar de manera eficiente los derechos digitales y el impacto de Internet en los Derechos Humanos requiere conocimientos multidisciplinarios que incluyen habilidades básicas de promoción y defensa  para un Internet Libre y Abierto y una comprensión al menos básica de los temas vinculados al Internet que han suscitado mayor debate desde inicios de la década del 2010. Será indispensable entonces que la sociedad civil, el sistema judicial, los responsables de políticas y los activistas estén debidamente preparados para afrontar los desafíos que plantea la era digital.
+
+A través de una serie de materiales y actividades interactivas que incluyen muchas veces paquetes de herramientas, entrevistas en video con expertos y foros de debate en línea, el presente curso brindará capacitación a una nueva generación de pensadores y actores, con el objetivo  que puedan proponer e implementar una agenda que trace la ruta de nuevas y/o mejores  políticas públicas  para un Internet Libre y Abierto, desde una perspectiva de derechos humanos. 
+
+El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al concepto de “Internet Libre y Abierto” y los temas que abarca de manera general. Los Módulos 1 a 5 describirán detalladamente las herramientas de promoción y defensa cómo por ejemplo el planteamiento de planes estratégicos, que a su vez contribuirán al desarrollo de habilidades de organización necesarias para la promoción y defensa de un Internet Libre y Abierto. Los seis módulos finales, del 6 al 11, brindarán una introducción a temas vinculados con Internet Libre y Abierto, como derechos humanos, neutralidad de la red, acceso a Internet, el impacto de tratados comerciales en el Internet, privacidad y ciber-seguridad. Al término del curso, los participantes deberán sentir que tienen una comprensión básica de la promoción y defensa de derechos humanos, los principales temas que repercuten en Internet y las áreas en las cuales pueden trabajar, especialmente dentro del marco de la gobernanza de Internet, para promover mejoras en estos planos.
+
 		
 ## What are the course objectives?
 <ul>
-<li>Train a new generation of thinkers to influence an open internet agenda using skill sets developed by global human rights advocacy organizations;
-<li>Improve participants’ ability to use strategic planning methods for developing advocacy campaigns;
-<li>Enhance participants’ basic understanding of core modern issues related to Open Internet
-<li>Provide a plethora of external resources on most of the topics addressed so that participants can get a deeper understanding of the topics that interest them most
+
+<li>Capacitar a una nueva generación de pensadores para que influyan en la agenda sobre Internet Libre y Abierto, aplicando las habilidades desarrolladas por organizaciones globales de promoción y defensa de  derechos humanos;
+<li>Afianzar la capacidad de los participantes a la hora de utilizar métodos de planificación estratégica para la formulación de campañas de promoción y defensa;
+<li>Incrementar la comprensión básica de los participantes sobre temas actuales clave vinculados con el Internet Libre y Abierto;
+<li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.
 </ul>
 
-## How do I use this course?
+## Cómo Usar este Curso?
 
-The course materials provide the basis for a facilitated learning course in which the instructor will be available to assist in assignments and inquiries, but the student completes assignments and readings remotely. After the first class is facilitated, materials will be made available for self-taught learning. This course requires approximately 2 hours of study time per module during the both the instructor facilitated and self-taught learning format. The working language of the course is Spanish or English, though a large portion of assigned external readings are in English.
+Los materiales del curso deben usarse como base para el curso dirigido a distancia, en el cual el capacitador/tutor estará disponible para ayudar con las tareas asignadas y las dudas que puedan tener los participantes, aunque estos deberán completar las tareas y lecturas en forma remota. El curso exige aproximadamente de dos a cinco horas de estudio por módulo, tanto en la modalidad dirigida por un capacitador, como en la de autoaprendizaje. El curso se dicta en español (pero por favor tenga en cuenta que muchas de las lecturas optativas de referencia asignadas están en inglés). Las tareas deberán ser realizadas al final de cada módulo y enviadas al capacitador/tutor al siguiente correo: opencourse@publicknowldge.org. 
 
-For each module, you will see the title of the module, a list of objectives, the original content background, readings, and assignments. For participant suggested reading, if as a participant you have suggestions for applicable readings in English or Spanish, please add them to the course discussion board topic entitled “Participant Suggested Reading” and include the applicable module number.
+Para cada módulo, se presenta un título, una lista de objetivos, los antecedentes del contenido original, los materiales de lectura obligatoria y optativa, los materiales de lectura sugeridos por los participantes y las tareas. En el caso de materiales de lectura sugeridos por participantes, si desean proponer textos relevantes en inglés o español,  podrán añadirlos al foro de debate del curso bajo el tema “Materiales de lectura sugeridos por los participantes”  indicando el número de módulo correspondiente.
 
-## Credits, Partnership, and Board
+Cada semana, el capacitador/tutor plateará un tema para discusión en el foro online de la plataforma del curso. Los participantes deberán en este esta espacio expresar sus opiniones y, según el caso, ejemplos concretos de sus actividades o de lo que ocurrió en sus países o áreas de trabajo. En este , los participantes también podrán sugerir temas de debate o pedir ayuda de otros participantes (sus colegas o peers en inglés) para poder comprender mejor el contenido de los módulos o para  resolver dudas sobre cómo realizar una tarea. 
 
-The course curriculum and original module content development were created by Natalie Green and Carolina Rossini. Module 7 and 7.1 Access to Internet was written by Edyael Casaperalta. This course was translated from English to Spanish by Gabriela Haymes.  
- 
-Partnerships: This course is hosted on the Peer to Peer University and the RedLaTam platform.
+El capacitador también comunicará oportunidades en las cuales los participantes podrán interactuar con expertos de algunas de las áreas cubiertas en los módulos, ya sea por email o en un AMA del Reddit. 
 
-Board members served as advisors throughout the process of developing this course from its inception to providing feedback on the curriculum, original content development, and awareness building for the course. The board members are as follows:
-<ul>
-<li>Kevin Bankston: Policy Director of the Open Technology Institute at New America Foundation (United States)
-<li> Eduardo Bertoni:  Director of the Center for Studies on Freedom of Expression and Access to Information (CELE) at the University of Palermo School of Law (Argentina)
-<li> Olga Cavalli: Director of the South School of Internet Governance (Argentina)
-<li> Alberto Cerda: Tenured Professor of Law and Technology at University of Chile Law School (Chile)
-<li> Laura DeNardis: Professor and Associate Dean in the School of Communication at American University and Senior Fellow of the Centre for International Governance Innovation (CIGI) (United States)
-<li> Toral D Cowieson: Senior Director of Internet Leadership Programs at the Internet Society (United States)
-<li> Demi Getschko: Director and President of NIC.br (Brazil)
-<li> Gene Kimmelman: President and CEO of Public Knowledge (United States)
-<li> Marilia Maciel: Researcher and Coordinator at the Center for Technology and Society at the Getulio Vargas Foundation (CTS/FGV) (Brazil)
-<li> Ginger Paque: Program Coordinator of the DiploFoundation Internet Governance Capacity Building Program (United States/Venezuela)
-<li> Philipp Schmidt: Executive Director of Peer 2 Peer University (P2PU) and Director's Fellow at MIT Media Lab (United States)
-<li> Danny Weitzner: Director of the MIT CSAIL Decentralized Information Group (United States)
-<li> John Wilbanks: Chief Commons Officer at Sage Bionetworks
+
+## Consejo Directivo, Convenios y Créditos
+
+Los miembros del Consejo Directivo participaron como asesores durante el desarrollo de este curso, y esto incluyó colaborar desde el origen mismo del proceso, aportar comentarios sobre el programa de la capacitación, elaborar contenidos originales y difundir el curso. Los miembros del Consejo Directivo son:
+<ul><li>Kevin Bankston: Director de Políticas del Open Technology Institute at New America Foundation (Estados Unidos)
+<li>Eduardo Bertoni: Director del Centro de Estudios en Libertad de Expresión y Acceso a la Información (CELE) en la Facultad de Derecho de la Universidad de Palermo (Argentina)
+<li>Olga Cavalli: Directora de la Escuela del Sur de Gobernanza de Internet (Argentina)
+<li>Alberto Cerda: Profesor Titular de Derecho y Tecnología de la Facultad de Derecho de la Universidad de Chile (Chile)
+<li>Laura DeNardis: Docente y Vicedecana de la Escuela de Comunicación de American University, y becaria sénior del Centre for International Governance Innovation (CIGI) (Estados Unidos)
+<li>Toral D. Cowieson: Directora senior de Programas de Liderazgo de Internet de la Internet Society (Estados Unidos)
+<li>Demi Getschko: Director y Presidente de NIC.br (Brasil)
+<li>Gene Kimmelman: Presidente y Director Ejecutivo de Public Knowledge (Estados Unidos)
+<li>Marilia Maciel: Investigadora y coordinadora del Centro de Tecnología y Sociedad de la Fundación Getulio Vargas (CTS/FGV) (Brasil)
+<li>Ginger Paque: Coordinadora de Programas del Programa de Desarrollo de Capacidades para la Gobernanza de Internet de DiploFoundation (Estados Unidos/Venezuela)
+<li>Philipp Schmidt: Director Ejecutivo de Peer 2 Peer University (P2PU) y Director's Fellow en MIT Media Lab (Estados Unidos)
+<li>Danny Weitzner: Director del Grupo de Información Descentralizada de MIT CSAIL (Estados Unidos)
+<li>John Wilbanks: Chief Commons Officer en Sage Bionetworks
 </ul>
+
+<b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
+
 
 ##I'm in--how do I get started?
 Head over [here]({{site.baseurl}}/modules/syllabus/syllabus) to check out the syllabus and head <a href="https://docs.google.com/forms/d/1QLFVX5WRsO4FBWanKno2xQAhcjpNLZ79AHsyuZR9Zxc/viewform?usp=send_form" target="_blank">here</a> to register for the first facilitated class!
