@@ -40,55 +40,67 @@ Objetivos: Este es el último de los módulos que tiene como objetivo el desarro
 <ul><li>¿Cómo determino qué táctica tendrá mayor impacto para mi causa?</ul>
 
 
-### Module 5: Basic Concepts of Internet Governance
+### Módulo 5: Conceptos Básicos sobre Gobernanza de Internet
 
-Objectives: This module will serve as an introduction to the world of internet governance. This chapter will look at the different internet governance processes, actors, and structures more in-depth. By the end of this module, you should be able to answer the following questions:
-<ul><li> What is the difference between multistakeholderism and multilateralism (in Internet governance)?
-<li> What are the different types of Internet governance processes and how do they differ? How are they the same?
-<li> Who exactly participates in Internet governance processes?
-<li> What are some of the gaps in Internet governance?
-<li> As an advocate for open and free Internet, why is Internet governance important for me?
+Objetivos: Este módulo servirá como  introducción al mundo de la gobernanza de Internet. Así las cosas, el presente capítulo analizará con mayor detenimiento los distintos procesos, actores y estructuras de la gobernanza de Internet. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Cuál es la diferencia entre multiplicidad de partes interesadas (multistakeholderism) y  multilateralismo (en la gobernanza de Internet)?
+<li>¿Cuáles son los distintos tipos de procesos de gobernanza de Internet y qué diferencias tienen? ¿En qué aspectos se asemejan?
+<li>¿Quiénes participan concretamente en los procesos de gobernanza de Internet?
+<li>¿Cuáles son algunas de las falencias en la gobernanza de Internet?
+<li>Como defensor del Internet Libre y Abierto, ¿por qué es la gobernanza de Internet importante para mí?
 </ul>
 
-### Module 6: Human Rights and the Internet
+### Módulo 6: Derechos humanos e Internet
 
-Objectives: This module will serve as a refresher of Module 0, specifically on human rights principles and how they apply to the Internet. By the end of the module, you should be able to answer the following questions:
-<ul><li> Which human rights principles and laws apply to the internet?
-<li> How do Internet governance forums address human rights and the Internet 
-<li> What are some examples of human rights principles being applied to the Internet?
+Objetivos: Este módulo servirá como repaso del Módulo 0, en particular con respecto a los principios de derechos humanos y el modo en que se aplican a Internet. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Cuáles principios y normas de derechos humanos se aplican a Internet?
+<li>¿De qué manera los foros de gobernanza de Internet abordan los derechos humanos e Internet? 
+<li>¿Cuáles son algunos ejemplos de principios de derechos humanos que se aplican a Internet?
 </ul>
 
-### Module 7: Access to Internet
+### Módulo 7: Acceso a Internet 
 
-Objectives: This module will discuss access to the Internet, with a particular focus on those disconnected from Internet, inequality in access to Internet, and how lack of access to Internet in everyday life impacts the lives of people who are disconnected. By the end of the module, you should be able to answer the following questions:
-<ul><li> What is Universal Access to Internet?
-<li> What is the value of being connected and what is the cost of being disconnected to the Internet? 
-<li> How is inequality in our everyday lives reflected on the Internet? 
-<li> What are some initiatives increasing Internet access across the world?
+Objetivos: Este módulo  discutirá el acceso a Internet desde una perspectiva técnica y también sobre ciertos derechos, con particular énfasis en quienes no se pueden conectar a Internet y la desigualdad en el acceso a este medio de comunicación. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Qué es el acceso universal a Internet?
+<li>¿Cuál es el valor de estar conectado a Internet, y cuál es el costo de estar desconectado? 
+<li>¿Cuáles son los principales obstáculos al acceso a Internet en todo el mundo? 
+<li>¿Cuáles son algunas de las iniciativas que se han emprendido para ampliar el acceso a Internet en todo el mundo?
 </ul>
 
-### Module 8: Network Neutrality
+### Módulo 8: Neutralidad de la Red
 
-Objectives: This module is an overview of the growingly important principle and debate around “network neutrality” and its global impact on topics such as economic development, human rights, and internet governance.  By the end of the module, you should be able to answer the following questions:
-<ul> <li> What is net neutrality? Does everyone agree on the definition?
-<li> What’s the connection between access to Internet and net neutrality?
-<li> How is net neutrality addressed in internet governance?
+Objetivos: Este módulo hace un repaso sobre  el principio de “neutralidad de la red” que cada vez cobra más relevancia. Además analizará los debates en torno a este tema, así como su impacto global en áreas como desarrollo económico, derechos humanos y la gobernanza de Internet. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Qué es la neutralidad de la red? ¿Todos están de acuerdo con una definición en especial?
+<li>¿De qué manera se relaciona el principio de neutralidad de la red con los derechos humanos mencionados en el Módulo 6?
+<li>¿Cuál es la relación entre acceso a Internet y neutralidad de la red?
+<li>¿De qué manera se aborda la neutralidad de la red en la gobernanza de Internet?
 </ul>
 
-### Module 9: The Right to Privacy Online
+### Módulo 9: El Derecho a la Privacidad en Línea
 
-Objectives: This module will specifically focus on the right to privacy online. We specifically extracted this topic from general human rights because of the spotlight it has received in the past few years, coupled with issues of data protection, big data, surveillance, and the role of governments in Internet governance. By the end of the module, you should be able to answer the following questions:
-<ul><li> Why is the right to privacy important?
-<li> Are there standards for protection from surveillance and the right to privacy?
-<li> As an advocate for open Internet issues, how can I protect my privacy online?
-<li> How are surveillance, data protection, and the right to privacy addressed in Internet governance?
+Objetivos: Este módulo se enfocará en el derecho a la privacidad en línea. Hemos extraído específicamente este tema del análisis de los derechos humanos en general, debido a la importancia que ha cobrado en los últimos años, sumado a cuestiones vinculadas con la protección de datos, los datos masivos (big data), la vigilancia y el papel de los gobiernos en materia de gobernanza de Internet. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Por qué es importante el derecho a la privacidad?
+<li>¿Existen estándares para protegerse de la vigilancia ilegal y/o arbitraria y que garanticen el derecho a la privacidad?
+<li>Como defensor y promotor de temas relacionados con el Internet Libre y Abierto u otros temas sobre derechos humanos, ¿cómo puedo proteger mi privacidad en línea?
+<li>¿Cómo se interrelacionan la vigilancia, la protección de los datos y el derecho a la privacidad?
 </ul> 
 
-### Module 10: The Impact of Trade Agreements on Open Internet
+### Módulo 10: Impacto de los Acuerdos de Libre Comercio en el Internet Libre y Abierto
 
-Objectives: As the final modules of this course, this module will address one of the growing concerns from public interest and others on the impact of trade agreements on Open Internet issues, including cybersecurity, balanced copyright, and human rights, including freedom of expression and the right to privacy. By the end of this module, you should be able to answer the following questions:
-<ul><li> How can trade agreements impact Open Internet issues such as freedom of expression, access to information, and privacy
-<li> What is intellectual property and copyright and why should I care as an internet rights advocate?
-<li> What specific trade agreements are currently being negotiated that could impact the internet?
-<li> How can advocates work to create or preserve balanced copyright and intellectual property laws and preserve human rights online?
+Objetivos: Este módulo abordará uno de los aspectos más contemporáneos para los defensores del interés público y de los derechos digitales: el impacto de los acuerdos comerciales sobre los temas de Internet Libre y Abierto, incluyendo aspectos como  la ciber-seguridad, una protección balanceada de la propiedad intelectual y los derechos humanos que mencionamos en los Módulos 6 y 9. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿De qué manera los acuerdos de libre comercio inciden en temas del Internet Libre y Abierto como libertad de expresión, acceso a información y privacidad?
+<li>¿Qué son los derechos de autor y la propiedad intelectual, y por qué esto debería interesarme como defensor de derechos digitales?
+<li>¿Qué acuerdos comerciales concretos están siendo negociados actualmente que podrían afectar el Internet?
+<li>¿De qué modo pueden trabajar los defensores para crear o mantener una legislación equilibrada sobre derechos de autor y propiedad intelectual, y preservar los derechos humanos en línea?
+</ul>
+
+## EN DESARROLLO
+
+### Módulo 11: Ciberseguridad
+
+OBJETIVOS:  Este módulo servirá como introducción a la ciberseguridad o seguridad cibernética enfocándose particularmente en el aspecto de formulación de políticas sobre ciberseguridad, esto incluye como se aborda la ciberseguridad en las relaciones internacionales y el impacto que tiene la ciberseguridad en los derechos humanos. Para el final del módulo, usted debe ser capaz de responder las siguientes preguntas:
+<ul><li>¿Qué roles juegan las distintas definiciones de seguridad cibernética en los debates, discusiones y toma de decisiones de políticas?
+<li>¿Cuáles son las preocupaciones principales de derechos humanos cuando se aborda la seguridad cibernética?
+<li>¿Existen normas internacionales y estándares que apliquen a la ciberseguridad? ¿En caso afirmativo, incluyen estas las preocupaciones relacionadas con derechos humanos?
+<li>¿Qué puede ser considerado un acto de ciber-guerra?
 </ul>
