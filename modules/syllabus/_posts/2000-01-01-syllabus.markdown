@@ -2,43 +2,43 @@
 title: Syllabus
 ---
 
-### Module 0: Introduction to the Open Internet
+### Módulo 0: Introducción al concepto de Internet Libre y Abierto
 
-Objectives: This will serve as an introduction to the “Open Internet,” as well as to the issues that you will be advocating on behalf of. As an introduction, this module will be more reading intensive than the following skills building modules. By the end of the module, you should be able to answer the following questions:
-<ul><li> What is the Open Internet?
-<li> Why do human rights principles and laws apply to the internet?
-<li> Which human rights principles and laws apply to the internet? 
-<li> What other principles apply to Open Internet?
+Objetivos: Este módulo servirá como introducción al concepto de “Internet Abierto”, así como a los temas que usted  defenderá. En tanto tiene carácter introductorio, el presente módulo presenta un mayor contenido de lectura que los siguientes módulos, enfocados en la adquisición de habilidades. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li> ¿Qué es el Internet Libre y Abierto?
+<li>¿Por qué los principios y las normas de derechos humanos se aplican a Internet?
+<li>¿Cuáles principios y normas de derechos humanos se aplican a Internet? 
+<li>¿Qué otros principios se aplican al Internet Libre y Abierto?
 </ul>
 
-### Module 1: The "What and "Why" of Advocacy
+### Módulo 1: Los “qué” y “por qué” de la defesa y promoción de un Internet Libre y Abierto
 
-Objectives: This module is the first of four modules will provide the concrete skills and tools you need to advocate for the Open Internet. These modules will be referred to as “horizontal” modules and they will cover the “Five Ws and H” questions that are used by journalists, policy makers, law enforcement, teachers, activists, and others to gather information and set goals. They are “what,” “why,” “where,” “when,” “who,” and “how.” By the end of the module, you should be able to answer the following questions:
-<ul><li> What is advocacy?
-<li> What are the basic first strategizing steps for advocacy on these issues?
-<li> Why should I use strategic planning for advocacy?
+Objetivos: Este módulo es el primero de cuatro que le brindarán las aptitudes y herramientas concretas que usted necesita para promover y defender un Internet Abierto y así lograr  acción en los actores que lo regulan. Estos módulos se denominarán “horizontales” y abordarán las preguntas que generalmente se formulan los periodistas, legisladores, autoridades de aplicación de la ley, docentes, activistas y otros actores para reunir información y fijar objetivos. Estas preguntas son “qué”, “por qué”, “dónde”, “cuándo”, “quiénes” y “cómo”. Estas preguntas soportan el desarrollo del pensamiento estratégico para una abogacía eficiente y coordinada, con objetivos claros.  Al término de este módulo, deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿ Qué es la abogacía para la promoción y defesa a favor de de  un Internet Abierto y Libre?
+<li>¿Cuáles son los primeros pasos para el desarrollo de una estrategia en estos temas?
+<li>¿Por qué yo debería usar la planificación estratégica?
 </ul>
 
-### Module 2: "Who" in Advocacy
+### Módulo 2: Los “Quiénes” de la Promoción y Defensa 
 
-Objectives: This module will provide the skill set and resources necessary to plan out and visualize your network of advocates and allies and give you the skills necessary to mobilize your allies. Further, this module will help participants understand their audience in terms of where the discussions and fora in which Open Internet issues are addressed and with whom participants will be working with and for. In the multi-stakeholder model of Internet governance, it will be necessary that you are able to work with and create coalitions with actors such as governments, international organizations, civil society, the technical community, the private sector, and academia. By the end of the module, you should be able to answer the following questions:
-<ul><li>How do I figure out who am I advocating for and who I must work with to reach my goals?
-<li> How do I figure out who my allies are how similar they are to me?
-<li> Who are the stakeholders involved in Internet governance?
+Objetivos: Este módulo le aportará una serie de habilidades y recursos necesarios para planificar y visualizar su red de aliados, y le brindará las herramientas que le permitirán movilizarlos. Incluso, este módulo le ayudará comprender a su audiencia en lo que respecta en dónde se abordan las deliberaciones y los foros sobre Internet Libre y Abierto, y con quiénes y para quiénes usted trabajará. En el modelo de gobernanza de Internet debido a  su naturaleza multisectorial, usted deberá estar en condiciones de trabajar y establecer coaliciones con actores como gobiernos, organizaciones internacionales, sociedad civil, la comunidad técnica, el sector privado y académico. Al término de este módulo, deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Cómo identifico a favor de quien defiendo y promociono mi trabajo y con quién debo trabajar para alcanzar mis objetivos?
+<li>¿Cómo identifico quiénes son mis aliados y qué similitudes tienen conmigo?
+<li>¿Cuáles son las partes interesadas que intervienen en la gobernanza de Internet?
 </ul>
 
-### Module 3: "When" and "Where" in Advocacy
+### Módulo 3: El “Cuándo” y el “Dónde” de la Promoción y Defensa
 
-Objectives: This module will help participants understand their audience in terms of where the discussions and fora in which Open Internet issues are addressed and how to determine the best timing for their campaign. By the end of the module, you should be able to answer the following questions:
-<ul><li> When are the est times for my advocacy campaign?
-<li> Where are the major discussions on Open Interent happening that I can attend?
+Objetivos: Este módulo ayudará a que los participantes comprendan a su audiencia en términos de dónde se llevan acabo las deliberaciones y los foros sobre Internet Libre y Abierto y cómo determinar cuál es el momento más oportuno para su campaña. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+<ul><li>¿Cuándo es el momento más oportuno para mi campaña de promoción y defensa?
+<li>¿Dónde se desarrollan las principales deliberaciones sobre Internet Libre y Abierto a las cuales puedo asistir? 
 </ul>
 
-### Module 4: "How": Tactics and Tools for Successful Open Internet Campaigns
+### Módulo 4: “Cómo”: Tácticas y Herramientas para Campañas Exitosas
 
-Objectives: This module is the final module the advocacy skills building modules as it will provide all the necessary resources on the specific skills needed to plan, strategize, and execute successful advocacy campaigns. Campaigns can range from targeted policy campaigns (ex: lobbying) to a grassroot street protest. Since laws and best practices regarding lobbying and interaction with policy makers varies greatly from country to country, this module’s material will focus on grassroots and digital advocacy. By the end of the module, you should be able to answer the following question:
-<ul><li> How do I choose which tactic will be most impactful for my cause?
-</ul>
+Objetivos: Este es el último de los módulos que tiene como objetivo el desarrollo de habilidades para la promoción y defensa de derechos, y que le brindará los recursos para generar las aptitudes concretas que se necesitan para planificar, definir y ejecutar campañas de promoción y defensa exitosas. Estas aptitudes pueden incluir desde campañas dirigidas a destinatarios específicos (p. ej., lobby) hasta acciones populares como protestas en la vía pública. Ahora bien, dado que la legislación y las mejores prácticas sobre lobby e interacción con responsables de políticas públicas varían considerablemente de un país a otro, el contenido de este módulo abordará en particular la promoción y defensa de base y digital. Al término de este módulo, usted deberá contar con los recursos necesarios para responder la siguiente pregunta:
+<ul><li>¿Cómo determino qué táctica tendrá mayor impacto para mi causa?</ul>
+
 
 ### Module 5: Basic Concepts of Internet Governance
 
