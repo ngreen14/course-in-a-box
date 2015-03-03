@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Introducción al Curso y Descripción
+## Creando y Preservando un Internet Libre y Abierto Para Todos!
 
 Hoy en día, Internet es parte integral de la vida cotidiana, y determina en gran medida el modo en que trabajamos, estudiamos y socializamos. Internet posibilitó una revolución en cuanto al acceso a conocimientos e información, pero al mismo tiempo que la era digital empoderó a los ciudadanos para que pudieran expresarse y actuar como nunca antes, también provocó que todos nosotros fuéramos más vulnerables a intromisiones por parte gobiernos y empresas (la tecnología también los ha empoderado). 
 
@@ -55,5 +55,6 @@ Los miembros del Consejo Directivo participaron como asesores durante el desarro
 <b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
 
 
-##I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/syllabus/syllabus) to check out the syllabus and head <a href="https://docs.google.com/forms/d/1QLFVX5WRsO4FBWanKno2xQAhcjpNLZ79AHsyuZR9Zxc/viewform?usp=send_form" target="_blank">here</a> to register for the first facilitated class!
+##Ya me seleccionaron para participar en el curso. ¿Qué hago ahora para iniciar? 
+¡Si quiere comenzar el curso a su propio ritmo, por favor haga click [link]({{site.baseurl}}/modules/syllabus/syllabus)> para revisar el programa del curso e iniciar!
+
