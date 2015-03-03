@@ -56,5 +56,5 @@ Los miembros del Consejo Directivo participaron como asesores durante el desarro
 
 
 ##Ya me seleccionaron para participar en el curso. ¿Qué hago ahora para iniciar? 
-¡Si quiere comenzar el curso a su propio ritmo, por favor haga click [link]({{site.baseurl}}/modules/syllabus/syllabus)> para revisar el programa del curso e iniciar!
+¡Si quiere comenzar el curso a su propio ritmo, por favor haga click [acá]({{site.baseurl}}/modules/syllabus/syllabus) para revisar el programa del curso e iniciar!
 
