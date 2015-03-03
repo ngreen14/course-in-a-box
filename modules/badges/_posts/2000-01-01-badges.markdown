@@ -31,5 +31,6 @@ Cuando un participante que  está tomando el curso (en cualquiera de las dos mod
 
 Cuando un participante del curso en la versión dirigida por un tutor completa las tareas asignadas en al menos 10 módulos y en un tiempo máximo de 12 semanas.
 
-¿Desea elaborar su propia medalla? Puede revisar este sitio gratuito y abierto para hacerlo: <a href="https://www.openbadges.me" target="_blank">https://www.openbadges.me</a> 
+###¿Desea elaborar su propia medalla?
+Puede revisar este sitio gratuito y abierto para hacerlo: <a href="https://www.openbadges.me" target="_blank">https://www.openbadges.me</a> 
 
