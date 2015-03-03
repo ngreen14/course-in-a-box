@@ -10,5 +10,5 @@ En cada módulo usted podrá encontrar una sección de tareas, en donde usted en
 
 <ul><li>Por ejemplo: 'Modulo9_Actividad2_NatalieG' </li></ul>
 
-En  caso de que un tutor solicite  que las respuestas de las tareas sean compartidas en algún foro de discusión, por favor comparta sus respuestas y opiniones con sus compañeros visitando el correspondiente tema:
+**En  caso de que un tutor solicite que las respuestas de las tareas sean compartidas en algún foro de discusión, por favor comparta sus respuestas y opiniones con sus compañeros visitando el correspondiente tema**:
 <a href="http://discourse.p2pu.org/c/internet-abierto" target="_blank">http://discourse.p2pu.org/c/internet-abierto</a>
