@@ -4,6 +4,7 @@ title: Únete
 
 ##Únete
 
-<b>¿Interesado en ser un tutor en las próximas clases moderadas? 
-¿Quiere que lo notifiquemos cuando iniciemos la próxima ronda de clases? 
-Por favor envíenos un correo electrónico a: <a href="opencourse@publicknowledge.org" target="_blank">opencourse@publicknowledge.org</a></b>
+<p>¿Interesado en ser un tutor en las próximas clases moderadas?</p>
+
+<p>¿Quiere que lo notifiquemos cuando iniciemos la próxima ronda de clases? </p>
+<p>Por favor envíenos un correo electrónico a: <a href="opencourse@publicknowledge.org" target="_blank">opencourse@publicknowledge.org</a></p>
