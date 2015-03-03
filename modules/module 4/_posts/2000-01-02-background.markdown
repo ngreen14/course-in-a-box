@@ -6,6 +6,8 @@ title: ANTECEDENTES Página 1
 
 Ahora que usted ha formulado sus objetivos y un plan estratégico donde analizó los interrogantes quiénes, qué, dónde y cuándo, ¡es momento de entrar en acción! Las etapas finales del Diagrama de Estrategia GROW, la Teoría del Cambio y otros planes estratégicos instan a desarrollar una o más **tácticas**. En este sentido, las tácticas son acciones concretas que se utilizan para lograr alcanzar un objetivo determinado. Por ejemplo, si su objetivo es ejercer presión para que un representante vote a favor de un proyecto legislativo sobre neutralidad de la red, una posible táctica a emplear para lograrlo sería llevar a cabo una campaña de envío de cartas o una manifestación en frente de la sede legislativa. Normalmente, deberá implementar múltiples tácticas a la vez o durante un período de tiempo determinado para lograr su objetivo.
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RF6Gn70qiZ8" frameborder="0" allowfullscreen></iframe></div>
+
 A continuación una breve lista de las distintas tácticas que puede utilizar para promover un Internet Libre y Abierto. Esas tácticas no se limitan a la promoción y defensa de un Internet Libre y Abierto, y por lo tanto puede ser posible que ya las conozca de otras áreas de activismo.
 <ul>
 <li> <i>Lobby</i> (reunirse directamente con responsables de políticas públicas para influir en sus decisiones)
