@@ -1,5 +1,5 @@
 ---
-title: Medallas (Badges) 
+title: Medallas 
 ---
 ##Medallas (Badges)
 
