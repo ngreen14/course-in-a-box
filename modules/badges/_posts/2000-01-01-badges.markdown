@@ -9,8 +9,10 @@ Algunas de nuestras Medallas son:
 
 ###Medalla Ninja para un Internet Libre y Abierto: 
 
-Esta medalla se otorga cuando un participante sugiere lecturas relevantes adicionales a las incluidas en el programa del curso de al menos 3 módulos y comparte su conocimiento  y experiencia regional en al menos 3 de los temas de discución en el siguiente espacio: <a href="http://discourse.p2pu.org/c/internet-abierto" target="_blank">http://discourse.p2pu.org/c/internet-abierto</a> 
 <iframe id="badge_embed" type="text/html" frameborder="0" height="310" width="210" src="//badges.p2pu.org/en/badge/view/658/embedded/?rendering=normal"></iframe>
+
+Esta medalla se otorga cuando un participante sugiere lecturas relevantes adicionales a las incluidas en el programa del curso de al menos 3 módulos y comparte su conocimiento  y experiencia regional en al menos 3 de los temas de discución en el siguiente espacio: <a href="http://discourse.p2pu.org/c/internet-abierto" target="_blank">http://discourse.p2pu.org/c/internet-abierto</a> 
+
 
 ###<a href="http://badges.p2pu.org/en/badge/view/661/" target="_blank">Medalla Estrella AMA</a>
 
