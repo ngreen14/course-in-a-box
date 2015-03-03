@@ -3,7 +3,7 @@ title: Medallas
 ---
 ##Medallas (Badges)
 
-Las Medallas son una gran forma de recibir retroalimentación de una manera divertida e interactiva sobre su progreso y avance del curso.   A través  de este curso y si cumple con los requisitos, usted podrá  obtener hasta <a href="http://badges.p2pu.org/en/browse/new/" target="_blank">cuatro medallas sobre Internet Libre y Abierto</a>. Pero si es  de su interés, también puede aplicar para obtener cualquiera de las medallas que ofrece la plataforma P2PU sitio web.
+Las medallas son una gran forma de recibir retroalimentación de una manera divertida e interactiva sobre su progreso y avance del curso.   A través  de este curso y si cumple con los requisitos, usted podrá  obtener hasta cuatro medallas sobre Internet Libre y Abierto. Pero si es  de su interés, también puede aplicar para obtener cualquiera de las medallas que ofrece la plataforma <a href="http://badges.p2pu.org/en/browse/new/" target="_blank">P2PU sitio web</a>.
 
 Algunas de nuestras Medallas son:
 
