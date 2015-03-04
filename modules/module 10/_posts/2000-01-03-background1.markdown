@@ -20,8 +20,6 @@ Esta falta de transparencia ha sido criticada enérgicamente por legisladores y 
 
 ###**Propiedad Intelectual y Derechos de Autor**
 
-![]({{site.baseurl}}/img/Module 10/Module 10-3.png)
-
 Una protección equilibrada de los derechos de propiedad intelectual es importante para incentivar la creación intelectual sin impedir que las personas accedan a la información y el conocimiento, además de ayudarles a  fomentar su propia creatividad sin verse limitados por la excesiva privatización de la cultura que los rodea.
 
 Aunque el término propiedad intelectual (PI) suele ser <a href="https://www.gnu.org/philosophy/not-ipr.es.html" target="_blank">controvertido</a>, podemos definirlo a grandes rasgos como los derechos legalmente protegidos respecto de obras que son producto del intelecto humano. Entre los principales tipos de PI se incluyen los <a href="https://p2pu.org/he/courses/2178/content/4300/" target="_blank">derechos de autor</a>, las patentes y las marcas comerciales. Si bien en los acuerdos de libre comercio las disposiciones sobre patentes suelen suscitar mayor controversia por afectar el derecho a la vida y la salud humanas, las relacionadas con derechos de autor tienen mayores probabilidades de impactar en políticas vinculadas con Internet. 
