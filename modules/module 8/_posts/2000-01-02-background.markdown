@@ -20,6 +20,8 @@ Con respecto a la cuestión de los precios elevados, el principio de neutralidad
 
 ###**Neutralidad de la Red y Derechos Humanos**
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/b311wbGS2QQ" frameborder="0" allowfullscreen></iframe></div>
+
 Como hemos visto en el Módulo 0 y el Módulo 6, Internet es uno entre los diversos catalizadores de la libertad de expresión, la libertad de información y el derecho de reunión. En este sentido numerosos defensores han alertado acerca de que tales derechos no pueden ejercerse plenamente cuando existe el riesgo de que los PSI bloqueen o discriminen ciertos contenidos en línea. 
 
 El concepto de la neutralidad de la red como un factor clave para preservar los derechos humanos en línea, también ha sido defendido por expertos en derechos humanos. En el <a href="http://www.oas.org/es/cidh/expresion/docs/informes/2014_04_08_Internet_WEB.pdf" target="_blank">informe</a> sobre “Libertad de Expresión e Internet” de la Organización de los Estados Americanos, la Relatora Especial para la Libertad de Expresión adhirió expresamente  los principios de neutralidad de la red como una “condición necesaria para ejercer la libertad de expresión en Internet”, en consonancia con el derecho a la libertad de expresión consagrado en la Convención Americana sobre Derechos Humanos.
