@@ -12,4 +12,4 @@ OBJETIVOS: Este módulo abordará un aspecto contemporáneo para los defensores 
 <li> ¿De qué modo pueden trabajar los defensores para crear o mantener una legislación equilibrada sobre derechos de autor y propiedad intelectual, para preservar los derechos humanos en línea?
 </ul>
 
-<sub>1: The authors and translators of this Module 10 want to thank the additional peer-review of its contents by Francisco Vera Hott from Chile. </sub>
+<sub>The authors and translators of this module want to thank Francisco Vera Hott from Chile for his additional peer-review. </sub>
