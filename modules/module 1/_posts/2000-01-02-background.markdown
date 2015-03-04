@@ -17,4 +17,4 @@ Al promover un Internet Libre y Abierto, usted procurará incidir en el statu qu
 
 Por último, si su objetivo fuera implementar los principios de neutralidad de la red en la legislación de su país, deberá trabajar con abogados y dentro del sistema legal para mantener o establecer estas normas; esto sería una forma de defensa y promoción  legal. 
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/K8kcVL1TKKE?list=PLG7cp1K2LzZ6ObEDt-YogW4yO3tnuEmQB" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/K8kcVL1TKKE" frameborder="0" allowfullscreen></iframe></div>
