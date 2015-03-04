@@ -16,3 +16,5 @@ Los principios de Internet Libre y Abierto, como la libertad de expresión, no s
 Al promover un Internet Libre y Abierto, usted procurará incidir en el statu quo político y económico actual, ya sea para introducir mejoras o para mantenerlo. Por ejemplo, si su meta es ampliar el acceso a Internet asequible para las personas de su comunidad, posiblemente decida que la mejor táctica será elegir a una determinada persona para un cargo público que apoye sus objetivos. Este es un ejemplo de defensa y promoción  de sistemas.
 
 Por último, si su objetivo fuera implementar los principios de neutralidad de la red en la legislación de su país, deberá trabajar con abogados y dentro del sistema legal para mantener o establecer estas normas; esto sería una forma de defensa y promoción  legal. 
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/K8kcVL1TKKE?list=PLG7cp1K2LzZ6ObEDt-YogW4yO3tnuEmQB" frameborder="0" allowfullscreen></iframe></div>
