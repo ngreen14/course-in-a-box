@@ -15,6 +15,7 @@ Numerosos defensores creen que los negociadores no involucran a organizaciones i
 
 Esta falta de transparencia ha sido criticada enérgicamente por legisladores y responsables de políticas de varios de los países negociantes. Si bien organizaciones multilaterales importantes, como la Organización Mundial de la Propiedad Intelectual (<a href="http://www.freedominfo.org/2014/01/wipo-transparency-wins-praise-gaps-remain/" target="_blank">OMPI</a>) y la Organización Mundial del Comercio (OMC), han sido objeto de fuertes críticas, estos foros tienden a ser más inclusivos, transparentes y democráticos que las negociaciones a puertas cerradas mencionadas anteriormente, ya que informan a la sociedad civil mediante emisiones a través de la web y publicación de los textos sobre la negociaciones en las que están involucrados.
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/eiraTWOUL4U" frameborder="0" allowfullscreen></iframe></div>
 ###**Propiedad Intelectual y Derechos de Autor**
 
 ![]({{site.baseurl}}/img/Module 10/Module 10-3.png)
