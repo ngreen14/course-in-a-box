@@ -16,7 +16,11 @@ Las personas que no están conectadas viven tanto en países desarrollados como 
 
 No resulta sorprendente que muchas personas que no tienen acceso a Internet pertenezcan a las mismas poblaciones que tienen acceso mínimo a recursos y oportunidades tradicionales, como sectores pobres y rurales, y poblaciones indígenas, además de mujeres y personas con discapacidad. Los obstáculos más comunes que impiden que las personas accedan a Internet son la **falta de infraestructura de telecomunicaciones, pobreza, costos elevados** (tanto de equipos como del servicio de Internet en sí) y **falta de educación**. A veces estas cuestiones se ven agravadas por la falta de políticas públicas efectivas que aborden la situación de las personas que no están conectadas o por la baja calidad de Internet al cual acceden quienes sí están conectados. 
 
-Para ampliar la información sobre los beneficios del acceso a Internet, leer el submódulo 7.1.
+*Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho:*
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe></div>
+
+
 
 ###**Oportunidades Económicas**
 
