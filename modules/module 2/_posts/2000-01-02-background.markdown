@@ -24,4 +24,4 @@ Si bien nos referimos brevemente al tema cuando mencionamos a los constituyentes
 
 Además de utilizar el Espectro de Aliados, una manera más minuciosa de analizar y comprender a los actores con quienes usted trabaja es a través del mapeo táctico, un método desarrollado por New Tactics in Human Rights. El <a href="https://www.newtactics.org/toolkit/map-terrain" target="_blank">mapeo táctico</a> le permite visualizar las relaciones entre actores y de qué modo las tácticas (analizadas en el Módulo 4) pueden afectar a estos actores. Para obtener más información, visite el nuevo sitio web de <a href="https://www.newtactics.org/" target="_blank">New Tactics in Human Rights</a>.
 
-
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WusjKL_DNwU" frameborder="0" allowfullscreen></iframe></div>
