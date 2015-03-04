@@ -2,9 +2,6 @@
 title: ANTECEDENTES Página 3
 ---
 
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/H0xRcBpDlOk" frameborder="0" allowfullscreen></iframe></div>
-
 ###**Cómo la Gobernanza de Internet Aborda el Acceso a Este Medio**
 
 El acceso a Internet ha sido una de las principales áreas abordadas por la gobernanza de Internet, y es asimismo tratada en casi todos los foros (multilaterales y de multiplicidad de partes interesadas), incluidos FGI, UIT, CMSI, OCDE, Internet Society (ISOC) e incluso ICANN. Asimismo, la mayoría de los organismos regionales o nacionales que se ocupan de temas de gobernanza de Internet, como autoridades nacionales regulatorias de comunicación u organismos políticos regionales, como la Comisión Europea, también incluyen entre sus prioridades la ampliación del acceso a Internet o la necesidad de reducir la brecha digital. 
