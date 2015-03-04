@@ -4,7 +4,9 @@ title: ANTECEDENTES Página 2
 
 ###**Acceso Universal y Obstáculos al Acceso**
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/H0xRcBpDlOk" frameborder="0" allowfullscreen></iframe></div>
+*Antes de continuar, vea el  video preparado por FreeNet sobre el acceso a Internet como un derecho:*
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zm9aSGtc0HM" frameborder="0" allowfullscreen></iframe></div>
 
 Son numerosos los factores que impiden que una persona utilice Internet. Por ejemplo, los proveedores de Internet no llegan con su servicio a comunidades remotas, las computadoras y dispositivos que permiten acceder a Internet siguen siendo inasequibles para muchas personas, y los sitios web no siempre están diseñados de modo tal que puedan ser usados por personas con discapacidad. El problema es que estos obstáculos no ocurren por separado y en distintos momentos, sino de manera simultánea, y esto agudiza incluso más la brecha digital. Por ello es importante hablar de **acceso universal al Internet**, lo cual básicamente significa acceso a Internet para todas las personas. A fin de asegurar genuinamente que cada miembro  de nuestra sociedad pueda acceder a Internet, debemos pensar en todos los obstáculos que enfrentan las personas que no están en línea.
 
