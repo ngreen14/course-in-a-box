@@ -58,6 +58,6 @@ Los miembros del Consejo Directivo participaron como asesores durante el desarro
 ##Ya me seleccionaron para participar en el curso. ¿Qué hago ahora para iniciar? 
 ¡Debido a la alta demanda, la inscripción al curso se ha cerrado, pero si quiere comenzar el curso a su propio ritmo, por favor haga click [acá]({{site.baseurl}}/modules/syllabus/syllabus) para revisar el programa del curso e iniciar!
 
-<a class="btn btn-danger btn-lg"
+<div align="center"> <a class="btn btn-danger btn-lg"
 			   href="http://open-internet-p2pcourse.org/modules/syllabus/syllabus/">
-				Empieza Aquí! </a>
+				Empieza Aquí! </a> </div>
