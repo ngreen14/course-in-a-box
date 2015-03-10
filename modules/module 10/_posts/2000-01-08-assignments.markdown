@@ -11,4 +11,5 @@ Asegúrese de tomar en cuenta aspectos relativos a derechos de autor, privacidad
 
 Si no puede hallar ninguno de los documentos de negociación del acuerdo de libre comercio que ha elegido, escriba una columna de opinión/entrada en blog, de una página de extensión, sobre el Acuerdo de Asociación Transpacífico (los documentos se pueden consultar en <a href="https://wikileaks.org/tpp/" target="_blank">Wikileaks</a>) utilizando las pautas descritas. Por favor incorpore el contenido publicado al foro de discusión.
 
-**Por favor elabore lo anterior en un documento de Word y guárdelo en la carpeta asignada del Google Drive.**
+**Por favor elabore lo anterior en un documento de Word y guárdelo en la carpeta asignada del Google Drive. Por favor revise las respuestas de sus compañeros en el Google Drive y comente en <a href="http://discourse.p2pu.org/c/internet-abierto" target="_blank">el foro de debate</a>.**
+
