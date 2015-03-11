@@ -18,7 +18,7 @@ Cuando se le indique que la tarea debe ser publicada en el foro de debate, le ro
 Recuerde que este es un espacio de aprendizaje y colaborativo, así que el uso del lenguaje siempre debe ser respetuoso y en lo posible preciso, claro y completo para que sus compañeros puedan entender mejor sus ideas y aprender de usted también.
 
 <li><b>Modalidades combinadas</b></li>
-Existirán tareas donde se le pida a usted como estudiante guardar su respuesta en el documento en el Google Drive pero además , se le pedirá que lea algunas respuestas de sus compañeros y las comparen para realizar un comentario en el foro de debate. Por ejemplo, si la tarea consiste en realizar un reporte sobre las leyes y proyectos legislativos de neutralidad de la red de su país, usted deberá guardar  su documento en el Google Drive, y luego  leer algunos reportes de su compañeros para que en el foro de debate pueda comparar las diferencias de leyes sobre neutralidad de la red en distintos países.
+Existirán tareas donde se le pida a usted como estudiante guardar su respuesta en el documento en el Google Drive pero además , se le pedirá que lea algunas respuestas de sus compañeros y las comparen para realizar un comentario en el foro de debate. Por ejemplo, si la tarea consiste en realizar un reporte sobre las leyes y proyectos legislativos de neutralidad de la red de su país, usted deberá guardar  su documento en el Google Drive, y luego  leer algunos reportes de su compañeros para que en el foro de debate pueda comparar las diferencias de leyes sobre neutralidad de la red en distintos países. </ol>
 
 ###Si esta haciendo el curso en la modalidad de auto-aprendizaje/autodidacta:
 
