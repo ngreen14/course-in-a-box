@@ -5,7 +5,7 @@ published: true
 ##Notas Sobre el Procedimiento de Entrega de Tareas
 
 ###Si usted es un participante de la versión moderada del curso:
-Utilizaremos 2 (dos) formas para la entrega de tareas: el  google drive y el foro de debate.  Por favor lea con cuidado las siguientes instrucciones para cada uno de los modos de entrega.  En caso de que tenga alguna pregunta, no dude en contactar su tutor.
+Utilizaremos 2 (dos) formas para la entrega de tareas: el  <a href="https://drive.google.com/open?id=0BwHOpDi7VlbbY0ZTLUhGWHUxczQ&authuser=0" target="_blank">Google Drive</a> y <a href="http://discourse.p2pu.org/c/internet-abierto" target="_blank">el foro de debate</a>.  Por favor lea con cuidado las siguientes instrucciones para cada uno de los modos de entrega.  En caso de que tenga alguna pregunta, no dude en contactar su tutor.
 
 <ol><li><b>Subir el resultado de su tarea al Google Drive</b></li>
 El tutor abrirá una carpeta de Google Drive por cada módulo. En esta carpeta usted deberá subir su documento con la tarea correspondiente del módulo, o si lo prefiere y ya se encuentra familiarizado con la plataforma, puede realizar el documento directamente en Google Docs en la carpeta correspondiente del módulo.
