@@ -4,9 +4,9 @@ title: ANTECEDENTES Página 2
 
 ###**Estándares y Principios Sobre Derechos de Internet**
  
-Si bien los principios de derechos humanos son importantes para definir el debate sobre Internet y su gobernanza, el desarrollo de *derechos de Internet* o principios de *derechos digitales* es un paso importante para formular leyes y principios claros y específicos de Internet, que protejan los derechos humanos en línea. Estos principios, muchas veces, son el reflexo de un momento historico en el cual los stakeholders involucrados en un topico han llegado a alguna forma de consensu sobre los principios que deben ser las bases de sus acciones y, en muchos casos, las bases de politicas publicas y leyes. 
+Si bien los principios de derechos humanos son importantes para definir el debate sobre Internet y su gobernanza, el desarrollo de *derechos de Internet* o principios de *derechos digitales* es un paso importante para formular leyes y principios claros y específicos de Internet, que protejan los derechos humanos en línea. Estos principios, muchas veces, son el reflejo de un momento histórico en el cual los stakeholders involucrados en un tema han llegado a alguna forma de consenso sobre los principios que deben ser las bases de sus acciones y, en muchos casos, las bases de políticas públicas y leyes. 
 
-Como mencionamos en el Módulo 0, varias organizaciones de la sociedad civil, organismos gubernamentales y mismo sector privado han formulado su propio conjunto de principios de Internet. A continuación, hemos elaborado una lista exemplificativa con una breve explicación:
+Como mencionamos en el Módulo 0, varias organizaciones de la sociedad civil, organismos gubernamentales y mismo sector privado han formulado su propio conjunto de principios de Internet. A continuación, hemos elaborado una lista ejemplificativa con una breve explicación:
 
 ![]({{site.baseurl}}/img/Module 6/Module 6-2.png)
 
