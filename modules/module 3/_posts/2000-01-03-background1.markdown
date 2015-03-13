@@ -2,7 +2,7 @@
 title: Antecedentes Página 2
 ---
 
-###**Fijar un Plazo para Poner en Práctica Ideas**
+###**Fijar un Plazo para Poner en Práctica Sus Ideas**
 
 ![]({{site.baseurl}}/img/Module 3/Module 3-2.png)
 *Imagen: “<a href="http://www.flickr.com/photos/smemon/4961717384" target="_blank">Time</a>” del usuario de flickr Sean MacEntee, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>*
