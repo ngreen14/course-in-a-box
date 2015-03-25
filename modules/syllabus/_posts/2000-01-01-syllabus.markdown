@@ -22,14 +22,14 @@ Objetivos: Este módulo es el primero de cuatro que le brindarán las aptitudes 
 ### Módulo 2: Los “Quiénes” de la Promoción y Defensa 
 
 Objetivos: Este módulo le aportará una serie de habilidades y recursos necesarios para planificar y visualizar su red de aliados, y le brindará las herramientas que le permitirán movilizarlos. A su vez, este módulo le ayudará comprender a su audiencia sobre dónde se abordan las deliberaciones y los foros sobre Internet Libre y Abierto, y con quiénes y para quiénes usted trabajará. En el modelo de gobernanza de Internet debido a su naturaleza multisectorial, usted deberá estar en condiciones de trabajar y establecer coaliciones con actores como gobiernos, organizaciones internacionales, sociedad civil, la comunidad técnica, el sector privado y el ámbito académico. Al término de este módulo, deberá contar con los recursos necesarios para responder las siguientes preguntas:
-<ul><li>¿Cómo identifico a favor de quien defiendo y promociono mi trabajo y con quién debo trabajar para alcanzar mis objetivos?
+<ul><li>¿Cómo identifico a favor de quién impulso acciones de promoción y defensa y con quién debo trabajar para alcanzar mis objetivos?
 <li>¿Cómo identifico quiénes son mis aliados y qué similitudes tienen conmigo?
 <li>¿Cuáles son las partes interesadas que intervienen en la gobernanza de Internet?
 </ul>
 
 ### Módulo 3: El “Cuándo” y el “Dónde” de la Promoción y Defensa
 
-Objetivos: Este módulo ayudará a que los participantes comprendan a su audiencia en términos de dónde se llevan a cabo las deliberaciones y los foros sobre Internet Libre y Abierto y cómo determinar cuál es el momento más oportuno para su campaña. Al término de este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
+Objetivos: Este módulo ayudará a que los participantes comprendan a su audiencia en términos de dónde se llevan a cabo las deliberaciones y los foros sobre Internet Libre y Abierto y cómo determinar cuál es el momento más oportuno para su campaña. Al finalizar este módulo, usted deberá contar con los recursos necesarios para responder las siguientes preguntas:
 <ul><li>¿Cuándo es el momento más oportuno para mi campaña de promoción y defensa?
 <li>¿Dónde se desarrollan las principales deliberaciones sobre Internet Libre y Abierto a las cuales puedo asistir? 
 </ul>
