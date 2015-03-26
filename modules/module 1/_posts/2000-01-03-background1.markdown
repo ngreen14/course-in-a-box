@@ -58,8 +58,8 @@ Por último, otro consejo importante al momento de formular su campaña y objeti
 </ul>
 <li>Factores ambientales:
 <ul><li>Problemáticas ambientales: internacionales y nacionales
-<li>Valores de los actores y-o inversionistas
+<li>Valores de los actores y/o inversionistas
 </ul>
 </ol>
 
-Uno de los métodos más efectivos para confeccionar un mapa de estos  es el **Análisis PESTLE**, y esta guía brinda una plantilla y una “guía paso a paso” para utilizar dicho método. 
+Uno de los métodos más efectivos para confeccionar un mapa de estos es el **Análisis PESTLE**, y esta guía brinda una plantilla y una “guía paso a paso” para utilizar dicho método. 
