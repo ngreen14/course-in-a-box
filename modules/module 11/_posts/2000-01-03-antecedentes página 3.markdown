@@ -1,7 +1,7 @@
 Definiciones
 
 ![]({{site.baseurl}}/img/Module 11/Module 11-1.jpg)
-
+*Imagen: de <a proporcionada por usuario de Flickr" target="_blank">Perspecsys</a>, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a>*
 
 La ciberseguridad implica ayudar a proteger información y bienes que se expresan 
 
