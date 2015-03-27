@@ -27,7 +27,7 @@ and-opportunity-cyber-security
 
 5http://www.itu.int/online/termite/index.html
 
-6Para el Español, mire el equivalente en las claves de redacción <a href=“” target=“_blankhttp://www.fundeu.es/recomendacion/seguridad-en-internet-claves-de-redaccion/”>Visit Seguridad en Internet</a>
+6Para el Español, mire el equivalente en las claves de redacción <a href=“” target=“_blankhttp://www.fundeu.es/recomendacion/seguridad-en-internet-claves-de-redaccion/”> las claves de redacción </a>
 
 tal manera que los ciberincidentes también pueden provocar daños físicos a infraestructura y 
 
