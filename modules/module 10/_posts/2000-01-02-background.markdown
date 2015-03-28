@@ -2,7 +2,7 @@
 title: ANTECEDENTES Página 1
 ---
 
-###**Introducción a los Acuerdos de Libre Comercio y de Investimento** 
+###**Introducción a los Acuerdos de Libre Comercio y de Inversión** 
 
 Los **<a href="http://en.wikipedia.org/wiki/Trade_agreement" target="_blank">acuerdos internacionales de libre comercio</a>** y de inversión son tratados internacionales que generan derechos y obligaciones financieras, tributarias, comerciales y tarifarias para los países que los suscriben. Debido al amplio impacto que han tenido Internet y el comercio electrónico en el comercio en general y las economías globalizadas, los temas vinculados con la red, tales como propiedad intelectual, el <a href="http://a2knetwork.org/sites/default/files/tpp_and_free_flow.pdf" target="_blank">libre flujo de información</a>, la gestión de nombres de dominio, los derechos de autor y la piratería en línea, son cada vez más importantes en las negociaciones sobre comercio internacional. 
 
