@@ -3,7 +3,7 @@ title: ANTECEDENTES Página 2
 ---
 ###**Definiciones** 
 
-![]({{site.baseurl}}/img/Module 11/Module 11-1.jpg
+![]({{site.baseurl}}/img/Module 11/Module 11-1.jpg)
 *Imagen: proporcionada por usuario de Flickr <a href="https://www.flickr.com/photos/111692634@N04/">Perspecsys </a>, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a>*
 
 En comparación con muchas otras áreas de las relaciones internacionales o temas vinculados con Internet, existe una escasez de definiciones concretas acordadas internacionalmente para la ciberseguridad y otros términos asociados, como seguridad de la información, ciberguerra y delito informático, entre otros.
