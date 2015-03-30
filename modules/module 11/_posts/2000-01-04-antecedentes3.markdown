@@ -1,5 +1,5 @@
 
-Ciberseguridad y relaciones internacionales
+###**Ciberseguridad y relaciones internacionales**
 
 Aunque las leyes y prácticas de los distintos estados contribuyen a abordar los problemas de ciberseguridad, estos tienen en verdad una envergadura transnacional. El ciberespacio está conformado por una serie de redes sin fronteras, y las amenazas a la ciberseguridad trascienden los límites militares, políticos y geográficos. Por eso mismo, la cooperación internacional en materia de ciberseguridad es uno de los ejes de trabajo de gobiernos, el sector privado, la sociedad civil y otros actores.
 
@@ -38,15 +38,15 @@ Para leer más sobre acciones regionales en Asia y África, e iniciativas bilate
 
 <sub> 9: Como es el caso de Rusia, que ha ordenando a los PSI bloquear páginas webs opositoras al gobierno de Putin, alegando que el contenido allí expuesto incita a la violencia y que se debe proteger el orden público. http://www.reuters.com/article/2014/03/13/us-russia-internet-idUSBREA2C21L20140313</sub>
 
-<sub> 10: <a href="http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12" target="_blank">"http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12"<a/>
+<sub> 10: <a href="http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12" target="_blank">http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12<a/sub>
 
-<sub> 11:<a href="http://www.jpost.com/Defense/Israel-and-Iran-wage-cyber-warfare-in-the-battlefield-of-the-future-354872" target="_blank">"http://www.jpost.com/Defense/Israel-and-Iran-wage-cyber-warfare-in-the-battlefield-of-the-future-354872"<a/> 
+<sub> 11:<a href="http://www.jpost.com/Defense/Israel-and-Iran-wage-cyber-warfare-in-the-battlefield-of-the-future-354872" target="_blank">http://www.jpost.com/Defense/Israel-and-Iran-wage-cyber-warfare-in-the-battlefield-of-the-future-354872<a/sub> 
 
-<sub> 12:<a href="http://www.computerworld.com/article/2532289/cybercrime-hacking/cyberattacks-knock-out-georgia-s-internet-presence.html" target="_blank">"http://www.computerworld.com/article/2532289/cybercrime-hacking/cyberattacks-knock-out-georgia-s-internet-presence.html"<a/> 
+<sub> 12:<a href="http://www.computerworld.com/article/2532289/cybercrime-hacking/cyberattacks-knock-out-georgia-s-internet-presence.html" target="_blank">http://www.computerworld.com/article/2532289/cybercrime-hacking/cyberattacks-knock-out-georgia-s-internet-presence.html<a/sub> 
 
 <sub> 13:Página 21 </sub>
 
-<sub> 14:<a href="http://jia.sipa.columbia.edu/online-articles/cyberspace-rise-brics/" target="_blank">"http://jia.sipa.columbia.edu/online-articles/cyberspace-rise-brics/"<a/> 
+<sub> 14:<a href="http://jia.sipa.columbia.edu/online-articles/cyberspace-rise-brics/" target="_blank">http://jia.sipa.columbia.edu/online-articles/cyberspace-rise-brics/<a/sub> 
 
 
 
