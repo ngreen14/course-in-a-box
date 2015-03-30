@@ -1,4 +1,7 @@
-title: ANTECEDENTES Página 4
+---
+title: ANTECEDENTES PÁGINA 4
+published: true
+---
 ###**Ciberseguridad y relaciones internacionales**
 
 Aunque las leyes y prácticas de los distintos estados contribuyen a abordar los problemas de ciberseguridad, estos tienen en verdad una envergadura transnacional. El ciberespacio está conformado por una serie de redes sin fronteras, y las amenazas a la ciberseguridad trascienden los límites militares, políticos y geográficos. Por eso mismo, la cooperación internacional en materia de ciberseguridad es uno de los ejes de trabajo de gobiernos, el sector privado, la sociedad civil y otros actores.
