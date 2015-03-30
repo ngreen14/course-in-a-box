@@ -17,7 +17,7 @@ Tarea 1: Utilizando la <a href="http://cyberdefinitions.newamerica.org/target="_
  <li>Ciberguerra
  <li>Ciberamenaza
  <li>Hacktivismo
- 
+
  Por favor, elabore lo anterior en un documento de Word y guárdelo en la carpeta asignada de Google Drive. 
  Revise las respuestas de sus compañeros en Google Drive y comente en el foro de debate.
 
