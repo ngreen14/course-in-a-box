@@ -1,0 +1,24 @@
+---
+title: ANTECEDENTES PÁGINA 6
+published: true
+---
+###**El rol de los actores interesados en materia de ciberseguridad**
+
+Tradicionalmente, ha correspondido a los gobiernos el rol principal de creación de políticas públicas y leyes que regulan y determinan las medidas de ciberseguridad a nivel interno, en ocasiones con colaboración de actores no gubernamentales, que por lo general son empresas privadas de ciberseguridad o relacionadas con la industria. Asimismo, los gobiernos están además preparados para lanzar ciberataques contra otros países, y son los únicos actores interesados a quienes se garantiza la posibilidad de opinar en la UIT y en otros organismos multilaterales internacionales. En el plano internacional, varios gobiernos (mencionados anteriormente) han reclamado un rol más preponderante por parte de los gobiernos y las organizaciones intergubernamentales en materia de ciberseguridad. 
+
+Las empresas del sector privado, como los PSI y empresas del sector de TI, son cruciales debido a que son ellas mismas las responsables de la creación y el mantenimiento de los distintos dispositivos tecnológicos  (computadoras, tabletas, celulares inteligentes, etc.), que constituyen los medios en los cuales se producen los riesgos de ciberseguridad. A menudo los gobiernos consultan a estas empresas al adoptar decisiones sobre políticas públicas, para asegurarse de que los estándares sobre ciberseguridad puedan ser aplicados a diversas tecnologías. Al mismo tiempo, la cantidad de empresas de ciberseguridad en el sector privado ha aumentado considerablemente en el tiempo, y con frecuencia se benefician de políticas públicas estrictas sobre ciberseguridad, ya que son las empresas las que comercializan los productos (como programas antivirus) para que tales políticas puedan ser ejecutadas. 
+
+Al igual que las empresas del sector privado, la comunidad técnica también cuenta con la suficiente comprensión y conocimientos técnicos de Internet, y suele ser consultada por los gobiernos al desarrollar políticas sobre ciberseguridad. La comunidad técnica, incluida la 
+<a href="https://www.ietf.org/" target="_blank">Internet Engineering Task Force</a>
+, también trabaja con independencia de gobiernos y de medidas de ciberseguridad con trasfondo político, para contribuir a garantizar la seguridad de infraestructura crítica de Internet<sub>17</sub>.
+
+Como en otras áreas de la gobernanza de Internet, el rol de la sociedad civil en la ciberseguridad ha comenzado a cobrar relevancia en los últimos años. Por un lado, las organizaciones de la sociedad civil han reclamado una mayor inclusión en los debates internacionales y encuentros nacionales de definición de políticas públicas, mientras que otros actores exigen que la sociedad civil genere su propia agenda positiva para la definición de políticas y normas de ciberseguridad. La sociedad civil tiene un rol único, ya que puede promover políticas de ciberseguridad desde una perspectiva que toma en cuenta los derechos humanos.
+En 2011, <a href="http://www.giswatch.org/sites/default/files/gisw_-_towards_a_cyber_security_strategy.pdf"target="_blank">CitizenLab</a>
+elaboró un informe donde se describe el rol que podría cumplir la sociedad civil con respecto a la ciberseguridad, y en 2013 la Asociación para el Progreso de las Comunicaciones estableció una
+<a href="http://www.apc.org/es/system/files/APCIssue_Cybersecurity_ES.pdf"target="_blank">agenda similar.</a>
+Ambos informes subrayaron la importancia de la sociedad civil por su capacidad de plantear consideraciones de derechos humanos en todos los debates relativos a ciberseguridad, y además la necesidad de que la sociedad civil exija que las decisiones y prácticas en este ámbito estén basadas en evidencias.En varios países la sociedad civil ya se ha comenzado a manifestar en este sentido. Un ejemplo de esto es Colombia, cuya sociedad civil, representada por organizaciones no gubernamentales y centros académicos,envió una carta formal en marzo de 2014 al presidente Juan Manuel Santos, expresando su preocupación por no pertenecer a la Comisión de Vigilancia, la cual se encarga de fijar los parámetros sobre política de ciberseguridad y ciberdefensa nacional de este país suramericano, y actualmente se encuentra integrada por agentes gubernamentales, expertos internacionales y  representantes del sector privado.<sub>18</sub>.
+
+
+<sub> 17:<a href="http://www.oecd.org/sti/ieconomy/cybersecurity%20policy%20making.pdf" target="_blank">Ver pág. 106 http://www.oecd.org/sti/ieconomy/cybersecurity%20policy%20making.pdf<a/sub>
+
+<sub> 18<a href="http://www.apc.org/es/system/files/APCIssue_Cybersecurity_ES.pdf" target="_blank">COLNODO.Reportes del Observatorio de la Sociedad de la Información en Colombia.Véase en:http://www.apc.org/es/system/files/APCIssue_Cybersecurity_ES.pdf<a/sub>
