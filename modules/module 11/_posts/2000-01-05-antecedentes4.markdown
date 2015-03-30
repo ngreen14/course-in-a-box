@@ -5,8 +5,7 @@ published: true
 ###**Ciberseguridad y foros tradicionales de gobernanza de Internet**
 
 ![]({{site.baseurl}}/img/Module 11/Module 11-3.jpg)
-*Imagen: proporcionada por usuario de Electronic Frontier Foundation, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>
-*
+*Imagen: proporcionada por usuario de Electronic Frontier Foundation, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>*
 
 Además de las convenciones y decisiones que ya se mencionaron, dentro del espectro de espacios tradicionales de gobernanza de Internet multilaterales y multidisciplinarios, el tema de la ciberseguridad ha cobrado progresivamente relevancia. Como lo hemos mencionado en otros módulos, en el verano de 2013, la comunidad de gobernanza de Internet se vio conmovida por las revelaciones de Edward Snowden sobre la vigilancia masiva ejercida por EE. UU. y el Reino Unido, y se intensificaron sustancialmente las presiones por una mayor cooperación y exposición en materia de ciberseguridad. Esto provocó que, meses después de las revelaciones, Brasil y Alemania promovieran una resolución en la ONU sobre “El Derecho a la Privacidad en la Era Digital”, la cual finalmente fue adoptada en 2014. En abril de 2014, Brasil auspició Netmundial, el Encuentro Global de Multiplicidad de Partes Interesadas sobre Gobernanza de Internet. 
 El <a href="https://netmundial.br/wp-content/uploads/2014/04/NETmundial-Multistakeholder-Document.pdf" target="_blank">documento final</a>
