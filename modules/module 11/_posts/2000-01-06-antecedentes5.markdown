@@ -4,7 +4,7 @@ title: ANTECEDENTES Página 6
 
 ###**Implicaciones de la ciberseguridad para los derechos humanos**
 
-![]({{site.baseurl}}/img//Module 11/Module 11-3.jpg)
+![]({{site.baseurl}}/img//Module 11/Module 11-4.jpg)
 
 *Imagen: proporcionada por usuario de Electronic Frontier Foundation, proporcionada bajo licencia <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>*
 
