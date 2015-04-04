@@ -14,7 +14,7 @@ En este mismo sentido, las definiciones de “seguridad de la información”, �
 
 <sub> 4: <a href=“http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security” target=“_blank>http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security</a></sub> 
 
-<sub> 5:<a href="http://www.itu.int/online/termite/index.html"target="_blank>http://www.itu.int/online/termite/index.html </a></sub>
+<sub> 5:<a href=“http://www.itu.int/online/termite/index.html” target=“_blank>http://www.itu.int/online/termite/index.html </a></sub>
 
 <sub> 6: Para el idioma Español, observe el equivalente en <a href=“http://www.fundeu.es/recomendacion/seguridad-en-internet-claves-de-redaccion”target=”_blank> las claves de redacción </a></sub> 
 
