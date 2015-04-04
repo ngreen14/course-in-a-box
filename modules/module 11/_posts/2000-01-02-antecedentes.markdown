@@ -13,6 +13,6 @@ Son varios los espacios donde se discuten los distintos temas vinculados con la 
 
 <sub> 1: El ciberespacio se puede entender como el dominio global dentro del marco del ambiente informático que consiste en redes de tecnología de la información interdependientes, sistemas de computadores, procesadores integrados y controladores, y que genera un espacio virtual donde circulan datos, contenidos e información. </sub>
 
-<sub> 2:<a href="http://www.pcmag.com/article2/0,2817,2425118,00.asp"target="_blank">http://www.pcmag.com/article2/0,2817,2425118,00.asp:<a/sub>
+<sub> 2:<a href="http://www.pcmag.com/article2/0,2817,2425118,00.asp"target="_blank">http://www.pcmag.com/article2/0,2817,2425118,00.asp<a/sub>
 
 <sub> 3:<a href="https://www.uhd.edu/computing/helpdesk/documents/virusfacts.pdf"target="_blank">https://www.uhd.edu/computing/helpdesk/documents/virusfacts.pdf<a/sub>
