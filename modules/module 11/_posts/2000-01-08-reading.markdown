@@ -8,7 +8,7 @@ published: true
 <a href=https://cdt.org/insight/unpacking-cybersecurity-threats-responses-and-human-rights-considerations/" target="_blank">https://cdt.org/insight/unpacking-cybersecurity-threats-responses-and-human-rights-considerations/</a>.
 
 <li>Gelbstein, Eduardo.*What We (May Not) Know We (Do Not) Know: An Overview of the cybersecurity Challenge*. Geneva Internet Platform, 2013:
-<a href=http://giplatform.org/sites/default/files/GIP%20Background%20document%20-%20An%20overview%20of%20the%20cybersecurity%20challenge.pdf."target="_blank">http://giplatform.org/sites/default/files/GIP%20Background%20document%20-%20An%20overview%20of%20the%20cybersecurity%20challenge.pdf./</a>
+<a href="http://giplatform.org/sites/default/files/GIP%20Background%20document%20-%20An%20overview%20of%20the%20cybersecurity%20challenge.pdf"target="_blank">http://giplatform.org/sites/default/files/GIP%20Background%20document%20-%20An%20overview%20of%20the%20cybersecurity%20challenge.pdf./</a>
 
 <li>Hawtin, Dixie y Anja Kovacs. *Cybersecurity, Cyber Surveillance, and Online Human Rights, Global Partners Digital.* 
 <a href=http://www.gp-digital.org/wp-content/uploads/pubs/Cyber-Security-Cyber-Surveillance-and-Online-Human-Rights-Kovacs-Hawtin.pdf"target="_blank">http://www.gp-digital.org/wp-content/uploads/pubs/Cyber-Security-Cyber-Surveillance-and-Online-Human-Rights-Kovacs-Hawtin.pdf</a>.
