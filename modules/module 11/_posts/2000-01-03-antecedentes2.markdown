@@ -48,4 +48,4 @@ Tal vez uno de los episodios más emblemáticos en lo relacionado a la seguridad
 
 <sub> 7:<a href="http://www.symantec.com/content/es/mx/enterprise/other_resources/b-cyber-security-trends-report-lamc.pdf" target="_blank">http://www.symantec.com/content/es/mx/enterprise/other_resources/b-cyber-security-trends-report-lamc.pdf<a/sub
 
-<sub> 8:<a href="http://www.iar-gwu.org/node/65<a/sub"target="_blank">http://www.iar-gwu.org/node/65
+<sub> 8:<a href="http://www.iar-gwu.org/node/65" target="_blank">http://www.iar-gwu.org/node/65</a></sub>
