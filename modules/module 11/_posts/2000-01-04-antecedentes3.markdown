@@ -39,7 +39,8 @@ En el caso de los BRIC, ya se mantienen conversaciones sobre cooperación hace m
 Para leer más sobre acciones regionales en Asia y África, e iniciativas bilaterales a nivel global sobre ciberseguridad, se recomienda leer las páginas 15 a 25 de
 <a href="http://f.cl.ly/items/0t073Y3i3P0v2o2x0q39/Baseline%20Review%202014%20ICT%20Processes%20colprint.pdf"target="_blank">“Baseline Review of ICT-Related Processes and Events”.</a>
 
-<sub> 9: Como es el caso de Rusia, que ha ordenando a los PSI bloquear páginas webs opositoras al gobierno de Putin, alegando que el contenido allí expuesto incita a la violencia y que se debe proteger el orden público. http://www.reuters.com/article/2014/03/13/us-russia-internet-idUSBREA2C21L20140313</sub>
+<sub> 9: Como es el caso de Rusia, que ha ordenando a los PSI bloquear páginas webs opositoras al gobierno de Putin, alegando que el contenido allí expuesto incita a la violencia y que se debe proteger el orden público. 
+<a href="http://www.reuters.com/article/2014/03/13/us-russia-internet-idUSBREA2C21L20140313" target="_blank">http://www.reuters.com/article/2014/03/13/us-russia-internet-idUSBREA2C21L20140313</sub>
 
 <sub> 10: <a href="http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12" target="_blank">http://www.businessinsider.com/iran-is-officially-a-real-player-in-the-cyber-war-2014-12<a/sub>
 
