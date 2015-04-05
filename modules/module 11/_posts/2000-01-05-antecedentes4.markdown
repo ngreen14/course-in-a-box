@@ -41,7 +41,7 @@ como la coalición de derechos digitales Best Bits, impulsaron activamente <a hr
 para impedir un incremento del rol de la UIT en materia de ciberseguridad y el desarrollo de un tratado internacional sobre el tema. El rol de la UIT en ciberseguridad es a menudo cuestionado por gobiernos y miembros de la sociedad civil debido a diversos motivos, incluida la falta de experiencia técnica en el seno de la UIT, el lenguaje poco preciso de las propuestas de tratados sobre ciberseguridad, la cantidad de organismos alternativos de la ONU y foros (multisectoriales y multilaterales) que podrían abordar la ciberseguridad, y la falta de transparencia y oportunidades de participación, especialmente para la sociedad civil. Otros aseguran que el rol de la UIT en términos de ciberseguridad se limita a la dimensión multilateral, pues se reflejan los problemas y ataques relativos al ciberespacio que persisten entre países, incluidos los de Estados Unidos y Rusia.
 
 
-<sub> 15: <a href="https://www.gov.uk/government/news/london-conference-on-cyberspace-chairs-statemen" target="_blank">http://www.gov.uk/government/news/london-conference-on-cyberspace-chairs-statemen:<a/sub>
+<sub> 15: <a href="https://www.gov.uk/government/news/london-conference-on-cyberspace-chairs-statement" target="_blank">http://www.gov.uk/government/news/london-conference-on-cyberspace-chairs-statement<a/sub>
 
-<sub> 16:<a href="http://f.cl.ly/items/0t073Y3i3P0v2o2x0q39/Baseline%20Review%202014%20ICT%20Processes%20colprint.pdf" target="_blank">http://f.cl.ly/items/0t073Y3i3P0v2o2x0q39/Baseline%20Review%202014%20ICT%20Processes%20colprint.pdf:<a/sub>
+<sub> 16:<a href="http://f.cl.ly/items/0t073Y3i3P0v2o2x0q39/Baseline%20Review%202014%20ICT%20Processes%20colprint.pdf" target="_blank">http://f.cl.ly/items/0t073Y3i3P0v2o2x0q39/Baseline%20Review%202014%20ICT%20Processes%20colprint.pdf<a/sub>
 
