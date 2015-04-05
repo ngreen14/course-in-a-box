@@ -12,11 +12,11 @@ De acuerdo con la Unión Europea, ciberseguridad se define como “salvaguardas 
 
 En este mismo sentido, las definiciones de “seguridad de la información”, “ciberguerra”, “cibervigilancia” y muchas otras no han sido acordadas a través de un órgano internacional mediante un acuerdo vinculante, o emitiendo un documento que determine ciertos estándares. Eso implica que estos términos son utilizados por distintos actores de diferentes maneras, lo cual añade mayor complejidad a las discusiones sobre política y facilita que algunos gobiernos vulneren derechos fundamentales y lo justifiquen en nombre de una supuesta amenaza a la “ciberseguridad” que no está claramente definida. Sin embargo, algunos se han esforzado por estandarizar estos términos, como por ejemplo el gobierno suizo, que en el año 2014 financió un proyecto destinado a consolidar definiciones relativas a ciberseguridad a través de la Base de datos Global de Definiciones sobre el Ciberespacio. Ese proyecto incluye una compilación de numerosas definiciones de distintos actores y organizaciones, y trae definiciones de palabras como: seguridad de Internet, seguridad de la información, infraestructura crítica, ciberespacio, ciberdelito, ciberguerra, ciberamenaza y hacktivismo, entre otras .
 
-<sub> 4:<a href="http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security" target="_blank">http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security<a/sub> 
+<sub> 4:<a href="http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security" target="_blank">http://ec.europa.eu/digital-agenda/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security</a></sub> 
 
-<sub> 5:<a href="http://www.itu.int/online/termite/index.html" target="_blank">http://www.itu.int/online/termite/index.html<a/sub>
+<sub> 5:<a href="http://www.itu.int/online/termite/index.html" target="_blank">http://www.itu.int/online/termite/index.html</a></sub>
 
-<sub> 6:<a href="http://www.fundeu.es/recomendacion/seguridad-en-internet-claves-de-redaccion/" target=_"blank">Para el idioma Español, observe el equivalente en las claves de redacción<a/sub> 
+<sub> 6:<a href="http://www.fundeu.es/recomendacion/seguridad-en-internet-claves-de-redaccion/" target=_"blank">Para el idioma Español, observe el equivalente en las claves de redacción</a></sub> 
 
 
 
