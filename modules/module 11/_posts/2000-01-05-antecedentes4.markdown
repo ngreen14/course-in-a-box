@@ -16,9 +16,9 @@ Por otro lado, tras los eventos globales de la Cumbre Mundial sobre la Sociedad 
 Además, en 2007, la UIT adoptó una <a href="http://www.itu.int/en/action/cybersecurity/Pages/gca.aspx" target="_blank">Agenda sobre Ciberseguridad Global</a>
 que ofrece un marco general para la interacción internacional entre Estados Miembros en temas de ciberseguridad. Cuatro de las resoluciones de la UIT (las resoluciones 
 <a href="https://www.itu.int/osg/csd/cybersecurity/WSIS/RESOLUTION_130.pdf" target="_blank">130</a>,
-<a href="https:<a href=/www.itu.int/en/action/internet/Pages/default.aspx" target="_blank">174</a>,
-<a href="https://www.itu.int/en/action/internet/Pages/default.aspx" target="_blank">179</a> y
-<a href="https://www.itu.int/en/action/internet/Pages/default.aspx" target="_blank">181</a>)
+<a href="http://www.itu.int/en/action/internet/Documents/Resolution_174_pp14.pdf" target="_blank">174</a>,
+<a href="http://www.itu.int/en/action/internet/Documents/Resolution_179_pp14.pdf"_blank">179</a> y
+<a href="http://www.itu.int/en/action/internet/Pages/resolutions.aspx" target="_blank">181</a>)
 tratan sobre ciberseguridad, y de cara a la conferencia de plenipotenciarios de la UIT de 2014 en Busán, Corea del Sur, las delegaciones de varios países —entre ellos Rusia y los Estados Árabes— propusieron modificaciones a las resoluciones destinadas a expandir el rol de la UIT en materia de ciberseguridad. 
 
 Durante el Foro de Gobernanza de Internet (FGI), que congrega anualmente a múltiples actores interesados con el auspicio de la ONU, una cantidad cada vez mayor de talleres y debates se han centrado en temas de ciberseguridad. Sin embargo, debido a que la naturaleza del foro es no vinculante y además no exige resultados en concreto, no se adoptaron posiciones ni declaraciones sobre ciberseguridad hasta el último IGF de 2014. 
