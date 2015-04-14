@@ -34,6 +34,10 @@ sin embargo, como la mayoría de las estrategias sobre ciberseguridad, se enfoca
 
 “En su Estrategia de Defensa Nacional de 2008, el gobierno de Brasil introdujo pautas orientadas a reorganizar a las fuerzas armadas y adaptar la industria de defensa a fin de asegurar que se proveyeran a nivel interno las tecnologías que resultan necesarias para la Marina, el Ejército y la Fuerza Aérea, y se identificó a la ‘cibernética’ como un sector estratégico para la defensa nacional, además de establecer un Centro de Comunicaciones de Guerra Electrónica. Las Fuerzas Armadas de Argentina han desarrollado una ‘doctrina militar conjunta para las comunicaciones y la guerra electrónica’, y desde 2009 Colombia ha promovido la formulación de una ‘doctrina conjunta aplicable a operativos militares y policiales [defensivos y ofensivos] en el ciberespacio’. Sin embargo, ni la OEA ni ninguno de los grupos subregionales en América Latina y el Caribe parecen haber desarrollado un discurso estratégico unificado en materia de defensa común contra riesgos de ciberseguridad, lo que refleja la presencia de problemas más acuciantes en la región y, tal vez, una menor influencia de EE. UU. en la definición de resultados”.
 
+
+*Observe el siguiente video, a próposito de la militarización del ciberespacio: 
+<div align=“center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/M1FxA1o0pn8" frameborder="0" allowfullscreen></iframe></div>
+
 En el caso de los BRIC, ya se mantienen conversaciones sobre cooperación hace más de 5 años, y desde 2013 eses países acordaron compartir mejores prácticas, desarrollar acciones educativas, y compartir información e inteligencia, además de formar un grupo de trabajo permanente sobre ciberseguridad<sub>14</sub>. 
 
 Para leer más sobre acciones regionales en Asia y África, e iniciativas bilaterales a nivel global sobre ciberseguridad, se recomienda leer las páginas 15 a 25 de
