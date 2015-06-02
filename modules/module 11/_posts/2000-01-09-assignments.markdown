@@ -18,7 +18,8 @@ Tarea 1: Utilizando la <a href="http://cyberdefinitions.newamerica.org/" target=
  <li>Ciberamenaza
  <li>Hacktivismo
 
- Por favor, elabore lo anterior en un documento de Word y guárdelo en la carpeta asignada de Google Drive. 
- Revise las respuestas de sus compañeros en Google Drive y comente en el foro de debate.
-
-Tarea 2: Investigue sobre leyes, políticas e iniciativas de su país (u otro país limítrofe) vinculadas con ciberseguridad. ¿Cuántas se concentran principalmente en el ciberdelito? ¿Qué aspectos de ciberseguridad se indican como los más acuciantes para su país? ¿Hay alguna mención con respecto al modo en que las leyes, políticas, estrategias y/o iniciativas contribuirán a proteger derechos, como el derecho a la privacidad? ¿Qué grado de apertura a la sociedad civil y el público tuvo el proceso de formulación de estrategias?Incluya sus comentarios en la página de debate correspondiente.
+Por favor, elabore lo anterior en un documento de Word y guárdelo en 
+<a href="https://drive.google.com/folderview?id=0BwHOpDi7VlbbY0ZTLUhGWHUxczQ&usp=drive_web" target="_blank">la carpeta asignada de Google Drive </a>. Revise las respuestas de sus compañeros en Google Drive y 
+<a href="https://discourse.p2pu.org/t/modulo-11-actividad-1/640" target="_blank"> comente en el foro de debate </a>.
+ 
+Tarea 2: Investigue sobre leyes, políticas e iniciativas de su país (u otro país limítrofe) vinculadas con ciberseguridad. ¿Cuántas se concentran principalmente en el ciberdelito? ¿Qué aspectos de ciberseguridad se indican como los más acuciantes para su país? ¿Hay alguna mención con respecto al modo en que las leyes, políticas, estrategias y/o iniciativas contribuirán a proteger derechos, como el derecho a la privacidad? ¿Qué grado de apertura a la sociedad civil y el público tuvo el proceso de formulación de estrategias? Incluya sus comentarios en  <a href="https://discourse.p2pu.org/t/modulo-11-actividad-2/641" target="_blank"> la página de debate correspondiente </a>.
