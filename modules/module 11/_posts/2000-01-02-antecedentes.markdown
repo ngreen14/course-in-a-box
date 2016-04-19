@@ -12,7 +12,7 @@ En la práctica, las expresiones más comunes sobre ciberseguridad incluyen leye
 Son varios los espacios donde se discuten los distintos temas vinculados con la ciberseguridad. Pero, ¿a qué nos referimos cuando utilizamos el término ciberseguridad o seguridad cibernética? ¿En qué consiste? Como advertirá en breve, son muchas las definiciones y los términos que utilizan las empresas de ciberseguridad, gobiernos, organizaciones internacionales, activistas de derechos humanos y otros actores. Estas definiciones, a pesar de que varían en apenas unas pocas palabras, son utilizadas para fines muy distintos.
 
 *Observe el video  de New America Foundation en donde el experto en ciberseguridad Bruce Schneier, nos plantea varios cuestionamientos sobre los retos que implica un ciberespacio seguro: 
-{% raw %}<div align=“center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/8UbImuwXfL4" frameborder="0" allowfullscreen></iframe></div>{% endraw %}
+<div align=“center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/8UbImuwXfL4" frameborder="0" allowfullscreen></iframe></div>
 
 <sub> 1: El ciberespacio se puede entender como el dominio global dentro del marco del ambiente informático que consiste en redes de tecnología de la información interdependientes, sistemas de computadores, procesadores integrados y controladores, y que genera un espacio virtual donde circulan datos, contenidos e información. </sub>
 
