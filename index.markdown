@@ -24,6 +24,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 </ul>
 
 ## Cómo Usar este Curso?
+<ul>
 
 Los materiales del curso deben usarse como base para el curso dirigido a distancia, en el cual el capacitador/tutor estará disponible para ayudar con las tareas asignadas y las dudas que puedan tener los participantes, aunque estos deberán completar las tareas y lecturas en forma remota. El curso exige aproximadamente de dos a cinco horas de estudio por módulo, tanto en la modalidad dirigida por un capacitador, como en la de autoaprendizaje. El curso se dicta en español (pero por favor tenga en cuenta que muchas de las lecturas optativas de referencia asignadas están en inglés). Las tareas deberán ser realizadas al final de cada módulo y enviadas al capacitador/tutor al siguiente correo: opencourse@publicknowldge.org. 
 
@@ -32,9 +33,10 @@ Para cada módulo, se presenta un título, una lista de objetivos, los anteceden
 Cada semana, el capacitador/tutor plateará un tema para discusión en el foro online de la plataforma del curso. Los participantes deberán en este esta espacio expresar sus opiniones y, según el caso, ejemplos concretos de sus actividades o de lo que ocurrió en sus países o áreas de trabajo. En este , los participantes también podrán sugerir temas de debate o pedir ayuda de otros participantes (sus colegas o peers en inglés) para poder comprender mejor el contenido de los módulos o para  resolver dudas sobre cómo realizar una tarea. 
 
 El capacitador también comunicará oportunidades en las cuales los participantes podrán interactuar con expertos de algunas de las áreas cubiertas en los módulos, ya sea por email o en un AMA del Reddit. 
-
+</ul>
 
 ## Consejo Directivo, Convenios y Créditos
+<ul>
 
 Los miembros del Consejo Directivo participaron como asesores durante el desarrollo de este curso, y esto incluyó colaborar desde el origen mismo del proceso, aportar comentarios sobre el programa de la capacitación, elaborar contenidos originales y difundir el curso. Los miembros del Consejo Directivo son:
 <ul><li>Kevin Bankston: Director de Políticas del Open Technology Institute at New America Foundation (Estados Unidos)
@@ -52,8 +54,9 @@ Los miembros del Consejo Directivo participaron como asesores durante el desarro
 <li>John Wilbanks: Chief Commons Officer en Sage Bionetworks
 </ul>
 
+<ul>
 <b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
-
+</ul>
 
 ##Ya me seleccionaron para participar en el curso. ¿Qué hago ahora para iniciar? 
 ¡Debido a la alta demanda, la inscripción al curso se ha cerrado, pero si quiere comenzar el curso a su propio ritmo, por favor haga click [acá]({{site.baseurl}}/modules/syllabus/syllabus) para revisar el programa del curso e iniciar!
