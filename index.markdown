@@ -23,7 +23,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.
 </ul>
 
-## Cómo Usar este Curso?
+<h2 id="cómo-usar-este-curso?">Cómo Usar este Curso?</h2>
 <ul>
 
 Los materiales del curso deben usarse como base para el curso dirigido a distancia, en el cual el capacitador/tutor estará disponible para ayudar con las tareas asignadas y las dudas que puedan tener los participantes, aunque estos deberán completar las tareas y lecturas en forma remota. El curso exige aproximadamente de dos a cinco horas de estudio por módulo, tanto en la modalidad dirigida por un capacitador, como en la de autoaprendizaje. El curso se dicta en español (pero por favor tenga en cuenta que muchas de las lecturas optativas de referencia asignadas están en inglés). Las tareas deberán ser realizadas al final de cada módulo y enviadas al capacitador/tutor al siguiente correo: opencourse@publicknowldge.org. 
