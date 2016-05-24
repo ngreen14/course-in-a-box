@@ -29,7 +29,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 
 <p>Para cada módulo, se presenta un título, una lista de objetivos, los antecedentes del contenido original, los materiales de lectura obligatoria y optativa, los materiales de lectura sugeridos por los participantes y las tareas. En el caso de materiales de lectura sugeridos por participantes, si desean proponer textos relevantes en inglés o español,  podrán añadirlos al foro de debate del curso bajo el tema “Materiales de lectura sugeridos por los participantes”  indicando el número de módulo correspondiente.</p>
 
-<p>Cada semana, el capacitador/tutor plateará un tema para discusión en el foro online de la plataforma del curso. Los participantes deberán en este esta espacio expresar sus opiniones y, según el caso, ejemplos concretos de sus actividades o de lo que ocurrió en sus países o áreas de trabajo. En este , los participantes también podrán sugerir temas de debate o pedir ayuda de otros participantes (sus colegas o peers en inglés) para poder comprender mejor el contenido de los módulos o para  resolver dudas sobre cómo realizar una tarea.</p> 
+<p>Cada semana, el capacitador/tutor plateará un tema para discusión en el foro online de la plataforma del curso. Los participantes deberán en este esta espacio expresar sus opiniones y, según el caso, ejemplos concretos de sus actividades o de lo que ocurrió en sus países o áreas de trabajo. En este, los participantes también podrán sugerir temas de debate o pedir ayuda de otros participantes (sus colegas o peers en inglés) para poder comprender mejor el contenido de los módulos o para  resolver dudas sobre cómo realizar una tarea.</p> 
 
 <p>El capacitador también comunicará oportunidades en las cuales los participantes podrán interactuar con expertos de algunas de las áreas cubiertas en los módulos, ya sea por email o en un AMA del Reddit.</p> 
 
@@ -53,9 +53,6 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 
 <p><b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
 </p>
-
-<h2 id="Ya-me-seleccionaron-para-participar-en-el-curso.-¿Qué-hago-ahora-para-iniciar?">Ya me seleccionaron para participar en el curso. ¿Qué hago ahora para iniciar?</h2>
-<p>¡Debido a la alta demanda, la inscripción al curso se ha cerrado, pero si quiere comenzar el curso a su propio ritmo, por favor haga click [acá]({{site.baseurl}}/modules/syllabus/syllabus) para revisar el programa del curso e iniciar!</p>
 
 <div align="center"> <a class="btn btn-danger btn-lg"
 			   href="http://open-internet-p2pcourse.org/modules/syllabus/syllabus/">
