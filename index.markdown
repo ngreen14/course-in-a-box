@@ -51,7 +51,7 @@ Los miembros del Consejo Directivo participaron como asesores durante el desarro
 <li>Ginger Paque: Coordinadora de Programas del Programa de Desarrollo de Capacidades para la Gobernanza de Internet de DiploFoundation (Estados Unidos/Venezuela)
 <li>Philipp Schmidt: Director Ejecutivo de Peer 2 Peer University (P2PU) y Director's Fellow en MIT Media Lab (Estados Unidos)
 <li>Danny Weitzner: Director del Grupo de Información Descentralizada de MIT CSAIL (Estados Unidos)
-<li>John Wilbanks: Chief Commons Officer en Sage Bionetworks
+<li>John Wilbanks: Chief Commons Officer en Sage Bionetworks (Estados Unidos)
 </ul>
 
 <ul>
