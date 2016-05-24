@@ -36,7 +36,8 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <h2 id="consejo-directivo,-convenios-y-créditos">Consejo Directivo, Convenios y Créditos</h2>
 
 <p>Los miembros del Consejo Directivo participaron como asesores durante el desarrollo de este curso, y esto incluyó colaborar desde el origen mismo del proceso, aportar comentarios sobre el programa de la capacitación, elaborar contenidos originales y difundir el curso. Los miembros del Consejo Directivo son:</p>
-<p><ul><li><b>Kevin Bankston</b>: Director de Políticas del Open Technology Institute at New America Foundation (Estados Unidos)
+<ul>
+<li>Kevin Bankston: Director de Políticas del Open Technology Institute at New America Foundation (Estados Unidos)
 <li>Eduardo Bertoni: Director del Centro de Estudios en Libertad de Expresión y Acceso a la Información (CELE) en la Facultad de Derecho de la Universidad de Palermo (Argentina)
 <li>Olga Cavalli: Directora de la Escuela del Sur de Gobernanza de Internet (Argentina)
 <li>Alberto Cerda: Profesor Titular de Derecho y Tecnología de la Facultad de Derecho de la Universidad de Chile (Chile)
@@ -49,7 +50,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <li>Philipp Schmidt: Director Ejecutivo de Peer 2 Peer University (P2PU) y Director's Fellow en MIT Media Lab (Estados Unidos)
 <li>Danny Weitzner: Director del Grupo de Información Descentralizada de MIT CSAIL (Estados Unidos)
 <li>John Wilbanks: Chief Commons Officer en Sage Bionetworks (Estados Unidos)
-</ul></p>
+</ul>
 
 <p><b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
 </p>
