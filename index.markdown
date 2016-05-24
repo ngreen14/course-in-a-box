@@ -20,7 +20,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <li>Capacitar a una nueva generación de pensadores para que influyan en la agenda sobre Internet Libre y Abierto, aplicando las habilidades desarrolladas por organizaciones globales de promoción y defensa de  derechos humanos;
 <li>Afianzar la capacidad de los participantes a la hora de utilizar métodos de planificación estratégica para la formulación de campañas de promoción y defensa;
 <li>Incrementar la comprensión básica de los participantes sobre temas actuales clave vinculados con el Internet Libre y Abierto;
-<li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.
+<li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.</li>
 </ul>
 
 <h2 id="cómo-usar-este-curso?">Cómo Usar este Curso?</h2>
@@ -37,6 +37,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 
 <p>Los miembros del Consejo Directivo participaron como asesores durante el desarrollo de este curso, y esto incluyó colaborar desde el origen mismo del proceso, aportar comentarios sobre el programa de la capacitación, elaborar contenidos originales y difundir el curso. Los miembros del Consejo Directivo son:</p>
 <ul>
+
 <li>Kevin Bankston: Director de Políticas del Open Technology Institute at New America Foundation (Estados Unidos)
 <li>Eduardo Bertoni: Director del Centro de Estudios en Libertad de Expresión y Acceso a la Información (CELE) en la Facultad de Derecho de la Universidad de Palermo (Argentina)
 <li>Olga Cavalli: Directora de la Escuela del Sur de Gobernanza de Internet (Argentina)
