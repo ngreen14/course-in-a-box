@@ -47,7 +47,9 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <li>Ginger Paque: Coordinadora de Programas del Programa de Desarrollo de Capacidades para la Gobernanza de Internet de DiploFoundation (Estados Unidos/Venezuela)
 <li>Philipp Schmidt: Director Ejecutivo de Peer 2 Peer University (P2PU) y Director's Fellow en MIT Media Lab (Estados Unidos)
 <li>Danny Weitzner: Director del Grupo de Información Descentralizada de MIT CSAIL (Estados Unidos)
-<li>John Wilbanks: Chief Commons Officer en Sage Bionetworks (Estados Unidos)</li></p>
+<li>John Wilbanks: Chief Commons Officer en Sage Bionetworks (Estados Unidos)</li>
+
+<br>
 
 <p><b>Autores</b>: El programa del curso y la organización y desarrollo  de todos los contenidos originales de cada módulo estuvieron a cargo de Natalie Green y Carolina Rossini. Edyael Casaperalta es la co-autora del Módulo 7. El curso se ha sido traducido del inglés al español por Gabriela Haymes y revisado por Ana María Acosta. Para obtener mayor información sobre este curso y su preparación, consulte el <a href="https://www.publicknowledge.org/open-internet-course/" target="_blank">sitio web</a> de Public Knowledge. 
 </p>
