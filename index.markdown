@@ -20,7 +20,7 @@ El primer módulo de este curso, el Módulo 0, ofrecerá una introducción al co
 <li>Capacitar a una nueva generación de pensadores para que influyan en la agenda sobre Internet Libre y Abierto, aplicando las habilidades desarrolladas por organizaciones globales de promoción y defensa de  derechos humanos;
 <li>Afianzar la capacidad de los participantes a la hora de utilizar métodos de planificación estratégica para la formulación de campañas de promoción y defensa;
 <li>Incrementar la comprensión básica de los participantes sobre temas actuales clave vinculados con el Internet Libre y Abierto;
-<li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.</li>
+<li>Brindar una serie de recursos externos sobre la mayoría de los temas abordados, a fin de que los participantes puedan profundizar y ampliar su comprensión de los temas que más les interesen.</ul></li>
 
 <h2 id="cómo-usar-este-curso?">Cómo Usar este Curso?</h2>
 
